@@ -34,16 +34,16 @@ CREATE TABLE stops  (stop_id VARCHAR(10),
                     stop_lat NUMERIC(8,6),
                     stop_lon NUMERIC(8,6),
                     stop_code VARCHAR(10),
-                    location_type INT,
+                    location_type numeric(2,1),
                     parent_station VARCHAR(10),
-                    wheelchair_boarding INT,
-                    stop_direction BIGINT,
+                    wheelchair_boarding numeric(2,1),
+                    stop_direction numeric(4,1),
                     PRIMARY KEY (stop_id),
                     FOREIGN KEY  (parent_station) REFERENCES stops(stop_id),
                     FOREIGN KEY  (stop_code) REFERENCES stops(stop_id));
 
 COPY stops(stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,parent_station,wheelchair_boarding,stop_direction)
-FROM 'stops.txt'
+FROM 'stops.csv'
 DELIMITER ','
 CSV HEADER;
 

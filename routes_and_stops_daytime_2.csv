@@ -1,0 +1,7619 @@
+route_id,stop_name
+0050,Stefánia út / Thököly út
+0050,Március 15. tér
+0050,Miskolci utca
+0050,Mikó utca
+0050,Keleti pályaudvar
+0050,Harangvirág utca
+0050,Szerencs utca
+0050,Huszár utca
+0050,Fűrész utca
+0050,Öv utca
+0050,Nyúl utca
+0050,Wesselényi utca
+0050,Laky Adolf utca
+0050,Szent Korona útja
+0050,Dózsa György tér
+0050,Széll Kálmán tér
+0050,Virág árok
+0050,Széchenyi út
+0050,"Erzsébet királyné útja, aluljáró"
+0050,Zugló vasútállomás
+0050,Ferenciek tere
+0050,Rákospatak utca
+0050,Astoria
+0050,Rákos úti szakrendelő
+0050,"Kossuth utca, lakótelep"
+0050,Gábor Áron utca / Pasaréti út
+0050,Alagút utca
+0050,Korlát utca
+0050,Cházár András utca
+0050,Városmajor
+0050,Illyés Gyula utca
+0050,Júlia utca
+0050,Döbrentei tér
+0050,Szarvas tér
+0050,Reiner Frigyes park
+0050,Pasaréti tér
+0050,Juhos utca
+0050,"Rákospalota, Kossuth utca"
+0050,Nagy Lajos király útja / Czobor utca
+0050,Tóth István utca
+0050,Vág utca
+0050,Vasas sportpálya
+0050,Korong utca
+0050,Epres sor
+0050,Opál utca
+0050,Uránia
+0050,Körmöci utca
+0050,Blaha Lujza tér
+0070,Puskás Tivadar utca
+0070,Rudas Gyógyfürdő
+0070,Bornemissza tér
+0070,Bosnyák tér
+0070,Huszár utca
+0070,Szent Gellért tér -űegyetem
+0070,Csurgói út
+0070,Ferenciek tere
+0070,Móricz Zsigmond körtér
+0070,Reiner Frigyes park
+0070,Cházár András utca
+0070,Madách utca
+0070,Apolló utca
+0070,Nyírbátor utca
+0070,Fonyód utca / Sáfrány utca
+0070,Szent Imre Kórház
+0070,Karolina út
+0070,Rákospatak utca / Csömöri út
+0070,Stefánia út / Thököly út
+0070,Keleti pályaudvar
+0070,Zugló vasútállomás
+0070,"Újpalota, Nyírpalota út"
+0070,Albertfalva vasútállomás
+0070,Cinkotai út
+0070,Bikás park
+0070,Tisza István tér
+0070,Astoria
+0070,Blaha Lujza tér
+0070,Kosztolányi Dezső tér
+0070,Március 15. tér
+0070,Gárdonyi tér
+0070,Miskolci utca / Csömöri út
+0070,Vásárcsarnok
+0070,Amerikai út
+0070,Herend utca
+0070,Andor utca / Tétényi út
+0070,Fő tér
+0070,Uránia
+0070,Molnár Viktor utca
+0070,Tétényi út 30.
+0075,Molnár Viktor utca
+0075,Blaha Lujza tér
+0075,Zugló vasútállomás
+0075,Keleti pályaudvar
+0075,Vásárcsarnok
+0075,"Újpalota, Nyírpalota út"
+0075,Fő tér
+0075,Bosnyák tér
+0078,Injekcióüzem
+0078,Zsókavár utca
+0078,Hunyadvár utca
+0078,EGIS Gyógyszergyár
+0078,Szent Korona utca
+0078,Sasvár utca
+0078,Rákospalotai határút
+0078,Mátyásföldi tér
+0078,Vásárcsarnok
+0078,Margit utca
+0078,"Újpalota, Nyírpalota út"
+0078,Erdőkerülő utca 28.
+0078,Ida utca
+0078,"Mátyásföld, Imre utca"
+0078,Újszász utca
+0078,Gusztáv utca
+0078,Zsemlékes út
+0078,Cinkotai autóbuszgarázs
+0078,Baross utca
+0078,Veres Péter út
+0078,Erdőkerülő utca
+0078,Gida utca
+0078,Petőfi tér
+0078,"Rákosszentmihály, Csömöri út"
+0078,Szentmihályi út
+0078,György utca
+0078,Fő tér
+0078,Mátyás király utca 71.
+0085,"Újpalota, Nyírpalota út"
+0085,Eper utca
+0085,Süveg utca
+0085,Mészáros utca
+0085,Sasadi út
+0085,Cinkotai út
+0085,Sion lépcső
+0085,Kaptárkő utca
+0085,Frankhegy utca
+0085,Tisza István tér
+0085,Gazdagréti tér
+0085,Kelenföld vasútállomás
+0085,Irhás árok
+0085,Március 15. tér
+0085,Farkasréti temető
+0085,Zugló vasútállomás
+0085,Keleti pályaudvar
+0085,Telekes utca
+0085,Oltvány köz
+0085,Fő tér
+0085,Apolló utca
+0085,Nagyszeben út
+0085,Zólyomi út
+0085,Sánc utca
+0085,Vásárcsarnok
+0085,Gazdagréti út
+0085,Molnár Viktor utca
+0085,Korompai utca
+0085,Astoria
+0085,Márton Áron tér
+0085,Döbrentei tér
+0085,Regős köz
+0085,Hegytető utca
+0085,Bosnyák tér
+0085,Breznó lépcső
+0085,Uránia
+0085,Blaha Lujza tér
+0085,Jégvirág utca
+0085,BAH-csomópont
+0085,Ferenciek tere
+0085,Szent Pio atya tér
+0085,Nagyszeben tér
+0090,Arany János utca
+0090,Nagyszombat utca
+0090,Jászaiari tér
+0090,"Óbuda, Bogdáni út"
+0090,Kiscelli utca
+0090,Muzsikus cigányok parkja
+0090,Szent István Bazilika
+0090,Kőbányai út / Könyves Kálmán körút
+0090,Flórián tér
+0090,Tímár utca
+0090,Kőbányai út 31.
+0090,Astoria
+0090,Báthory utca / Bajcsy-Zsilinszky út
+0090,Galagonya utca
+0090,Szent László tér
+0090,Kőbánya alsó vasútállomás (Mázsa tér)
+0090,Orczy tér
+0090,Kőbánya alsó vasútállomás
+0090,"Margit híd, budai hídfő"
+0090,Eiffelűhelyház
+0090,Nyugati pályaudvar
+0090,Bogdáni út
+0090,Kolosy tér
+0090,Egészségház
+0090,Császár-Komjádi uszoda
+0090,Zsigmond tér
+0090,Szentkirályi utca
+0090,Raktár utca
+0090,Liget tér
+0090,Kálvin tér
+0090,Deák Ferenc tér
+0090,Horváthihály tér
+0090,Kálvária tér
+0090,Harminckettesek tere
+0100,Albertirsai köz
+0100,II. kapu
+0100,Örs vezér tere
+0100,Kőbánya felső vasútállomás
+0100,Pillangó utca
+0100,Expó tér
+0100,"Vásárközpont, főbejárat"
+0100,IV. kapu
+0100,III. kapu
+0100,Kerepesi út
+0110,Tömörkény utca
+0110,Pusztaszeri körönd
+0110,Vend utca
+0110,Mechwart liget
+0110,Ady Endre utca
+0110,Füge utca
+0110,Móricz Zsigmond Gimnázium
+0110,Nagybányai út
+0110,Rét utca
+0110,Verecke lépcső
+0110,Eszter utca
+0110,Baba utca
+0110,Horvát utca
+0110,Fazekas utca
+0110,Batthyány tér
+0110,Tapolcsányi utca
+0110,Vöröstorony lépcső
+0130,Csapágygyár
+0130,Katinka utca
+0130,Barosstelep vasútállomás
+0130,Gárdonyi Géza utca
+0130,"Diósd, Sashegyi út"
+0130,Tátika utca
+0130,Valéria utca
+0130,Diósdi utca
+0130,Pacsirta utca
+0130,Budatétény vasútállomás (Campona)
+0130,"Diósd, Búzavirág utca"
+0130,"Diósd, városháza"
+0130,Damjanich utca
+0130,Homokbánya utca
+0130,Kölcsey Ferenc utca
+0130,Németh-villa
+0130,Szilvafa utca
+0130,Budatétény vasútállomás (Növény utca)
+0130,Szakiskola utca
+0130,Barackos út / Angeli utca
+0130,Nagytétény-Diósd vasútállomás
+0130,Angeli utca / Nagytétényi út
+0130,Nóra utca
+0130,Nagytétényi temető
+0130,Rózsakert utca /inta utca
+0130,Mátra utca
+0130,Petőfi Sándor utca
+0130,Mátyás király utca
+0130,Szerafin-villa
+0130,I. utca
+0130,Gyár utca
+0130,"Diósd, törökbálinti elágazás"
+0131,"Diósd, törökbálinti elágazás"
+0131,Szerafin-villa
+0131,"Diósd, Sashegyi út"
+0131,Budatétény vasútállomás (Campona)
+0131,Damjanich utca
+0131,Rózsakert utca /inta utca
+0131,Barackos út / Angeli utca
+0131,Mátra utca
+0131,I. utca
+0131,Szakiskola utca
+0131,Szilvafa utca
+0131,Budatétény vasútállomás (Növény utca)
+0131,Mátyás király utca
+0131,Barosstelep vasútállomás
+0131,Diósdi utca
+0131,Németh-villa
+0150,Hercegprímás utca
+0150,Fővám tér
+0150,Gyöngyösi utca
+0150,Lónyay utca
+0150,Dagály fürdő
+0150,Dráva utca
+0150,Petőfi tér
+0150,Szervita tér
+0150,Czuczor utca
+0150,Sporttelep
+0150,Szemere utca
+0150,Úszódaru utca
+0150,Radnótiiklós utca
+0150,Cserhalom utca
+0150,Boráros tér
+0150,Lehel tér
+0150,Fiastyúk utca
+0150,Közraktár utca
+0150,Markó utca
+0150,Dorottya utca (Vörösmarty tér)
+0150,Ferenciek tere
+0150,Széchenyi utca
+0150,Szent István körút
+0150,Zsil utca
+0150,Tisza utca
+0150,Gogol utca
+0150,Köztelek utca
+0150,Erzsébet tér
+0150,Kálvin tér
+0150,Hold utca (Belvárosi piac)
+0150,Csanády utca (Lehel tér)
+0150,Török Pál utca
+0150,Zrínyi utca
+0150,Viza utca
+0150,Ráday utca
+0150,Victorugo utca
+0150,Kossuth Lajos tér
+0150,Március 15. tér
+0150,Népfürdő utca / Árpád híd
+0160,Hild tér
+0160,József nádor tér
+0160,Dózsa György tér
+0160,Széchenyi István tér
+0160,Donáti utca
+0160,Szentháromság tér
+0160,Mátray utca
+0160,Deák Ferenc tér
+0160,Clark Ádám tér
+0160,"Palota út, gyorslift"
+0160,Széll Kálmán tér
+0160,Kapisztrán tér
+0160,Krisztina tér
+0160,Bécsi kapu tér
+0160,Dísz tér
+0161,Szentháromság tér
+0161,Bécsi kapu tér
+0161,Széll Kálmán tér
+0161,Kapisztrán tér
+0161,Dísz tér
+0161,Mátray utca
+0205,Újpesti Erőmű
+0205,Szent László tér
+0205,Újpesti rendelőintézet
+0205,Hősök tere
+0205,Munkásotthon utca
+0205,Nap utca
+0205,"Káposztásmegyer, Szilas-patak"
+0205,Árpád üzletház
+0205,Vadgesztenye utca
+0205,Futár utca
+0205,Erdősor út
+0205,Tél utca / Pozsonyi utca
+0205,Művelődési Központ
+0205,Keleti pályaudvar
+0205,Vágány utca / Róbert Károly körút
+0205,Iglói utca
+0205,Szegedi út
+0205,Ősz utca
+0205,Angyalföld kocsiszín
+0205,Deák Ferenc utca / Rózsa utca
+0205,Hajló utca
+0205,Vécsey Károly utca
+0210,Ordas út
+0210,"Normafa, Gyermekvasút"
+0210,Déli pályaudvar
+0210,Őzike köz
+0210,Adonis utca
+0210,Sötétvágás utca
+0210,Magas út
+0210,Svábhegy
+0210,Városkút
+0210,Fülemile út
+0210,Galántai utca
+0210,Pethényi út
+0210,Óra út
+0210,KFKI étterem
+0210,Széll Kálmán tér
+0210,Kék Golyó utca
+0210,"Csillebérc, KFKI"
+0210,Szent Orbán tér
+0210,Csillagvizsgáló
+0210,Nógrádi utca
+0210,"Csillebérc, Gyermekvasút"
+0210,Istenhegyi lejtő
+0211,Kék Golyó utca
+0211,Déli pályaudvar
+0211,Fülemile út
+0211,Őzike köz
+0211,Szent Orbán tér
+0211,"Normafa, Gyermekvasút"
+0211,Istenhegyi lejtő
+0211,Galántai utca
+0211,Pethényi út
+0211,Svábhegy
+0211,Széll Kálmán tér
+0211,Nógrádi utca
+0211,Normafa
+0211,Adonis utca
+0211,Ordas út
+0211,Városkút
+0211,Óra út
+0220,"Szépjuhászné, Gyermekvasút"
+0220,Városmajor
+0220,Dózsa György tér
+0220,Szent János Kórház
+0220,Széll Kálmán tér
+0220,Országos Korányi Intézet
+0220,"Budakeszi, városháza"
+0220,Erkel Ferenc utca
+0220,Bölcsőde
+0220,Vízművek
+0220,Gyógyszertár
+0220,"Budakeszi, Tesco áruház"
+0220,Laktanya
+0220,Irén utca
+0220,Erdő utca
+0220,Kuruclesi út
+0220,Budagyöngye
+0220,Szépilona
+0220,Labanc út
+0220,Szőlőskert utca
+0220,Dénes utca
+0220,Bíróság
+0220,Szanatórium utca (Vadaspark)
+0220,"Budakeszi, Tiefenweg utca"
+0221,Labanc út
+0221,"Szépjuhászné, Gyermekvasút"
+0221,Szépilona
+0221,Szanatórium utca (Vadaspark)
+0221,Budagyöngye
+0221,Széll Kálmán tér
+0221,"Budakeszi, városháza"
+0221,Erkel Ferenc utca
+0221,Bíróság
+0221,Bölcsőde
+0221,Szent János Kórház
+0221,Gyógyszertár
+0221,"Budakeszi, Dózsa György tér"
+0221,Dénes utca
+0221,Irén utca
+0221,Városmajor
+0221,Erdő utca
+0221,Dózsa György tér
+0221,Országos Korányi Intézet
+0221,Vízművek
+0221,Laktanya
+0221,Kuruclesi út
+0230,Kén utca
+0230,Tátra tér
+0230,Ady Endre utca (Topánka utca)
+0230,Beöthy utca
+0230,Magyar utca
+0230,Timót utca / Soroksári út
+0230,"Pesterzsébet, Ady Endre tér"
+0230,"Pesterzsébet, Baross utca"
+0230,Kiss Ernő utca
+0230,Mézes utca
+0230,"Pesterzsébet, városközpont"
+0230,Müpa - Nemzeti Színház
+0230,Szabadkai út
+0230,Haller utca / Soroksári út
+0230,Soroksári út 158.
+0230,Koppány utca
+0230,Közvágóhíd
+0230,Szent Erzsébet tér
+0230,Nagysándor József utca
+0230,Földváry utca
+0230,Boráros tér
+0230,Pesterzsébet felső
+0235,Haller utca / Soroksári út
+0235,János tér
+0235,Boráros tér
+0235,Közvágóhíd
+0235,Gubacsi út /atár út
+0235,"Pesterzsébet, városközpont"
+0235,Ady Endre utca (Topánka utca)
+0235,Határ út
+0235,Török Flóris utca
+0235,János utca
+0250,Irány utca
+0250,Szerencs utca
+0250,Arany János utca
+0250,Erzsébet utca
+0250,Újpesti Erőmű
+0250,Eötvös utca 74.
+0250,Hubay Jenő tér
+0250,Rákos úti szakrendelő
+0250,Ősz utca
+0250,Szőnyi út
+0250,Rädda Barnen utca
+0250,Mexikói út
+0250,Teleki Blanka utca
+0250,Rákos út
+0250,Víztorony
+0250,Rákosszeg park
+0250,Kassai tér
+0250,Szent Korona útja
+0250,Újpest-központ
+0250,Nap utca
+0250,Rákospatak utca
+0250,Széchenyi út
+0250,Wesselényi utca
+0250,Karatna tér
+0250,Árpád üzletház
+0250,Beller Imre utca
+0250,Fűrész utca
+0250,Tél utca / Pozsonyi utca
+0250,Árpád Kórház
+0260,Margitsziget /argit híd
+0260,"Margit híd, budai hídfő"
+0260,Margitsziget / Árpád híd
+0260,Göncz Árpád városközpont
+0260,Palatinus fürdő
+0260,Parkmozi köz
+0260,Népfürdő utca / Árpád híd
+0260,Jászaiari tér
+0260,Zenélőkút
+0260,Szállodák (Hotels)
+0260,Hajós Alfréd uszoda
+0260,Szabadtéri Színpad
+0260,Nyugati pályaudvar
+0270,Tas vezér utca
+0270,Kelenhegyi lépcső
+0270,Szirtes út
+0270,Móricz Zsigmond körtér
+0270,Sánc utca
+0270,Balogh Tihamér utca
+0270,Iglói utca
+0270,Szüret utca
+0270,Rezeda utca
+0270,Búsuló Juhász (Citadella)
+0270,Ménesi út
+0270,Mihály utca
+0290,Pitypang utca
+0290,Tímár utca
+0290,Ürömi utca
+0290,Verecke lépcső
+0290,Zöldmáli lejtő
+0290,Pusztaszeri út 25.
+0290,Vöröstorony utca
+0290,Zöldkert út
+0290,Pasaréti tér
+0290,Kelemen László utca
+0290,Nyéki út
+0290,Nagybányai út
+0290,Nagyszombat utca
+0290,Szerb Antal utca
+0290,Lipótmezei út
+0290,Csibor utca
+0290,Alsó Zöldmáli út
+0290,Szentlélek tér
+0290,Kolosy tér
+0290,Flórián tér
+0290,Felhévízi utca
+0290,Csalit utca
+0290,Serfőző utca
+0290,Hűvösvölgy
+0290,Szemlő-hegyi-barlang
+0290,Bölöni György utca
+0290,Kiscelli utca
+0290,Szépvölgyi út
+0300,Ötvenhatosok tere
+0300,Damjanich utca / Dózsa György út
+0300,Kucsma utca
+0300,Gyöngyösi utca
+0300,Baross utca / Fóti út
+0300,Keleti pályaudvar
+0300,Türr István utca / Nádor utca
+0300,Fáy utca
+0300,Megyeri temető
+0300,Petneházy utca
+0300,Íves út
+0300,Reiner Frigyes park
+0300,Sárpatak utca
+0300,Angyalföld vasútállomás
+0300,Verseny utca
+0300,Rokolya utca
+0300,Homoktövis utca
+0300,Irányi Dániel utca / Baross utca
+0300,Székpatak utca
+0300,Mildenberger utca
+0300,Szegedi út
+0300,Futár utca
+0300,Tél utca / Pozsonyi utca
+0300,Óceán-árok utca
+0300,Megyeri út / Fóti út
+0300,Hősök tere
+0300,"Káposztásmegyer,egyeri út"
+0300,Illek Vince utca
+0300,Homoktövis iskola
+0300,"Káposztásmegyer,ogyoródi-patak"
+0300,Benczúr utca
+0300,Csokonai utca
+0300,Vágány utca / Dózsa György út
+0300,Újpest-központ
+0300,Angyalföld kocsiszín
+0300,"Megyer, Szondi utca"
+0300,Vágány utca / Róbert Károly körút
+0300,Dembinszky utca
+0301,Keleti pályaudvar
+0301,Mildenberger utca
+0301,Angyalföld kocsiszín
+0301,Dembinszky utca
+0301,Damjanich utca / Dózsa György út
+0301,"Megyer, Szondi utca"
+0301,Illek Vince utca
+0301,Petneházy utca
+0301,Baross utca / Fóti út
+0301,Szegedi út
+0301,Vágány utca / Róbert Károly körút
+0301,Újpest-központ
+0301,Megyeri út / Fóti út
+0301,Türr István utca / Nádor utca
+0301,Angyalföld vasútállomás
+0301,Kucsma utca
+0301,Benczúr utca
+0301,Rokolya utca
+0301,Irányi Dániel utca / Baross utca
+0301,Fáy utca
+0301,Csokonai utca
+0301,Reiner Frigyes park
+0301,Vágány utca / Dózsa György út
+0301,Gyöngyösi utca
+0301,Tél utca / Pozsonyi utca
+0301,Megyeri temető
+0301,Hősök tere
+0301,Ötvenhatosok tere
+0301,Futár utca
+0310,Menyhért utca
+0310,Timur utca
+0310,Csömöri út (Szlovák út)
+0310,Rákóczi út
+0310,Állás utca
+0310,Mazsola utca
+0310,Muzsika utca
+0310,György utca
+0310,Batthyány utca
+0310,Csömöri út
+0310,Pálya utca
+0310,Örs vezér tere
+0310,János utca
+0310,Mátyás király utca
+0310,Péterke utca
+0310,József utca
+0310,Szabadságtelep
+0310,Diófa utca
+0310,"Árpádföld, Dezsőfia utca"
+0310,"Árpádföld, Bekecs utca"
+0310,Fogarasi út
+0310,Szlovák út
+0310,Rozsos utca
+0320,Teleki Blanka utca
+0320,Tihamér utca
+0320,Szőnyi út
+0320,Nagy Lajos király útja / Czobor utca
+0320,Bánki Donát utca
+0320,Kassai tér
+0320,Bosnyák tér
+0320,Pongrátz Gergely tér
+0320,Jeszenák János utca
+0320,Kerékgyártó utca
+0320,Egressy tér
+0320,Béke tér
+0320,Forgách utca
+0320,Göncz Árpád városközpont
+0320,Szugló utca / Nagy Lajos király útja
+0320,Frangepán utca
+0320,Szegedi út
+0320,Amerikai út (Mexikói út)
+0320,Béke utca
+0320,Hajdú utca
+0320,Honvédkórház
+0320,Vágány utca / Róbert Károly körút
+0320,Örs vezér tere
+0320,Pap Károly utca
+0330,Budafoki út / Szerémi sor
+0330,"Nagytétény, Erdélyi utca"
+0330,Lépcsős utca
+0330,Savoyai Jenő tér
+0330,Móricz Zsigmond körtér
+0330,"Nagytétény, ipartelep"
+0330,Vágóhíd utca
+0330,Tóth József utca
+0330,Bartók Béla út
+0330,Akó utca
+0330,Építész utca
+0330,Dózsa György út
+0330,Galvani utca
+0330,Bányalég utca
+0330,Hengermalom út
+0330,Tenkes utca
+0330,Vegyész utca
+0330,Budafoki út / Dombóvári út
+0330,Petőfi Sándor utca (Kastélymúzeum)
+0330,Angeli utca / Nagytétényi út
+0330,Szabadság utca
+0330,Budafoki út / Karinthy Frigyes út
+0330,Kelenföldi Erőmű
+0330,Jókaiór utca
+0330,Háros utca
+0330,Városház tér
+0330,Újbuda-központ
+0330,Háros vasútállomás
+0330,Kondorosi út
+0330,Leányka utcai lakótelep
+0330,Budatétény vasútállomás (Növény utca)
+0340,Flórián tér
+0340,Madzsar József utca /adrianus utca
+0340,Rómaifürdő
+0340,Medgyessy Ferenc utca
+0340,Dósa utca
+0340,Szolgáltatóház
+0340,Aquincum
+0340,Boglár utca
+0340,Szamos utca
+0340,Római tér
+0340,Madzsar József utca / Pünkösdfürdő utca
+0340,Mátyás király út
+0340,Szentlélek tér
+0340,Pünkösdfürdő
+0340,Kaszásdűlő
+0340,Göncz Árpád városközpont
+0340,Szent János utca
+0340,Margitsziget / Árpád híd
+0340,Sinkovits Imre utca
+0340,Nimród utca
+0340,Népfürdő utca / Árpád híd
+0340,Raktár utca
+0340,Záhony utca
+0340,"Békásmegyer, Újmegyeri tér"
+0340,Hadrianus utca
+0340,Czetz János köz
+0340,Bogdáni út
+0340,Békásmegyer
+0350,Széchenyi István utca
+0350,Ady Endre út (Kossuth Lajos utca)
+0350,Ady Endre utca (Topánka utca)
+0350,"Pesterzsébet, városközpont"
+0350,"Csepel, Csillagtelep"
+0350,Szentlőrinci úti lakótelep
+0350,Kölcsey utca
+0350,Karácsony Sándor utca
+0350,Völgy utca
+0350,Kossuth Lajos utca (Völgy utca)
+0350,Újtelep út
+0350,Dr. Koncz János tér
+0350,Szent Erzsébet tér
+0350,Bánya utca
+0350,Iskola tér
+0350,Sósfürdő
+0350,Klapka utca
+0350,Szent Imre herceg utca
+0350,Királyhágó utca
+0350,Előd utca
+0350,Szent István út
+0350,Wesselényi utca
+0350,Székelyhíd utca
+0350,Mesgye utca
+0350,"Csepel, Kossuth Lajos utca"
+0350,"Pesterzsébet, Baross utca"
+0350,Nagysándor József utca
+0350,Jupiter utca
+0350,Szabadság utca
+0350,Jahn Ferenc Kórház
+0350,Védgát utca
+0350,Papírgyár
+0350,Maros utca
+0350,Jósika utca
+0350,Béke tér
+0350,Rózsás utca
+0350,Dinnyehegyi út
+0350,Szent Imre tér
+0350,Szent László utca
+0360,Felsőcsatári köz
+0360,Széchenyi István utca
+0360,Lakatos úti lakótelep
+0360,Szent László utca
+0360,Besence utca
+0360,Ady Endre út (Kossuth Lajos utca)
+0360,Fiatalság utca
+0360,Papírgyár
+0360,Baross utca
+0360,Lehel utca
+0360,Jupiter utca
+0360,Vörösmarty utca
+0360,Mesgye utca
+0360,Szent István út
+0360,"Pesterzsébet, Baross utca"
+0360,Szent Imre tér
+0360,Erzsébeti temető
+0360,Pestszentlőrinc vasútállomás
+0360,Dr. Koncz János tér
+0360,Szent Lőrinc-telep
+0360,Kossuth Lajos utca (Völgy utca)
+0360,Nagykőrösi út
+0360,Akácfa utca
+0360,Bolyai János utca
+0360,Védgát utca
+0360,Kossuth Lajos utca
+0360,Nagysándor József utca
+0360,"Pesterzsébet, Kossuth Lajos utca"
+0360,Iskola tér
+0360,Klapka utca
+0360,Üllői út
+0360,Kölcsey utca
+0360,Ipacsfa utca
+0360,Sósfürdő
+0360,Köves út / Szentlőrinci út
+0360,Előd utca
+0360,Kemény Zsigmond utca
+0360,Thököly út
+0360,Völgy utca
+0360,II. Rákóczi Ferenc út
+0360,Dél-pesti autóbuszgarázs
+0360,Kinizsi Pál utca
+0360,Margó Tivadar utca
+0360,Írisz utca
+0360,Szabadság utca
+0360,Karácsony Sándor utca
+0360,Vágóhíd utca
+0360,Lakatos út
+0360,Béke tér
+0360,"Csepel, Kossuth Lajos utca"
+0360,Jahn Ferenc Kórház
+0360,"Csepel, Csillagtelep"
+0360,Torontál utca
+0360,Bánya utca
+0360,Tinódi utca
+0380,Akácfa körút
+0380,Váciihály utca (József Attila-telep)
+0380,Ősz utca
+0380,Ady Endre utca
+0380,"Szigetszentmiklós, Szabadság utca"
+0380,Jókai utca
+0380,Lacházi fogadó
+0380,Lehel utca
+0380,Miklós Pláza
+0380,"Lakihegy, Cseresznyés utca"
+0380,Hárosi iskola
+0380,Szent Imre tér
+0380,Nap utca (óvoda)
+0380,Erdősor utca
+0380,Szebeni utca
+0380,Csepel
+0380,Áruházi bekötőút
+0380,Gát utca
+0380,Városi Könyvtár
+0380,Miklós tér
+0380,Vízművek lakótelep
+0380,Hárosi Csárda
+0380,Tamási Áron utca
+0380,Almafa utca
+0380,Csepeli temető
+0380,"Szigetszentmiklós, városháza"
+0380,Háros
+0380,Massányi úti lakópark
+0380,József Attila utca
+0380,Karácsony Sándor utca
+0380,"Csepel, Szent Imre tér"
+0380,Kölcsey Ferenc utca
+0380,Tejút utca
+0380,Vas Gereben utca
+0380,Kiss János altábornagy utca
+0380,Auchan Sziget áruház
+0380,Szilvafa utca
+0381,Gát utca
+0381,Tejút utca
+0381,Lacházi fogadó
+0381,Háros
+0381,"Lakihegy, Cseresznyés utca"
+0381,Erdősor utca
+0381,Kiss János altábornagy utca
+0381,Vízművek lakótelep
+0381,Hárosi Csárda
+0381,Csepel
+0381,Auchan Sziget áruház
+0381,Szent Imre tér
+0381,Hárosi iskola
+0381,Almafa utca
+0381,Vas Gereben utca
+0381,Áruházi bekötőút
+0381,"Csepel, Szent Imre tér"
+0381,Csepeli temető
+0381,Szilvafa utca
+0381,Karácsony Sándor utca
+0390,Széna tér
+0390,Széll Kálmán tér
+0390,Maros utcai rendelőintézet
+0390,Kék Golyó utca
+0390,Fazekas utca
+0390,Határőr út
+0390,Maros utca
+0390,Déli pályaudvar
+0390,Mária tér
+0390,Batthyány tér
+0390,Goldmark Károly utca
+0390,Ráth György utca
+0390,Tóth Lőrinc utca
+0390,Csemegi utca
+0390,Istenhegyi út
+0400,Sasadi út
+0400,Gimnázium
+0400,"Budaörs, városháza"
+0400,Felsőhatár utca
+0400,Kötő utca
+0400,Patkó utca
+0400,Kelenföld vasútállomás
+0400,Károly király utca
+0400,Rupphegyi út
+0400,Tulipán utca
+0400,Madárhegy
+0400,Budaörsi lakótelep
+0400,Kisfaludy utca
+0400,Gazdagréti út
+0400,Templom tér
+0400,Aradi utca
+0402,Kelenföld vasútállomás
+0402,Templom tér
+0402,Lévai utca
+0402,Budaörsi lakótelep
+0402,Sasadi út
+0402,Aradi utca
+0402,Rupphegyi út
+0402,Kötő utca
+0402,Madárhegy
+0402,Gazdagréti út
+0402,Felsőhatár utca
+0402,Tulipán utca
+0402,Ifjúság utca
+0402,Bretzfeld utca
+0402,"Budaörs, városháza"
+0402,Kisfaludy utca
+0402,Károly király utca
+0405,Kisfaludy utca
+0405,Budaörsi lakótelep
+0405,Károly király utca
+0405,Kötő utca
+0405,Csata utca
+0405,Kelenföld vasútállomás
+0405,Sasadi út
+0405,Gimnázium
+0405,Patkó utca
+0405,Baross utca
+0405,"Budaörs, városháza"
+0440,Sashalom
+0440,Jókaiór utca (Rendőrség)
+0440,Centenáriumi lakótelep
+0440,Futórózsa utca
+0440,Rákosfalva
+0440,"Mátyásföld, repülőtér"
+0440,Thököly út
+0440,Nagyicce
+0440,Gida utca
+0440,Egyenes utcai lakótelep
+0440,Örs vezér tere
+0440,Fuvallat utca
+0440,Budapesti út
+0440,Margit utca
+0440,Lándzsa utca
+0440,Sasvár utca
+0440,Olga utca
+0450,Thököly út
+0450,Pilóta utca
+0450,Rákosfalva
+0450,"Cinkota, Lassú utca"
+0450,Vidámvásár utca (Georgina utca)
+0450,Nagyicce
+0450,Bökényföldi út
+0450,Rózsalevél utca
+0450,Egyenes utcai lakótelep
+0450,Farkashalom utca
+0450,Jókaiór utca
+0450,Örs vezér tere
+0450,Jókaiór utca (Újszász utca)
+0450,Batthyány Ilona utca
+0450,Cinke utca
+0450,Sashalom
+0450,Gépmadár park
+0450,Lándzsa utca
+0450,Galgahévíz utca
+0450,Diósy Lajos utca
+0450,Georgina utca
+0450,Anilin utca
+0450,Papír utca
+0450,Garat utca
+0450,Ilonatelep
+0450,Ballada utca
+0450,Sarkantyú utca
+0460,Vörösmarty utca
+0460,Szabadság utca
+0460,Szentmihályi út
+0460,Rákospalotai határút
+0460,"Városközpont, Posta"
+0460,Hunyadvár utca
+0460,Újmajori utca
+0460,"Mátyásföld, repülőtér"
+0460,Jókaiór utca (Újszász utca)
+0460,Akácvirág utca
+0460,Gida utca
+0460,Ida utca
+0460,Csömöri út
+0460,Erdei bekötőút
+0460,Jókaiór utca
+0460,Csömöri út (Szlovák út)
+0460,Rétsár utca
+0460,Gusztáv utca
+0460,Papír utca
+0460,Gyöngytyúk utca
+0460,"Újpalota, Nyírpalota út"
+0460,György utca
+0460,Diófa utca
+0460,Zsókavár utca
+0460,Vásárcsarnok
+0460,Margit utca
+0460,Lőrinci út (Szabadság utca)
+0460,Erdőkerülő utca 27.
+0460,Ferihegyi út
+0460,Pilóta utca
+0460,Dedics Ferenc utca
+0460,Timur utca
+0460,Bökényföldi út
+0460,Diósy Lajos utca
+0460,Mátyás király utca
+0460,Jókaiór utca (Rendőrség)
+0460,Vidor utca
+0460,Szilas-patak
+0460,Simongát utca
+0460,Szent kereszt tér
+0460,Erdőkerülő utca 28.
+0460,Bakancsos utca
+0460,Egészségház
+0460,Fő tér
+0460,Szénás utca
+0460,Cinke utca
+0460,Péterke utca
+0460,Georgina utca
+0460,Bulyovszky utca
+0460,Sasvár utca
+0460,Cinkotai autóbuszgarázs
+0460,Vidámvásár utca (Georgina utca)
+0460,Farkashalom utca
+0460,Erdőkerülő utca
+0460,Mátyásföldi tér
+0460,Anilin utca
+0460,János utca
+0460,Lőrinci út
+0460,Rákoshegy vasútállomás
+0460,Széchenyi utca
+0460,"Rákoskeresztúr, városközpont"
+0460,Nagytarcsai út
+0460,Baross utca
+0530,Bereck utca
+0530,Előpatak utca
+0530,Tömös utca
+0530,Orvosi rendelő
+0530,Hollókő utca
+0530,Sümegvár utca
+0530,Kosztolányi Dezső tér
+0530,Hó utca
+0530,Sasadi út
+0530,Ajnácskő utca
+0530,Kelenföld vasútállomás
+0530,Mindszenty József bíboros tér
+0530,Újbuda-központ
+0530,Hajnalka utca
+0530,Márton Áron tér
+0530,Dayka Gábor utca
+0530,Nagyszalonta köz
+0530,Vincellér utca
+0530,Zajzon utca
+0540,Újlaki utca
+0540,Boráros tér
+0540,Naszód utca (Használtcikk piac)
+0540,Müpa - Nemzeti Színház
+0540,Bethlen Gábor utca
+0540,Szentlőrinci út (gyorsétterem)
+0540,Nagykőrösi út /atár út
+0540,Kéreg utca
+0540,Pestszentimre vasútállomás (Dózsa Gy.u.)
+0540,Pestszentimre felső vasútállomás
+0540,Szélső utca
+0540,Pannónia út
+0540,Kén utca
+0540,Kossuth Lajos utca
+0540,Zrínyi utca
+0540,Irányi utca
+0540,Ültetvény utca
+0540,Gubacsi út
+0540,Közdűlő út
+0540,Rákóczi utca
+0540,Víztorony tér
+0540,Külsőester utca
+0540,Alvinc utca
+0540,"Pestszentimre, Ültetvény utca"
+0540,Pestszentimre vasútáll. (Nagykőrösi út)
+0540,Táblás utca
+0540,Eke utca
+0540,Haller utca / Soroksári út
+0540,Lajos utca
+0540,Közvágóhíd
+0540,Használtcikk piac
+0540,Vas Gereben utca
+0540,Autópiac
+0540,Földváry utca
+0540,Beöthy utca
+0540,Kamiontelep
+0540,Gomb utca
+0540,Koppány utca
+0540,Debrecen utca
+0540,Gyáli út
+0540,Radnó utca
+0540,Szentlőrinci út
+0540,Nagysándor József utca
+0540,Hunyadi utca
+0540,Batthyány utca
+0540,Zöldségpiac
+0550,Boráros tér
+0550,Szentlőrinci út
+0550,Rákóczi Ferenc utca
+0550,Pannónia út
+0550,Vas Gereben utca
+0550,Alvinc utca
+0550,Használtcikk piac
+0550,Zöldségpiac
+0550,Szent István utca
+0550,Gomb utca
+0550,Kalász utca
+0550,Ady Endre utca
+0550,Kossuth Lajos utca
+0550,Müpa - Nemzeti Színház
+0550,Nagysándor József utca
+0550,Gyál felső vasútállomás
+0550,Koppány utca
+0550,Kőrösi út
+0550,"Gyál, Vecsési út"
+0550,Külsőester utca
+0550,Gyáli út
+0550,Bocskai István utca
+0550,Irányi utca
+0550,Radnó utca
+0550,Haller utca / Soroksári út
+0550,Kamiontelep
+0550,Debrecen utca
+0550,Kén utca
+0550,Közvágóhíd
+0550,Eke utca
+0550,Batthyány utca
+0550,Pestszentimre felső vasútállomás
+0550,Somogyi Béla utca
+0550,Naszód utca (Használtcikk piac)
+0550,Rákóczi utca
+0550,Táblás utca
+0550,Újlaki utca
+0550,Széchenyi István utca
+0550,Zrínyi utca
+0550,Kéreg utca
+0550,Gubacsi út
+0550,Pestszentimre vasútáll. (Nagykőrösi út)
+0550,Paula utca
+0550,Földváry utca
+0550,Beöthy utca
+0550,Közdűlő út
+0550,Csolt utca
+0550,Ár utca
+0550,Bethlen Gábor utca
+0550,Nagykőrösi út /atár út
+0550,Hunyadi utca
+0550,Autópiac
+0570,Mikszáth Kálmán utca
+0570,Templom utca (Kultúrkúria)
+0570,Hunyadi János utca
+0570,Csatlós utca
+0570,Hűvösvölgy
+0570,Kölcsey utca
+0570,Bátori László utca
+0570,Bükkfa utca
+0570,Széchenyi utca
+0570,Nagyajtai utca
+0570,Turul utca (kishíd)
+0570,Városmajor
+0570,Máriaremetei kegytemplom
+0570,Solymári elágazás
+0570,Községház utca
+0570,Kerényi Frigyes utca
+0570,Széll Kálmán tér
+0570,Bölény utca
+0570,Nyúl utca
+0570,Kossuth Lajos utca
+0570,Szent János Kórház
+0580,Víg utca (Sporttelep)
+0580,Leányka utcai lakótelep
+0580,Borszéki utca
+0580,Budafoki temető
+0580,Szent Imre Kórház
+0580,Újbuda-központ
+0580,Karolina út
+0580,Kecskeméti József utca
+0580,Városház tér
+0580,Bikás park
+0580,Arató utca
+0580,Bártfai utca
+0580,Narancs utca
+0580,Hajtány sor
+0580,Méhész utca
+0580,Gépész utca
+0580,Mező utca
+0580,Komló utca
+0580,Torma utca
+0580,Kereszt utca
+0580,Kelenföld vasútállomás
+0580,Vihar utca
+0580,Karácsony utca
+0580,Albertfalva vasútállomás
+0580,Duránci utca
+0580,Savoyai Jenő tér
+0580,Tóth József utca
+0580,Lőcsei utca
+0580,Kazinczy utca
+0580,Liszt Ferenc út
+0580,Kosztolányi Dezső tér
+0580,Állvány utca
+0580,Tétényi út 30.
+0580,Than Károly utca
+0580,Ady Endre út
+0580,Jégmadár utca
+0630,Bükkfa utca
+0630,Adyliget
+0630,Sebestyéndomb
+0630,Rácski telep
+0630,Erdészház
+0630,Hűvösvölgy
+0630,BM iskola
+0630,Ady lépcső
+0630,13-as kilométerkő
+0630,"Nagykovácsi, Tisza István tér"
+0630,Prielle K.u.MOL-töltőállomás
+0630,Széchenyi utca
+0630,"Nagykovácsi, községháza"
+0630,Diófa utca (Posta)
+0630,Bátori László utca
+0630,Ady Endre utca
+0630,Mészégető
+0630,Villám utca
+0640,Munkás utca
+0640,Bajcsy-Zsilinszky utca
+0640,Szarvashegy utca
+0640,Solymári elágazás
+0640,Bátori László utca
+0640,Solymár vasútállomás
+0640,Mikszáth Kálmán utca
+0640,Templom tér
+0640,Kossuth Lajos utca
+0640,Hunyadi János utca
+0640,"Solymár, Auchan áruház"
+0640,Anna kápolna
+0640,"Solymár, temető"
+0640,Örökzöld utca
+0640,Kölcsey utca
+0640,Hűvösvölgy
+0640,Templom utca (Kultúrkúria)
+0640,"Solymár, községháza"
+0640,Kökörcsin utca
+0640,Dózsa György utca
+0640,Községház utca
+0641,Kökörcsin utca
+0641,Kölcsey utca
+0641,Bajcsy-Zsilinszky utca
+0641,"Solymár, községháza"
+0641,Templom tér
+0641,Anna kápolna
+0641,Mikszáth Kálmán utca
+0641,Hűvösvölgy
+0641,Szarvashegy utca
+0641,Hunyadi János utca
+0641,Dózsa György utca
+0641,Községház utca
+0641,Kossuth Lajos utca
+0641,Örökzöld utca
+0641,Bátori László utca
+0641,Munkás utca
+0641,Solymári elágazás
+0641,Templom utca (Kultúrkúria)
+0650,Fenyőgyöngye
+0650,Folyondár utca (Szépvölgyi út)
+0650,Folyondár utca
+0650,Kolosy tér
+0650,Szépvölgyi út
+0650,Nyereg út
+0650,Virág Benedek utca
+0650,Ürömi utca
+0650,Pál-völgyi cseppkőbarlang
+0650,Selyemakác utca
+0650,Szélvész utca
+0650,Szépvölgyi dűlő
+0650,Szépvölgyi köz
+0651,Szépvölgyi út
+0651,Folyondár utca
+0651,Folyondár utca (Szépvölgyi út)
+0651,Kolosy tér
+0651,Nyereg út
+0651,Szélvész utca
+0651,Virág Benedek utca
+0651,Fenyőgyöngye
+0651,Pál-völgyi cseppkőbarlang
+0651,Ürömi utca
+0660,Tárcsás utca
+0660,Zsellér dűlő
+0660,"Soroksár, központi raktárak"
+0660,Mártírok útja /atár út
+0660,Pesterzsébet felső
+0660,Határ út
+0660,Szent Erzsébet tér
+0660,Soroksár felső
+0660,Nagykőrösi út /atár út
+0660,Polimer
+0660,János utca
+0660,Tátra tér
+0660,Pesterzsébet vasútállomás
+0660,Szigligeti utca
+0660,Mártírok útja
+0660,Kossuth Lajos utca (Mártírok útja)
+0660,"Soroksár,ősök tere"
+0660,Baross utca
+0660,"Pesterzsébet, városközpont"
+0660,Ócsai úti felüljáró
+0660,Mészáros Lőrinc utca
+0660,Torontál utca
+0660,Csepeli átjáró
+0660,Ady Endre utca (Topánka utca)
+0660,Festékgyár
+0662,"Soroksár,ősök tere"
+0662,Pesterzsébet felső
+0662,Mártírok útja
+0662,Határ út
+0662,Baross utca
+0662,Torontál utca
+0662,Zsellér dűlő
+0662,"Pesterzsébet, városközpont"
+0662,"BILK, bekötőút"
+0662,"Soroksár, BILK"
+0662,Ady Endre utca (Topánka utca)
+0662,Szent Erzsébet tér
+0662,Ócsai úti felüljáró
+0662,Polimer
+0662,Soroksár felső
+0662,Nagykőrösi út /atár út
+0662,"Soroksár, központi raktárak"
+0662,Tátra tér
+0662,MNB
+0662,Pesterzsébet vasútállomás
+0662,Mártírok útja /atár út
+0662,Mészáros Lőrinc utca
+0662,Kossuth Lajos utca (Mártírok útja)
+0662,János utca
+0662,Csepeli átjáró
+0662,Tárcsás utca
+0662,Festékgyár
+0662,Szigligeti utca
+0662,"BILK, DF épület"
+0665,"Pesterzsébet, Baross utca"
+0665,MNB
+0665,"Soroksár, BILK"
+0665,Soroksár felső
+0665,"BILK, DF épület"
+0665,"BILK, bekötőút"
+0665,Határ út
+0665,"Pesterzsébet, városközpont"
+0665,Polimer
+0665,"Soroksár, központi raktárak"
+0665,Baross utca
+0665,Torontál utca
+0665,Zsellér dűlő
+0665,Festékgyár
+0665,"Soroksár,ősök tere"
+0665,Nagykőrösi út /atár út
+0665,Ócsai úti felüljáró
+0670,Túzok utca
+0670,Halas utca
+0670,Sarkantyú utca
+0670,Örs vezér tere
+0670,Szürkebegy utca
+0670,Keresztúri út 102.
+0670,Aluljáró (Rézvirág utca)
+0670,Barátka utca
+0670,Kabai utca
+0670,"Újlak utca, lakótelep"
+0670,Borsó utca
+0670,Gépmadár park
+0670,"Rákoskeresztúr, Aranylúd utca"
+0670,MÁV-telep
+0670,513. utca
+0670,Határmalom utca
+0670,Pesti út
+0670,Füstifecske utca
+0670,Díszítő üzem
+0670,Fővárosi Kertészet
+0670,Gyakorló köz
+0670,Vadkacsa utca
+0670,Uszoda
+0670,EGIS Gyógyszergyár
+0670,Rákosfalva
+0680,Maglódi út
+0680,"Kispest, Kossuth tér"
+0680,Legényrózsa utca
+0680,Meténg utca
+0680,Újhegyi sétány
+0680,Gőzmozdony utca
+0680,Új köztemető
+0680,Kozma utca
+0680,Zalaegerszeg utca
+0680,Sibrikiklós út
+0680,Felüljáró (Gyömrői út)
+0680,Kisfaludy utca
+0680,Gránátos utca
+0680,Sós utca
+0680,Tavas utca
+0680,Jászberényi út
+0680,Athenaeum Nyomda
+0680,Kossuth Lajos utca
+0680,Izraelita temető
+0680,"Újhegyi út, Sportliget"
+0680,Kossuth Nyomda
+0680,Ady Endre út (Báthory utca)
+0680,"Akadémiaújtelep, 525. tér"
+0680,Áchim András utca
+0680,Szövőszék utca
+0680,Simonyi Zsigmond utca
+0680,Templom tér
+0680,Gergely utca (Sibrikiklós út)
+0680,Kőbánya-Kispest
+0680,501. utca
+0680,Dombhát utca
+0680,Nádasdy utca
+0680,"Kispest, Vas Gereben utca"
+0680,Ady Endre út
+0680,Vas Gereben utca
+0680,Rézvirág utca
+0680,Felüljáró
+0710,Kölcsey utca
+0710,Csorbatói utca
+0710,Hollandi csárda
+0710,Szent Imre tér
+0710,Varrógép utca
+0710,Strandfürdő
+0710,"Csepel, Királyerdő út"
+0710,Vihorlát út
+0710,Szent István út
+0710,Károli Gáspár utca
+0710,Bajcsy-Zsilinszky út
+0710,Karácsony Sándor utca
+0710,Uzsoki utca
+0710,Sporttelep
+0710,Tihanyi utca
+0710,Komáromi utca
+0710,Fátra utca
+0710,Deák tér
+0710,Szebeni utca
+0710,"Csepel, Szent Imre tér"
+0710,Kikötő utca
+0710,Késmárki utca
+0710,József Attila utca
+0710,II. Rákóczi Ferenc út
+0710,Görögkatolikus templom
+0710,Ladik utca
+0710,Határ utca
+0710,Martinász utca
+0710,"Csepel, Soroksári rév"
+0710,Csepel csónakház
+0710,Orsova utca
+0710,Kiss János altábornagy utca
+0710,"Csepel,orgásztanya"
+0710,Katona József utca
+0710,Görgey Artúr tér
+0844,Ady Endre utca
+0844,Vas Gereben utca
+0844,Kéreg utca
+0844,Bocskai István utca
+0844,Árpád utca
+0844,Eke utca
+0844,Nagykőrösi út /atár út
+0844,Zöldségpiac
+0844,Használtcikk piac
+0844,Mátyás király utca
+0844,Nagysándor József utca
+0844,Kamiontelep
+0844,Pestszentimre felső vasútállomás
+0844,Kacsóh Pongrác utca
+0844,Pestszentimre vasútáll. (Nagykőrösi út)
+0844,Nagyvárad tér
+0844,Kapocs utca
+0844,Dobó Katica utca
+0844,Kossuth Lajos utca
+0844,"Gyál, Ady Endre utca"
+0844,Táncsicsihály utca
+0844,Hunyadi utca
+0844,Kisfaludy utca
+0844,Szigeti Kálmán utca
+0844,Albert Flórián út
+0844,"Gyál, Deák Ferenc utca"
+0844,Széchenyi István utca
+0844,Pestszentimre vasútállomás (Nemes utca)
+0844,Bethlen Gábor utca
+0844,Határ út
+0844,Tulipán utca
+0844,Naszód utca (Használtcikk piac)
+0844,Szentlőrinci út
+0845,Bethlen Gábor utca
+0845,Hunyadi utca
+0845,Vas Gereben utca
+0845,Szentlőrinci út
+0845,Nagysándor József utca
+0845,Pestszentimre vasútállomás (Nemes utca)
+0845,Táncsicsihály utca
+0845,Zöldségpiac
+0845,Pestszentimre felső vasútállomás
+0845,Szentlőrinci út (gyorsétterem)
+0845,Határ út
+0845,Naszód utca (Használtcikk piac)
+0845,Kamiontelep
+0845,Bocskai István utca
+0845,Dobó Katica utca
+0845,Kapocs utca
+0845,Kacsóh Pongrác utca
+0845,Nagykőrösi út /atár út
+0845,Távíró utca
+0845,"Gyál, Deák Ferenc utca"
+0845,Kéreg utca
+0845,Tulipán utca
+0845,Használtcikk piac
+0845,Pestszentimre vasútáll. (Nagykőrösi út)
+0845,Ady Endre utca
+0845,Kossuth Lajos utca
+0845,Eke utca
+0845,Széchenyi István utca
+0845,Árpád utca
+0845,"Gyál, Ady Endre utca"
+0845,Mátyás király utca
+0845,Szigeti Kálmán utca
+0845,Kisfaludy utca
+0850,Felüljáró
+0850,Élessarok
+0850,Lavotta utca
+0850,Sibrikiklós út
+0850,Ihász utca
+0850,Mádi utca
+0850,Gergely utca (Sibrikiklós út)
+0850,Örs vezér tere
+0850,Kőbánya-Kispest
+0850,Kőrösi Csoma Sándor út
+0850,Mélytó utca
+0850,Fehér úti ipari park
+0850,Csősztorony
+0850,Kocka utca
+0850,Tavas utca
+0850,Felüljáró (Gyömrői út)
+0850,Szlávy utca
+0850,Gőzmozdony utca
+0850,Terebesi utca
+0850,Harmat utca
+0850,Téglavető utca
+0850,Kada utca
+0850,Bányató utca
+0850,Újhegyi sétány
+0855,Újhegyi sétány
+0855,Örs vezér tere
+0855,Kőbánya-Kispest
+0855,Sibrikiklós út
+0855,Bányató utca
+0855,Tavas utca
+0855,Kocka utca
+0855,Kada utca
+0855,Lavotta utca
+0855,Mádi utca
+0855,Mélytó utca
+0870,Nagyszeben út
+0870,Kamaraerdei út 11.
+0870,Poprádi út
+0870,Dűlő út
+0870,Budaörsi repülőtér
+0870,Kelenföld vasútállomás
+0870,Idősek Otthona
+0870,Szép utca
+0870,Mechanikaiűvek
+0870,Keserűvíz-forrás
+0870,Sasadi út
+0870,Vasút utca
+0870,Dózsa György út / Kamaraerdei út
+0870,Gazdagréti út
+0870,Vitorlázó út
+0870,Kamaraerdő
+0870,Repülőgépes Szolgálat
+0870,Jégvirág utca
+0870,Örsöddűlő
+0870,Kamaraerdei Ifjúsági Park
+0880,Gazdagréti út
+0880,Légimentők
+0880,Deák Ferenc utca
+0880,Jégvirág utca
+0880,Mátyás király utca
+0880,"Diósd, törökbálinti elágazás"
+0880,"Budaörs, városháza"
+0880,Munkácsyihály utca (hősi emlékmű)
+0880,Kelenföld vasútállomás
+0880,Poprádi út
+0880,Kerekdomb utca
+0880,Gimnázium
+0880,Szerafin-villa
+0880,Felsőhatár utca
+0880,Törökbálint vasútállomás
+0880,Csiki tanya
+0880,Mátra utca
+0880,Damjanich utca
+0880,I. utca
+0880,Aradi utca
+0880,Szakiskola utca
+0880,Nyár utca
+0880,Jókaiór utca
+0880,"Törökbálint, Telenor"
+0880,Diósdi utca
+0880,Diósdi út
+0880,Bartók Béla utca
+0880,Templom tér
+0880,Budaörsi Ipari és Technológiai Park
+0880,Ibolya utca
+0880,Tulipán utca
+0880,Alcsiki dűlő
+0880,Budatétény vasútállomás (Campona)
+0880,Harangláb
+0880,Szilvafa utca
+0880,Baross Gábor utca
+0880,Liliom utca
+0880,Rózsakert utca /inta utca
+0880,Lejtő utca
+0880,Kisfaludy utca
+0880,"Diósd, Kaktusz utca"
+0880,Köztársaság tér
+0880,Csiki csárda
+0880,Nagyszeben út
+0880,Kötő utca
+0880,Madárhegy
+0880,Gyár utca
+0880,Zrínyi utca
+0880,Németh-villa
+0880,Sasadi út
+0880,Károly király utca
+0880,Katona József utca
+0880,Barackos út / Angeli utca
+0880,Budatétény vasútállomás (Növény utca)
+0880,Vasút utca
+0880,Barosstelep vasútállomás
+0880,Idősek otthona
+0880,Rupphegyi út
+0880,"Diósd, Sashegyi út"
+0880,Márta utca
+0880,Tetra Pak
+0881,Gimnázium
+0881,Tulipán utca
+0881,Csiki tanya
+0881,Nagyszeben út
+0881,Idősek otthona
+0881,Munkácsyihály utca (hősi emlékmű)
+0881,Márta utca
+0881,Budaörsi Ipari és Technológiai Park
+0881,Sasadi út
+0881,Madárhegy
+0881,Gazdagréti út
+0881,Kisfaludy utca
+0881,Tetra Pak
+0881,Aradi utca
+0881,Templom tér
+0881,Alcsiki dűlő
+0881,Deák Ferenc utca
+0881,Törökbálint vasútállomás
+0881,Légimentők
+0881,Diósdi út
+0881,Katona József utca
+0881,Rupphegyi út
+0881,Nyár utca
+0881,"Budaörs, városháza"
+0881,Jégvirág utca
+0881,Károly király utca
+0881,Liliom utca
+0881,Bartók Béla utca
+0881,Kötő utca
+0881,Poprádi út
+0881,Felsőhatár utca
+0881,Jókaiór utca
+0881,Kerekdomb utca
+0881,Gyár utca
+0881,Vasút utca
+0881,Zrínyi utca
+0881,Csiki csárda
+0881,Harangláb
+0881,Köztársaság tér
+0881,Ibolya utca
+0881,Lejtő utca
+0881,Kelenföld vasútállomás
+0895,Kalász utca
+0895,Bajcsy-Zsilinszky utca
+0895,Gyál felső vasútállomás
+0895,Eke utca
+0895,Hunyadi utca
+0895,Toldiiklós utca
+0895,Szentlőrinci út (gyorsétterem)
+0895,Erdősor utca
+0895,Csolt utca
+0895,Ár utca
+0895,Zöldségpiac
+0895,Paula utca
+0895,Kéreg utca
+0895,Ady Endre utca
+0895,Bacsó Béla utca
+0895,"Gyál, Bem József utca"
+0895,Nagysándor József utca
+0895,Használtcikk piac
+0895,Pestszentimre felső vasútállomás
+0895,Kisfaludy Sándor utca
+0895,Pestszentimre vasútáll. (Nagykőrösi út)
+0895,Somogyi Béla utca
+0895,Határ út
+0895,Vas Gereben utca
+0895,Szentlőrinci út
+0895,Bocskai István utca
+0895,Naszód utca (Használtcikk piac)
+0895,Távíró utca
+0895,Nagykőrösi út /atár út
+0895,Kamiontelep
+0895,Bethlen Gábor utca
+0910,Nyugati pályaudvar
+0910,Pasaréti út
+0910,Pusztaszeri út
+0910,Margit körút
+0910,Szent János Kórház
+0910,Nyúl utca
+0910,Gábor Áron utca
+0910,Jászaiari tér
+0910,Vérhalom utca
+0910,Szemlőhegy utca
+0910,Vend utca
+0910,Bimbó út
+0910,Szilágyi Erzsébet fasor
+0910,Vérhalom tér
+0910,Zivatar utca
+0910,Endrődi Sándor utca
+0910,Városmajor
+0910,Nagyajtai utca
+0910,Pusztaszeri körönd
+0910,Orló utca
+0910,Apostol utca
+0910,"Margit híd, budai hídfő"
+0910,Széll Kálmán tér
+0910,Mandula utca
+0910,Rómer Flóris utca
+0910,Cimbalom utca
+0920,"Mátyásföld, Imre utca"
+0920,Csinszka utca
+0920,Csömöri út
+0920,Cinkotai köztemető
+0920,Raktárak
+0920,Sashalom
+0920,Rákosi út
+0920,Pálya utca
+0920,Batthyány utca
+0920,Jókaiór utca (Rendőrség)
+0920,Szent Korona utca
+0920,Budapesti út
+0920,Rózsalevél utca
+0920,Fuvallat utca
+0920,Műkő utca
+0920,Batthyány Ilona utca
+0920,Vidámvásár utca
+0920,Sasvár utca
+0920,"Mátyásföld, repülőtér"
+0920,József utca
+0920,Margit utca
+0920,Bökényföldi út
+0920,"Kistarcsa, kórház"
+0920,Georgina utca
+0920,Cinkota
+0920,Rákóczi út
+0920,Auchan Liget
+0920,Rákosszentmihály vasútállomás
+0920,Ilonatelep
+0921,Budapesti út
+0921,Ilonatelep
+0921,"Mátyásföld, repülőtér"
+0921,Margit utca
+0921,Sasvár utca
+0921,Csinszka utca
+0921,Műkő utca
+0921,Sashalom
+0921,Pálya utca
+0921,Vidámvásár utca
+0921,József utca
+0921,Batthyány utca
+0921,Cinkota
+0921,Raktárak
+0921,Rózsalevél utca
+0921,Rákosi út
+0921,"Mátyásföld, Imre utca"
+0921,Szent Korona utca
+0921,Csömöri út
+0921,Georgina utca
+0921,Cinkotai köztemető
+0921,"Kistarcsa, kórház"
+0921,Rákóczi út
+0921,Batthyány Ilona utca
+0921,Fuvallat utca
+0921,Rákosszentmihály vasútállomás
+0921,Bökényföldi út
+0921,Jókaiór utca (Rendőrség)
+0930,Kispesti temető
+0930,Karton utca
+0930,Árpád utca
+0930,Fő utca
+0930,Szarvas csárda tér
+0930,Csíky utca
+0930,Kosztolányi Dezső utca
+0930,Kossuth Lajos utca
+0930,Margó Tivadar utca
+0930,Billentyű utca
+0930,Sós utca
+0930,Fedezék utca
+0930,Kispest vasútállomás
+0930,Gárdonyi Géza utca
+0930,Iker utca
+0930,Lajosmizsei sorompó
+0930,Kassa utca
+0930,Csévéző utca
+0930,Regény utca
+0930,Thököly út
+0930,Simonyi Zsigmond utca
+0930,Kolozsvár utca (temető)
+0930,Villanytelep
+0930,Bozsik Stadion
+0930,Szemeretelep vasútállomás
+0930,Baross utca
+0930,Kőbánya-Kispest
+0930,Lőrinci temető
+0930,Csapó utca
+0930,"Kispest, Kossuth tér"
+0931,"Kispest, Kossuth tér"
+0931,Lajosmizsei sorompó
+0931,Gárdonyi Géza utca
+0931,Szarvas csárda tér
+0931,Árpád utca
+0931,Fő utca
+0931,Lőrinci temető
+0931,"Pestszentlőrinc, Fedezék utca"
+0931,Kassa utca
+0931,Iker utca
+0931,Csíky utca
+0931,Csapó utca
+0931,Sós utca
+0931,Kispest vasútállomás
+0931,Kispesti temető
+0931,Fedezék utca
+0931,Kosztolányi Dezső utca
+0931,Margó Tivadar utca
+0931,Regény utca
+0931,Karton utca
+0931,Baross utca
+0931,Thököly út
+0931,Villanytelep
+0931,Kolozsvár utca (temető)
+0931,Simonyi Zsigmond utca
+0931,Bozsik Stadion
+0931,Kőbánya-Kispest
+0931,Kossuth Lajos utca
+0944,Kőrösi út
+0944,Csolt utca
+0944,Pestszentimre vasútáll. (Nagykőrösi út)
+0944,Nagykőrösi út /atár út
+0944,Szentlőrinci út
+0944,Kalász utca
+0944,Szent István utca
+0944,Ár utca
+0944,Rákóczi Ferenc utca
+0944,Kamiontelep
+0944,Széchenyi István utca
+0944,Nagyvárad tér
+0944,Paula utca
+0944,Határ út
+0944,Szentlőrinci út (gyorsétterem)
+0944,Somogyi Béla utca
+0944,"Gyál, Vecsési út"
+0944,Bocskai István utca
+0944,Gyál felső vasútállomás
+0944,Albert Flórián út
+0944,Ady Endre utca
+0945,Somogyi Béla utca
+0945,Ady Endre utca
+0945,Ár utca
+0945,Kalász utca
+0945,Paula utca
+0945,Kőrösi út
+0945,"Gyál, Vecsési út"
+0945,Kamiontelep
+0945,Széchenyi István utca
+0945,Határ út
+0945,Pestszentimre vasútáll. (Nagykőrösi út)
+0945,Nagykőrösi út /atár út
+0945,Csolt utca
+0945,Rákóczi Ferenc utca
+0945,Bocskai István utca
+0945,Gyál felső vasútállomás
+0945,Szent István utca
+0945,Szentlőrinci út
+0950,Kemence utca
+0950,Márga utca
+0950,Óhegy park
+0950,Kápolna tér
+0950,Kada utca /aglódi út
+0950,Pongrácz úti lakótelep
+0950,Kistorony park
+0950,Felsőcsatári köz
+0950,Hős utca
+0950,Álmos utca
+0950,Kápolna utca
+0950,Kada utca /armat utca
+0950,Új köztemető
+0950,Venyige utca
+0950,Árpád utca
+0950,Kőbánya alsó vasútállomás
+0950,Puskás Ferenc Stadion
+0950,Bajcsy-Zsilinszky Kórház
+0950,Kada utca /ádi utca
+0950,Őrnagy utca
+0950,Sírkert út
+0950,Felsőcsatári út
+0960,Bánkút utca
+0960,Szülőotthon
+0960,Béla utca
+0960,Páskomliget utca
+0960,Pozsony utca
+0960,"Újpalota, Szentmihályi út"
+0960,Rákos úti szakrendelő
+0960,Vécsey Károly utca
+0960,Baross utca
+0960,Erdőkerülő utca
+0960,Illyés Gyula utca
+0960,Sárfű utca
+0960,Damjanich János utca
+0960,Nádor utca
+0960,Megyeri út / Fóti út
+0960,Szent László tér
+0960,Zsókavár utca
+0960,Tungsram
+0960,Szilágyi utca
+0960,Leiningen Károly utca
+0960,Fő tér
+0960,Erdőkerülő utca 28.
+0960,Bercsényiiklós utca
+0960,Hubay Jenő tér
+0960,Bucka utca
+0960,Fő út
+0960,Szerencs utca
+0960,Újpesti rendelőintézet
+0960,Sződliget utca
+0960,Vásárcsarnok
+0960,Erdőkerülő utca 27.
+0960,Kozák tér
+0960,Beller Imre utca
+0960,Szusza Ferenc Stadion
+0960,Baross utca / Fóti út
+0960,Rákospalota-Újpest vasútállomás
+0960,"Újpest, Fóti út"
+0960,Klapka György utca
+0975,"Rákoskeresztúr, városközpont"
+0975,Sáránd utca
+0975,Rákoskert sugárút
+0975,Kis utca
+0975,Kucorgó tér
+0975,Nyomdok utca
+0975,Erzsébet körút
+0975,Mezőtárkány utca
+0975,Borsó utca
+0975,Örs vezér tere
+0975,Sági utca
+0975,513. utca
+0975,Rózsaszál utca
+0975,Szent kereszt tér
+0975,Tápióbicske utca
+0975,Bakancsos utca
+0975,Kisvárda utca
+0975,Vecsey Ferenc utca
+0975,Schell Gyuláné tér
+0975,Olcsva utca
+0975,Oroszvár utca
+0975,Nyomdász utca
+0980,Bulyovszky utca
+0980,Felüljáró
+0980,Felüljáró (Gyömrői út)
+0980,Csévéző utca
+0980,Ároktő út
+0980,Csaba utca
+0980,Frangepán utca
+0980,Újhegyi út
+0980,Gyömrői út 105.
+0980,Pestszentlőrinc vasútállomás (átjáró)
+0980,"Városközpont, Posta"
+0980,Jászivány utca
+0980,Melczer utca
+0980,Egészségház
+0980,Baross utca
+0980,Gyömrői út 132.
+0980,XVIII. utca
+0980,Homokiszőlők
+0980,Vörösmarty utca
+0980,Hősök tere
+0980,Kőbánya-Kispest
+0980,Gyula utca
+0980,Aranykút utca
+0980,Rákoscsaba vasútállomás
+0980,Rákoshegy vasútállomás
+0980,Harsona utca
+0980,Ady Endre utca
+0980,Gyömrői út 156.
+0980,Bocskai István utca
+0980,Szabadság utca
+0980,Hangár utca
+0980,Rákoscsaba-Újtelep vasútállomás
+0980,XVII. utca
+0980,Rákóczi Ferenc utca
+0980,Gyömrői út
+0980,Akácvirág utca
+0980,Felsőcsatári út
+0980,Lőrinci út
+0980,Bélatelepi út
+0980,Tura utca
+0980,Bártfai utca
+0980,Rákosliget vasútállomás
+0980,IV. utca
+0980,Diadal utca (Tura utca)
+0980,Ferihegyi út
+0980,Széchenyi utca
+0980,Orgoványi utca
+0980,Városközpont (Ferihegyi út)
+0980,Vajk utca
+0985,Felsőcsatári út
+0985,Csévéző utca
+0985,Gyömrői út
+0985,Újhegyi út
+0985,Rákóczi Ferenc utca
+0985,Hangár utca
+0985,Lőrinci út
+0985,Szabadság utca
+0985,Bocskai István utca
+0985,Rákoshegy vasútállomás
+0985,Felüljáró (Gyömrői út)
+0985,Bélatelepi út
+0985,Frangepán utca
+0985,Melczer utca
+0985,Gyömrői út 132.
+0985,Pestszentlőrinc vasútállomás (átjáró)
+0985,Vörösmarty utca
+0985,Vajk utca
+0985,Orgoványi utca
+0985,Homokiszőlők
+0985,Kőbánya-Kispest
+0985,Ady Endre utca
+0985,Gyömrői út 156.
+0985,Baross utca
+0985,Csaba utca
+0990,II. János Pál pápa tér
+0990,Mézes utca
+0990,Magyar utca
+0990,Udvarhely utca
+0990,Teleki László tér (Szerdahelyi utca)
+0990,Kálvária tér
+0990,Temesvár utca
+0990,Szilágyság utca
+0990,Corvin körút
+0990,Pannónia út
+0990,"Pesterzsébet,átyás király tér"
+0990,Hunyadi tér
+0990,Zalán utca
+0990,Sporttelep
+0990,Blaha Lujza tér
+0990,Fertő utca / Bihari utca
+0990,Kiss József utca
+0990,Mátyás tér
+0990,Golgota tér
+0990,Nagykőrösi út
+0990,Nagyszőlős utca
+0990,Hunyadi János tér
+0990,Kőér utcai uszoda
+0990,Zoltán utca
+0990,Mártírok útja
+0990,Ady Endre tér
+0990,Vaskapu utca
+0990,Hízlaló tér
+0990,Vajda Péter utca (Villám utca)
+0990,Kőris utca
+0990,Delej utca
+0990,Határ út
+0990,Kós Károly tér
+0990,Bláthy Ottó utca
+0990,Basa utca
+0990,Zobor utca
+1012,Brassói utca
+1012,Bíbic utca
+1012,Kelenföld vasútállomás
+1012,Tűzliliom utca
+1012,Rózsakert utca /inta utca
+1012,Gyula vezér út
+1012,Memento Park
+1012,Rákóczi út
+1012,Antalháza
+1012,Terv utca
+1012,"Budatétény, benzinkút"
+1012,Nyél utca
+1012,Tátra utca
+1012,Aradi utca
+1012,I. utca
+1012,Szent László utca
+1015,Terv utca
+1015,Gyula vezér út
+1015,Nyél utca
+1015,Brassói utca
+1015,Budatétény vasútállomás (Növény utca)
+1015,Kelenföld vasútállomás
+1015,Tűzliliom utca
+1015,Bíbic utca
+1015,Aradi utca
+1015,Budatétény vasútállomás (Campona)
+1015,Memento Park
+1015,"Budatétény, benzinkút"
+1015,Rózsakert utca /inta utca
+1015,Rákóczi út
+1020,Szent Orbán tér
+1020,Vöröskő utca
+1020,Széll Kálmán tér
+1020,Szendi árok
+1020,Szendrő utca
+1020,Kiss János altábornagy utca
+1020,Déli pályaudvar
+1020,Kék Golyó utca
+1020,Kempelen Farkas utca
+1020,Maros utca
+1020,Németvölgyi út
+1020,Maros utcai rendelőintézet
+1020,Nárcisz utca
+1020,Bürök utca
+1020,Királyhágó tér
+1020,Boldog Teréz anya tér
+1020,Tamási Áron utca
+1020,Mártonhegyi út
+1020,Apor Vilmos tér
+1030,Bártfai utca
+1030,Bikás park
+1030,Hengermalom út
+1030,Etele út / Fehérvári út
+1030,Hengermalom út / Szerémi út
+1030,Kelenföld vasútállomás
+1040,"Rákospalota, Kossuth utca"
+1040,Tungsram
+1040,Fóti út
+1040,Vízművek
+1040,Béla utca
+1040,Ezred utca
+1040,"Újpest, Árpád út hajóállomás"
+1040,Újpest-központ
+1040,Erzsébet utca
+1040,"Székesdűlő, ipartelep"
+1040,"Ezred utca, lakótelep"
+1040,Juhos utca
+1040,Károlyi István utca
+1040,Zsilip utca
+1040,Rév utca
+1040,"Dunakeszi, Auchan áruház"
+1040,Vízművek lakótelep
+1040,Bagaria utca
+1040,Újpest-városkapu
+1040,Árpád út
+1040,Székesdűlő
+1040,Árpád üzletház
+1040,Tímár utca
+1040,Ungvári utca
+1040,Víztorony
+1040,Európa Center
+1040,Hubay Jenő tér
+1040,Széchenyi tér
+1040,Árpád Kórház
+1040,"Kossuth utca, lakótelep"
+1041,Székesdűlő
+1041,Tímár utca
+1041,Víztorony
+1041,Hubay Jenő tér
+1041,"Rákospalota, Kossuth utca"
+1041,Újpest-városkapu
+1041,Árpád Kórház
+1041,Ungvári utca
+1041,Újpest-központ
+1041,Vízművek
+1041,"Kossuth utca, lakótelep"
+1041,Európa Center
+1041,Széchenyi tér
+1041,Árpád üzletház
+1041,Tungsram
+1041,Károlyi István utca
+1041,Bagaria utca
+1041,Rév utca
+1041,Béla utca
+1041,"Ezred utca, lakótelep"
+1041,Erzsébet utca
+1041,"Újpest, Árpád út hajóállomás"
+1041,Zsilip utca
+1041,Fóti út
+1041,Juhos utca
+1041,Vízművek lakótelep
+1041,"Székesdűlő, ipartelep"
+1041,Árpád út
+1041,Ezred utca
+1050,Hild tér
+1050,Hun utca
+1050,Bajza utca
+1050,Agárdi út
+1050,Clark Ádám tér
+1050,Fiastyúk utca
+1050,Vágány utca / Dózsa György út
+1050,József nádor tér
+1050,Apor Vilmos tér
+1050,Béke tér
+1050,Ág utca
+1050,Márvány utca
+1050,Kiss János altábornagy utca
+1050,József Attila tér
+1050,Oktogon
+1050,Gyöngyösi utca
+1050,Lehel utca / Dózsa György út
+1050,Cziffra György park
+1050,Királyhágó tér
+1050,Opera
+1050,Deák Ferenc tér
+1050,Nagy Jenő utca
+1050,Násznagy utca
+1050,Széchenyi István tér
+1050,Vágány utca / Róbert Károly körút
+1050,Frangepán utca
+1050,Bajcsy-Zsilinszky út
+1050,Krisztina tér
+1050,Németvölgyi út
+1050,Vörösmarty utca
+1050,Kodály körönd
+1050,Hősök tere
+1050,Királyhágó utca
+1050,Győri út
+1050,Lehel utca / Róbert Károly körút
+1060,Népfürdő utca / Árpád híd
+1060,Pók utca
+1060,Záhony utca
+1060,Sujtás utca
+1060,Silvanus sétány
+1060,Aquincum
+1060,Kaszásdűlő
+1060,Göncz Árpád városközpont
+1060,Nánási út
+1060,Római tér
+1060,Monostori út
+1060,"Római úti lakótelep, Varsa utca"
+1060,Kadosa utca
+1060,Margitsziget / Árpád híd
+1060,Szentlélek tér
+1060,Raktár utca
+1060,Flórián tér
+1060,Bogdáni út
+1085,Fő tér
+1085,Cinkotai út
+1085,Kaptárkő utca
+1085,Március 15. tér
+1085,Regős köz
+1085,Astoria
+1085,Fehérló utca
+1085,Vásárcsarnok
+1085,BAH-csomópont
+1085,Telekes utca
+1085,Frankhegy utca
+1085,Keleti pályaudvar
+1085,Mészáros utca
+1085,Gazdagréti út
+1085,Sasadi út
+1085,Döbrentei tér
+1085,Ferenciek tere
+1085,Nagyszeben tér
+1085,Zugló vasútállomás
+1085,Apolló utca
+1085,Molnár Viktor utca
+1085,Bosnyák tér
+1085,Gazdagréti tér
+1085,Sánc utca
+1085,Tisza István tér
+1085,Blaha Lujza tér
+1085,Nagyszeben út
+1085,"Újpalota, Nyírpalota út"
+1085,Jégvirág utca
+1085,Dayka Gábor utca
+1085,Kelenföld vasútállomás
+1085,Uránia
+1085,Muskotály köz
+1090,Nagyszombat utca
+1090,Zsigmond tér
+1090,Galagonya utca
+1090,Kacsa utca
+1090,Császár-Komjádi uszoda
+1090,"Óbuda, Bogdáni út"
+1090,Raktár utca
+1090,"Margit híd, budai hídfő"
+1090,Batthyány tér
+1090,Kiscelli utca
+1090,Tímár utca
+1090,Bem József tér
+1090,Bogdáni út
+1090,Flórián tér
+1090,Kolosy tér
+1100,Sólyom utca
+1100,Keleti pályaudvar
+1100,Mészáros utca
+1100,BAH-csomópont
+1100,Sirály utca
+1100,Tamási Áron utca
+1100,Kempelen Farkas utca
+1100,Blaha Lujza tér
+1100,Boldog Teréz anya tér
+1100,Astoria
+1100,Thomán István utca
+1100,Pagony utca
+1100,Huszár utca
+1100,Zugló vasútállomás
+1100,Döbrentei tér
+1100,Tisza István tér
+1100,Ferenciek tere
+1100,Cházár András utca
+1100,Uránia
+1100,Amerikai út
+1100,Tamási Áron utca / Thomán István utca
+1100,Zugló vasútállomás (Hermina út)
+1100,Mártonhegyi út
+1100,Stefánia út / Thököly út
+1100,Bürök utca
+1100,Reiner Frigyes park
+1100,Bosnyák tér
+1100,Március 15. tér
+1100,Apor Vilmos tér
+1100,Szendi árok
+1100,Sánc utca
+1110,Batthyány tér
+1110,Flórián tér
+1110,Rét utca
+1110,Eszter utca
+1110,Galagonya utca
+1110,Felhévízi utca
+1110,Verecke lépcső
+1110,Horvát utca
+1110,Kolosy tér
+1110,Pitypang utca
+1110,Baba utca
+1110,Tímár utca
+1110,Móricz Zsigmond Gimnázium
+1110,Zöldkert út
+1110,Pusztaszeri körönd
+1110,Ürömi utca
+1110,Füge utca
+1110,Bogdáni út
+1110,Ady Endre utca
+1110,Nagyszombat utca
+1110,Fazekas utca
+1110,Szemlő-hegyi-barlang
+1110,"Óbuda, Bogdáni út"
+1110,Vend utca
+1110,Kiscelli utca
+1110,Tömörkény utca
+1110,Csalit utca
+1110,Mechwart liget
+1110,Pusztaszeri út 25.
+1110,Alsó Zöldmáli út
+1110,Raktár utca
+1110,Tapolcsányi utca
+1110,Zöldmáli lejtő
+1120,Németvölgyi út
+1120,Pagony utca
+1120,Stefánia út / Thököly út
+1120,Nárcisz utca
+1120,Uránia
+1120,Amerikai út
+1120,Mártonhegyi út
+1120,Döbrentei tér
+1120,Sólyom utca
+1120,Ferenciek tere
+1120,Apor Vilmos tér
+1120,Március 15. tér
+1120,Zugló vasútállomás
+1120,Astoria
+1120,Keleti pályaudvar
+1120,Blaha Lujza tér
+1120,Szent Orbán tér
+1120,Thomán István utca
+1120,Tamási Áron utca
+1120,Vöröskő utca
+1120,Mészáros utca
+1120,Zugló vasútállomás (Hermina út)
+1120,Tamási Áron utca / Thomán István utca
+1120,Bürök utca
+1120,Boldog Teréz anya tér
+1120,BAH-csomópont
+1120,Kempelen Farkas utca
+1120,Reiner Frigyes park
+1120,Sánc utca
+1120,Cházár András utca
+1120,Sirály utca
+1120,Bosnyák tér
+1120,Szendrő utca
+1120,Huszár utca
+1120,Tisza István tér
+1130,"Diósd, törökbálinti elágazás"
+1130,Rózsakert utca /inta utca
+1130,Barackos út / Angeli utca
+1130,Budatétény vasútállomás (Növény utca)
+1130,Szakiskola utca
+1130,Szilvafa utca
+1130,Mátyás király utca
+1130,Barosstelep vasútállomás
+1130,Mátra utca
+1130,Diósdi utca
+1130,Damjanich utca
+1130,"Diósd, Sashegyi út"
+1130,Budatétény vasútállomás (Campona)
+1130,Angeli utca / Nagytétényi út
+1130,Nagytétényi temető
+1130,I. utca
+1130,Nagytétény-Diósd vasútállomás
+1130,Szerafin-villa
+1130,Németh-villa
+1131,Szilvafa utca
+1131,Nagytétény-Diósd vasútállomás
+1131,Rózsakert utca /inta utca
+1131,Mátyás király utca
+1131,Szakiskola utca
+1131,Barosstelep vasútállomás
+1131,I. utca
+1131,Angeli utca / Nagytétényi út
+1131,Barackos út / Angeli utca
+1131,Mátra utca
+1131,Nagytétényi temető
+1131,Budatétény vasútállomás (Campona)
+1131,Damjanich utca
+1131,Budatétény vasútállomás (Növény utca)
+1140,Nyéki Imre Uszoda
+1140,Bem tábornok utca
+1140,Tóth József utca
+1140,Tétényi út 30.
+1140,Savoyai Jenő tér
+1140,Lépcsős utca
+1140,"Baross Gábor-telep, Ispiláng utca"
+1140,Vágóhíd utca
+1140,Háros vasútállomás
+1140,XIII. utca / Dózsa György út
+1140,Budafok kocsiszín
+1140,Albertfalva utca
+1140,Szent László utca
+1140,Karolina út
+1140,Terv utca
+1140,Fonyód utca
+1140,Andor utca / Tétényi út
+1140,XVI. utca
+1140,Bikás park
+1140,Puskás Tivadar utca
+1140,Rózsakert utca /inta utca
+1140,Móricz Zsigmond körtér
+1140,Tűzliliom utca
+1140,Városház tér
+1140,Bornemissza tér
+1140,Jókaiór utca
+1140,Rákóczi út
+1140,Kosztolányi Dezső tér
+1140,Leányka utcai lakótelep
+1140,Szent Imre Kórház
+1140,Csurgói út
+1140,Budatétény vasútállomás (Növény utca)
+1140,Háros utca
+1150,Karikás Frigyes utca
+1150,Dagály fürdő
+1150,Erzsébet tér
+1150,Lehel tér
+1150,Petőfi tér
+1150,Hold utca (Belvárosi piac)
+1150,Széchenyi utca
+1150,Zrínyi utca
+1150,Hercegprímás utca
+1150,Markó utca
+1150,Török Pál utca
+1150,Népfürdő utca / Árpád híd
+1150,Lónyay utca
+1150,Tisza utca
+1150,Kálvin tér
+1150,Köztelek utca
+1150,Dorottya utca (Vörösmarty tér)
+1150,Göncz Árpád városközpont
+1150,Fővám tér
+1150,Viza utca
+1150,Szent István körút
+1150,Közraktár utca
+1150,Csanády utca (Lehel tér)
+1150,Boráros tér
+1150,Lomb utca
+1150,Ferenciek tere
+1150,Zsil utca
+1150,Sporttelep
+1150,Ráday utca
+1150,Victorugo utca
+1150,Szervita tér
+1150,Gogol utca
+1150,Kossuth Lajos tér
+1150,Czuczor utca
+1150,Radnótiiklós utca
+1150,Szemere utca
+1150,Dráva utca
+1150,Március 15. tér
+1160,Kapisztrán tér
+1160,Mátray utca
+1160,Széll Kálmán tér
+1160,Fény utcai piac
+1160,Szentháromság tér
+1160,Dísz tér
+1160,Bécsi kapu tér
+1170,Diósgyőri utca
+1170,Gergely utca
+1170,Liget tér
+1170,Szövőszék utca
+1170,Újhegyi sétány
+1170,Kőbánya alsó vasútállomás
+1170,Gyógyszergyár
+1170,Mélytó utca
+1170,Tavas utca
+1170,Noszlopy utca
+1170,Vaspálya utca
+1170,Rózsaliget
+1170,Gergely utca (Sibrikiklós út)
+1170,Kelemen utca
+1170,Kőér utca
+1180,Óbudai autóbuszgarázs
+1180,Raktár utca
+1180,Óbudai temető
+1180,"Óbuda, Bogdáni út"
+1180,Kunigunda útja
+1180,Bogdáni út
+1180,Bojtár utca (Bécsi út)
+1180,Bojtár utca 49.
+1180,Csillaghegyi út / Bojtár utca
+1180,Szőlőkert utca
+1180,Kubik utca
+1180,Búza utca
+1180,Áldomás utca
+1180,Szentlélek tér
+1180,Kisbojtár utca
+1180,Dinamó utca
+1180,Magnólia utca
+1180,Flórián tér
+1180,Kaszásdűlő utca
+1190,Török Flóris utca
+1190,Vízisport utca
+1190,Gubacsi út /atár út
+1190,Zamárdi utca
+1190,Ady Endre utca
+1190,Csepeli átjáró
+1190,Teremszeg utca
+1190,Zodony utca
+1190,Ady Endre utca (Topánka utca)
+1190,János tér
+1190,Pesterzsébet vasútállomás
+1190,Szakorvosi rendelő
+1190,"Pesterzsébet, városközpont"
+1190,"Pesterzsébet, Baross utca"
+1200,Szekszárdi utca
+1200,Erzsébet utca
+1200,Újpest-központ
+1200,Angyalföld vasútállomás
+1200,Madridi utca
+1200,Munkásotthon utca
+1200,Reitter Ferenc utca
+1200,Honvédkórház
+1200,Gyöngyösi utca
+1200,Röppentyű utca
+1200,Göncz Árpád városközpont
+1200,Frangepán utca
+1200,Kámfor utca
+1200,Berlini utca
+1200,Pap Károly utca
+1200,Ősz utca
+1200,Elem utca
+1200,Fáy utca
+1200,Brüsszeli utca
+1200,Rozsnyay utca
+1200,Fiastyúk utca
+1200,Tél utca / Pozsonyi utca
+1200,Nap utca
+1200,Újpesti Erőmű
+1210,Aradi utca
+1210,Újpesti Erőmű
+1210,Kiss János utca
+1210,Rákospalota-Újpest vasútállomás
+1210,Víztorony
+1210,Nap utca
+1210,Újpest-városkapu
+1210,Istvántelki út
+1210,Ősz utca
+1210,Elem utca
+1210,Tél utca / Pozsonyi utca
+1210,Árpád út
+1210,Csányi László utca
+1210,Görgey Artúr út
+1220,Sárpatak utca
+1220,"Káposztásmegyer,egyeri út"
+1220,"Újpest, Árpád út hajóállomás"
+1220,"Megyer, Szondi utca"
+1220,Íves út
+1220,Székpatak utca
+1220,Homoktövis iskola
+1220,Újpest-városkapu
+1220,Tímár utca
+1220,Szusza Ferenc Stadion
+1220,Óceán-árok utca
+1220,Homoktövis utca
+1220,Megyeri temető
+1220,"Káposztásmegyer,ogyoródi-patak"
+1220,Megyeri út / Fóti út
+1230,Kossuth Lajos utca
+1230,Nagyszőlős utca
+1230,Magyar utca
+1230,"Soroksár, IKEA áruház"
+1230,Száva kocsiszín
+1230,Mártírok útja /atár út
+1230,Maros utca
+1230,Eperjes utca
+1230,Szent László utca
+1230,Zobor utca
+1230,"Soroksár, Kertvárosi körút"
+1230,Mesgye utca
+1230,Sósmocsár út
+1230,Mártírok útja
+1230,Wesselényi utca
+1230,Ady Endre tér
+1230,Nagykőrösi út /atár út
+1230,Nagysándor József utca
+1230,"Pesterzsébet, Ady Endre tér"
+1230,Újtelep út
+1230,Előd utca
+1230,Határ út
+1230,Szalárdiór utca
+1230,Szigligeti utca
+1230,Mézes utca
+1230,Kossuth Lajos utca (Mártírok útja)
+1230,"Soroksár, Auchan áruház"
+1230,Szentlőrinci úti lakótelep
+1230,Dinnyehegyi út
+1230,Mészáros Lőrinc utca
+1230,Temesvár utca
+1230,Távíró utca
+1230,Pacsirta utca
+1230,Jahn Ferenc Kórház
+1231,Eperjes utca
+1231,Nagykőrösi út /atár út
+1231,Újtelep út
+1231,Mészáros Lőrinc utca
+1231,Mártírok útja /atár út
+1231,Magyar utca
+1231,Távíró utca
+1231,Wesselényi utca
+1231,Határ út
+1231,Nagysándor József utca
+1231,Maros utca
+1231,Zobor utca
+1231,Nagyszőlős utca
+1231,Szent László utca
+1231,Temesvár utca
+1231,Mesgye utca
+1231,Mézes utca
+1231,Szigligeti utca
+1231,Jahn Ferenc Kórház
+1231,Ady Endre tér
+1231,"Pesterzsébet, Ady Endre tér"
+1231,Előd utca
+1231,Kossuth Lajos utca (Mártírok útja)
+1231,Kossuth Lajos utca
+1231,Pacsirta utca
+1231,Száva kocsiszín
+1231,Szalárdiór utca
+1231,Szentlőrinci úti lakótelep
+1231,Mártírok útja
+1231,Dinnyehegyi út
+1240,Sportcentrum
+1240,Sztáraiihály tér
+1240,Régi Fóti út
+1240,Szentes utca
+1240,Pestújhelyi út
+1240,Templom tér
+1240,Bosnyák tér
+1240,Pestújhelyi tér
+1240,Beller Imre utca
+1240,Szántóföld utca
+1240,Telepes utca
+1240,Illyés Gyula utca
+1240,Klapka György utca
+1240,Bercsényiiklós utca
+1240,Öv utca
+1240,Vághó Ferenc utca
+1240,Bánkút utca
+1240,Hubay Jenő tér
+1240,Fűrész utca
+1240,Kovácsi Kálmán tér
+1240,Kerékgyártó utca
+1240,"Rákospalota, Bogáncs utca"
+1240,Damjanich János utca
+1240,Pozsony utca
+1240,Ady Endre utca
+1240,Fő út
+1240,Emlék tér
+1240,Kosd utca
+1240,Rákos úti szakrendelő
+1240,Sződliget utca
+1240,Szerencs utca
+1240,Szlacsányi Ferenc utca
+1240,Árvavár utca
+1240,Szuglói körvasút sor
+1250,Telepes utca
+1250,Kerékgyártó utca
+1250,Rekettye utca
+1250,Deák utca
+1250,Kosd utca
+1250,Hubay Jenő tér
+1250,Fűrész utca
+1250,Bosnyák tér
+1250,Szlacsányi Ferenc utca
+1250,"Rákospalota,EDIMPEX"
+1250,Rädda Barnen utca
+1250,Patyolat utca
+1250,Árokhát út
+1250,Hulladékhasznosítóű
+1250,Eötvös utca 74.
+1250,Istvántelek vasútállomás
+1250,Arany János utca
+1250,Wysocki utca
+1250,Perczelór utca
+1250,Csobogós utca
+1250,Szuglói körvasút sor
+1250,Öv utca
+1250,Széchenyi tér
+1250,Kolozsvár utcai piac
+1250,Szentes utca
+1250,Rákos út
+1250,Dugonics utca
+1250,Eötvös utca
+1250,Székely Elek út
+1250,Pázmány Péter utca
+1250,"Rákospalota, Székely Elek út"
+1250,Károlyi Sándor út
+1250,"Rákospalota, Kossuth utca"
+1250,Mogyoród útja
+1250,Irány utca
+1250,Szerencs utca
+1250,Karatna tér
+1260,"Káposztásmegyer,ogyoródi-patak"
+1260,Gimnázium
+1260,Homoktövis utca
+1260,Megyeri út
+1260,Hajló utca
+1260,"Káposztásmegyer, Szilas-patak"
+1260,"Dunakeszi, Auchan áruház"
+1260,Dunakeszi utca
+1260,Kordován tér
+1260,Művelődési Központ
+1260,Szíjgyártó utca
+1260,Homoktövis iskola
+1260,Sárpatak utca
+1260,Székpatak utca
+1260,Homoktövis utca (Óvoda)
+1261,Szíjgyártó utca
+1261,"Káposztásmegyer, Szilas-patak"
+1261,Művelődési Központ
+1261,Homoktövis utca (Óvoda)
+1261,Homoktövis utca
+1261,Gimnázium
+1261,Hajló utca
+1261,Székpatak utca
+1261,Sárpatak utca
+1261,Kordován tér
+1261,Homoktövis iskola
+1261,"Káposztásmegyer,ogyoródi-patak"
+1261,Megyeri út
+1261,Dunakeszi utca
+1280,Széll Kálmán tér
+1280,Maros utca
+1280,Barabás Villa
+1280,Felső Svábhegyi út
+1280,Regőczi István tér
+1280,Lelesz utca
+1280,Rőzse köz
+1280,Tarpatak utca
+1280,Szent János Kórház
+1280,Józsa Béla köz
+1280,Temes utca
+1280,Hadik András utca
+1290,Bölöni György utca
+1290,Budenz út
+1290,Maros utca
+1290,Széher út 16.
+1290,Nagyajtai utca
+1290,Kelemen László utca
+1290,Barabás Villa
+1290,Tárogató út
+1290,Szent János Kórház
+1290,Szent Ferenc Kórház
+1290,Budagyöngye
+1290,Bölöni György utca / Széher út
+1290,Akadémia
+1290,Temes utca
+1290,Szerb Antal utca
+1290,Széll Kálmán tér
+1300,János utca
+1300,"Újpalota, Sárfű utca"
+1300,Rákospalotai határút
+1300,Mályva utca
+1300,Szentmihályi út
+1300,Erdőkerülő utca 27.
+1300,Fischer István utca
+1300,Kaffkaargit utca
+1300,Róna utca
+1300,Pálya utca
+1300,Erdőkerülő utca 28.
+1300,Puskás Ferenc Stadion
+1300,Őrnagy utca
+1300,Sárfű utca
+1300,Gusztáv utca
+1300,Vásárcsarnok
+1300,Rákóczi út
+1300,Batthyány utca
+1300,Pillangó utca
+1300,Baross utca
+1300,Erdőkerülő utca
+1300,Nyírpalota út
+1300,Pongrátz Gergely tér
+1300,Fő tér
+1300,Bánkút utca
+1300,Csömöri út
+1300,Várna utca
+1300,Vezér utca / Fogarasi út
+1300,György utca
+1300,Zsókavár utca
+1300,József utca
+1300,Rákospalotai köztemető
+1310,Baross utca
+1310,Rigó utca
+1310,"Kisszentmihály, Baross utca"
+1310,Diófa utca
+1310,Örs vezér tere
+1310,József utca
+1310,Tihamér utca
+1310,Álmos vezér útja
+1310,Vezér utca
+1310,Fischer István utca
+1310,Mátyás király utca
+1310,Besztercebányai utca
+1310,Szentmihályi út
+1310,Rákóczi út
+1310,Csömöri út
+1310,Pálya utca
+1310,Gusztáv utca
+1310,Fogarasi út
+1310,Rákospalotai határút
+1310,Füredi utca
+1310,János utca
+1310,Vörösmarty utca
+1335,Szabadság utca
+1335,Savoyai Jenő tér
+1335,Dózsa György út
+1335,Kelenföldi Erőmű
+1335,Astoria
+1335,Tenkes utca
+1335,Tisza István tér
+1335,Városház tér
+1335,Uránia
+1335,Petőfi Sándor utca (Kastélymúzeum)
+1335,Budafoki út / Karinthy Frigyes út
+1335,Molnár Viktor utca
+1335,Ferenciek tere
+1335,Vásárcsarnok
+1335,Budafoki út / Szerémi sor
+1335,Hengermalom út
+1335,Bosnyák tér
+1335,Budafoki út / Dombóvári út
+1335,Lépcsős utca
+1335,Fő tér
+1335,Zugló vasútállomás
+1335,Leányka utcai lakótelep
+1335,Háros utca
+1335,Budatétény vasútállomás (Növény utca)
+1335,"Nagytétény, Erdélyi utca"
+1335,Háros vasútállomás
+1335,Reiner Frigyes park
+1335,Keleti pályaudvar
+1335,Jókaiór utca
+1335,Akó utca
+1335,"Újpalota, Nyírpalota út"
+1335,Szent Gellért tér -űegyetem
+1335,Építész utca
+1335,Miskolci utca / Csömöri út
+1335,Március 15. tér
+1335,Angeli utca / Nagytétényi út
+1335,Bartók Béla út
+1335,Blaha Lujza tér
+1340,Szent István utca
+1340,Hímző utca
+1340,Aquincum
+1340,Madzsar József utca / Pünkösdfürdő utca
+1340,Hunyadi utca
+1340,Kaszásdűlő
+1340,Római tér
+1340,Békásmegyer
+1340,Flórián tér
+1340,Huba utca
+1340,Bogdáni út
+1340,Záhony utca
+1340,Raktár utca
+1340,Hatvany Lajos utca / Juhász Gyula utca
+1340,Csillaghegy
+1340,Bálint György utca
+1340,Czetz János köz
+1340,"Békásmegyer, Újmegyeri tér"
+1340,Bercsényi utca
+1340,Rómaifürdő
+1340,Szentlélek tér
+1340,Attila utca
+1350,Jahn Ferenc Kórház
+1350,Gyáli-patak
+1350,"Soroksár, IKEA áruház"
+1350,Mesgye utca
+1350,Vörösmarty utca
+1350,Orbánhegyi dűlő
+1350,Dinnyehegyi út
+1350,Erzsébeti temető
+1350,"Soroksár, Auchan áruház"
+1350,Millenniumtelep
+1350,Szentlőrinci úti lakótelep
+1350,Előd utca
+1350,Szent István utca
+1350,Gombosszeg köz
+1350,Újtelep út
+1350,Tárcsás utca
+1350,Templom utca 6.
+1350,Csillag utca
+1350,Sósmocsár út
+1350,Alsó határút
+1350,Erzsébet utca
+1350,"Soroksár,ősök tere"
+1350,"Soroksár, Kertvárosi körút"
+1350,Maros utca
+1350,Zsellér dűlő
+1350,Grassalkovich út
+1350,Szent László utca
+1365,Fiatalság utca
+1365,Kőbánya-Kispest
+1365,Árpád utca
+1365,Barta Lajos utca
+1365,Baross utca
+1365,Dembinszky utca
+1365,Havanna utca
+1365,Margó Tivadar utca
+1365,Vörösmartyihály utca
+1365,Kondor Béla sétány
+1370,Körtvélyes köz
+1370,Máramaros út
+1370,Szőlő utca
+1370,Bécsi út / Vörösvári út
+1370,Óbudai rendelőintézet
+1370,Királylaki út
+1370,Szentlélek tér
+1370,Flórián tér
+1370,Zúzmara utca
+1370,Viharhegyi út
+1370,Erdőalja út 43.
+1370,Erdőalja út
+1370,Királyhelmec utca
+1370,Iskola
+1370,Körtvélyes utca
+1370,Hedvig utca
+1370,Táborhegyi út
+1370,Farkastorki út
+1370,Serfőző utca
+1370,Vihar utca
+1380,Karácsony Sándor utca
+1380,Áruházi bekötőút
+1380,Lépcsős utca
+1380,Budatétény vasútállomás (Campona)
+1380,Auchan Sziget áruház
+1380,Növény utca
+1380,Háros
+1380,Hárosi Csárda
+1380,Csepel
+1380,Vízművek lakótelep
+1380,"Csepel, Szent Imre tér"
+1380,Erdősor utca
+1380,Kiss János altábornagy utca
+1380,Szilvafa utca
+1380,Tejút utca
+1380,DEXTER
+1380,Vas Gereben utca
+1380,Jókaiór utca
+1380,Hárosi iskola
+1380,Csepeli temető
+1380,Szent Imre tér
+1380,Almafa utca
+1390,Csörsz utca
+1390,Nagyszeben út
+1390,Frankhegy utca
+1390,Sasadi út
+1390,Kaptárkő utca
+1390,BAH-csomópont
+1390,Dayka Gábor utca
+1390,Jégvirág utca
+1390,Gazdagréti tér
+1390,Királyhágó utca
+1390,Fehérló utca
+1390,Muskotály köz
+1390,Déli pályaudvar
+1390,Gazdagréti út
+1390,Regős köz
+1390,Telekes utca
+1390,Tartsay Vilmos utca
+1390,Nagyszeben tér
+1390,Széll Kálmán tér
+1400,Ady Endre utca
+1400,Hosszúrét utca
+1400,Jégvirág utca
+1400,"Törökbálint, bevásárlóközpont"
+1400,Károlyi utca
+1400,Határ utca
+1400,"Budaörs, városháza"
+1400,Művelődésiáz
+1400,Széll Kálmán tér
+1400,Nagyszeben út
+1400,Tükörhegy
+1400,Méhecske utca
+1400,Ifjúság utca
+1400,Őszibarack utca
+1400,Kötő utca
+1400,Fehérló utca
+1400,Déli pályaudvar
+1400,Madárhegy
+1400,Muskotály köz
+1400,Budaörsi lakótelep
+1400,Dióskert
+1400,Bartók Béla utca
+1400,Gazdagréti út
+1400,Sasadi út
+1400,Csörsz utca
+1400,BAH-csomópont
+1400,Felsőhatár utca
+1400,Templom tér
+1400,Harangláb
+1400,Törökbálint Sportközpont
+1400,Dayka Gábor utca
+1400,Poprádi út
+1400,Kisfaludy utca
+1400,Gimnázium
+1400,Tartsay Vilmos utca
+1400,Aradi utca
+1400,Tulipán utca
+1400,Királyhágó utca
+1400,Patkó utca
+1400,Károly király utca
+1400,Raktárváros
+1400,Rupphegyi út
+1400,Munkácsyihály utca (hősi emlékmű)
+1400,Sport utca
+1401,BAH-csomópont
+1401,Fehérló utca
+1401,Rupphegyi út
+1401,Muskotály köz
+1401,Tulipán utca
+1401,Templom tér
+1401,Déli pályaudvar
+1401,Madárhegy
+1401,Károly király utca
+1401,Dayka Gábor utca
+1401,Csörsz utca
+1401,Poprádi út
+1401,Gimnázium
+1401,Kisfaludy utca
+1401,Sasadi út
+1401,"Budaörs, városháza"
+1401,Széll Kálmán tér
+1401,Aradi utca
+1401,Budaörsi lakótelep
+1401,Nagyszeben út
+1401,Patkó utca
+1401,Királyhágó utca
+1401,Gazdagréti út
+1401,Felsőhatár utca
+1401,Tartsay Vilmos utca
+1401,Kötő utca
+1401,Jégvirág utca
+1402,"Törökbálint, bevásárlóközpont"
+1402,Tükörhegy
+1402,Méhecske utca
+1402,Bartók Béla utca
+1402,Ifjúság utca
+1402,Sport utca
+1402,Őszibarack utca
+1402,Raktárváros
+1402,Törökbálint Sportközpont
+1402,Határ utca
+1402,Harangláb
+1402,Hosszúrét utca
+1402,Budaörsi lakótelep
+1402,Művelődésiáz
+1402,Munkácsyihály utca (hősi emlékmű)
+1402,Károlyi utca
+1402,Dióskert
+1402,Ady Endre utca
+1410,Kelenföld vasútállomás
+1410,Liszt Ferenc út
+1410,Savoya Park
+1410,Tóth József utca
+1410,Balatoni út /áros utca
+1410,Leányka utcai lakótelep
+1410,Városház tér
+1410,Komáromi út
+1410,Promontor utca
+1410,Hűség utca
+1410,Ostor utca
+1410,Savoyai Jenő tér (Törley tér)
+1410,Wesselényi utca
+1410,Római utca
+1410,Antalháza
+1410,Gyűszű utca
+1410,Komló utca
+1410,Dévény utca
+1410,Savoyai Jenő tér
+1410,Széchenyi utca
+1410,Régi vám
+1410,Húr utca
+1410,Jégmadár utca
+1440,János utca
+1440,Szent Korona utcai lakótelep
+1440,György utca
+1440,Csömöri út
+1440,Fogarasi út
+1440,Rózsa utca
+1440,Szent Korona utca
+1440,Diófa utca
+1440,Fischer István utca
+1440,Batthyány utca
+1440,Tihamér utca
+1440,Füredi utca
+1440,Rákosi út
+1440,Mátyás király utca 71.
+1440,József utca
+1440,"Rákosszentmihály, Csömöri út"
+1440,Vezér utca
+1440,Álmos vezér útja
+1440,Örs vezér tere
+1460,Szilas-patak
+1460,Diósy Lajos utca
+1460,Pilóta utca
+1460,Vidor utca
+1460,Diófa utca
+1460,Fő tér
+1460,Mátyás király utca
+1460,Margit utca
+1460,Vásárcsarnok
+1460,Farkashalom utca
+1460,Jókaiór utca (Rendőrség)
+1460,XVII. utca
+1460,Városközpont (Ferihegyi út)
+1460,Papír utca
+1460,Georgina utca
+1460,"Újpalota, Nyírpalota út"
+1460,Cinkotai autóbuszgarázs
+1460,Gida utca
+1460,Mátyásföldi tér
+1460,Erdei bekötőút
+1460,Simongát utca
+1460,Erdőkerülő utca 27.
+1460,Anilin utca
+1460,Erdőkerülő utca
+1460,Sasvár utca
+1460,Cinke utca
+1460,Timur utca
+1460,Tarack utca
+1460,Péterke utca
+1460,Ida utca
+1460,Vörösmarty utca
+1460,János utca
+1460,Hősök tere
+1460,Csömöri út
+1460,Csömöri út (Szlovák út)
+1460,Szentmihályi út
+1460,Rákosliget vasútállomás
+1460,Bökényföldi út
+1460,"Mátyásföld, repülőtér"
+1460,Jókaiór utca (Újszász utca)
+1461,Vidor utca
+1461,Cinkotai autóbuszgarázs
+1461,XVII. utca
+1461,Rákosliget vasútállomás
+1461,Városközpont (Ferihegyi út)
+1461,Tarack utca
+1461,Hősök tere
+1470,Megyeri út
+1470,Újpest-központ
+1470,Megyeri út / Fóti út
+1470,Megyeri temető
+1470,Fiumei út
+1470,Baross utca / Fóti út
+1470,Attila utca
+1470,Templom utca
+1470,Tinódi utca
+1470,Baross utca
+1470,Irányi Dániel utca
+1470,Langlet Waldemár utca
+1470,Perényi Zsigmond utca
+1470,"Megyer, Julianus barát utca"
+1470,Újpesti piac
+1470,Csokonai utca
+1470,Mildenberger utca
+1470,Irányi Dániel utca / Baross utca
+1470,Gárdonyi Géza utca
+1480,Mártírok útja
+1480,Zalaegerszeg utca
+1480,Ady Endre út (Kossuth Lajos utca)
+1480,Árnyas utca
+1480,Kós Károly tér
+1480,Tölgyes út
+1480,Repkény út
+1480,"Csepel, Kossuth Lajos utca"
+1480,II. Rákóczi Ferenc út
+1480,Tátra tér
+1480,Denevér utca
+1480,"Csepel, Soroksári rév"
+1480,Szent Imre tér
+1480,Szigligeti utca
+1480,"Csepel,ollandi út"
+1480,Széchenyi István utca
+1480,Sáska utca
+1480,Sólyom utca
+1480,Sósfürdő
+1480,Papírgyár
+1480,Ady Endre út (Rendőrség)
+1480,Ady Endre út (Báthory utca)
+1480,Gutenberg körút
+1480,Szent Erzsébet tér
+1480,Kőbánya-Kispest
+1480,Sós utca
+1480,"Pesterzsébet, Baross utca"
+1480,Hungária út
+1480,Pannónia út
+1480,Nagykőrösi út /atár út
+1480,Ady Endre utca (Topánka utca)
+1480,Szarka utca
+1480,Thököly utca
+1480,Martinász utca
+1480,Nyárfás utca
+1480,Királyerdeiűvelődésiáz
+1480,Simonyi Zsigmond utca
+1480,"Pesterzsébet, városközpont"
+1480,Csepeliátyás utca
+1480,Karácsony Sándor utca
+1480,Mártírok útja /atár út
+1480,Iszalag utca
+1480,Csehihály utca
+1480,Borz út
+1480,Kossuth Lajos utca (Mártírok útja)
+1480,Orgonás utca
+1480,Védgát utca
+1480,Pinty utca
+1480,Álmos utca
+1480,"Kispest, Kossuth tér"
+1480,Sporttelep
+1480,Kisfaludy utca
+1490,Tüske utca
+1490,Balogvár utca
+1490,Garas utca
+1490,Zilah utca
+1490,Hankóczy Jenő utca
+1490,Gábor Áron utca
+1490,Széll Kálmán tér
+1490,Ruszti út
+1490,Bimbó köz
+1490,Rókushegyi lépcső
+1490,Detrekő utca
+1490,Lorántffy Zsuzsanna út
+1490,Fény utcai piac
+1490,Lóczy Lajos utca
+1490,Ezredes utca
+1490,Gondozási Központ
+1490,Fenyves utca
+1500,Kápolna út
+1500,Olajfa utca
+1500,Sasadi út
+1500,Kelenvölgy-Péterhegy
+1500,Aszály utca
+1500,Kérő utca
+1500,Tanító utca
+1500,Brassói utca
+1500,Park utca
+1500,Dayka Gábor utca
+1500,Balatoni út /áros utca
+1500,Lomnici utca
+1500,Őszibarack utca
+1500,Tordai út
+1500,Igmándi utca
+1500,Vincellér utca
+1500,Lépcsős utca
+1500,Hollókő utca
+1500,Bolygó utca
+1500,Memento Park
+1500,Ajnácskő utca
+1500,Bíbic utca
+1500,Újbuda-központ
+1500,Budatétény vasútállomás (Campona)
+1500,Péterhegyi út / Neszmélyi út
+1500,Nyél utca
+1500,Rizling utca (Sportpálya)
+1500,Aradi utca
+1500,Kosztolányi Dezső tér
+1500,Tűztorony
+1500,Menyecske utca
+1500,Kelenföld vasútállomás
+1500,"Budatétény, benzinkút"
+1500,Péterhegyi út (Menyecske utca)
+1500,Jókaiór utca
+1500,Szabina út
+1500,Őrmezei út
+1510,Zalán utca
+1510,Török Flóris utca
+1510,Kisfaludy utca
+1510,Baross utca
+1510,Attila utca
+1510,Védgát utca
+1510,Kőér utca
+1510,Széchenyi István utca
+1510,Jókaiór utca
+1510,Késmárki utca
+1510,"Csepel,atár utca"
+1510,Vasgyár utca
+1510,Lázár utca
+1510,Papírgyár
+1510,Mártírok útja
+1510,"Kispest, Kossuth tér"
+1510,Rákóczi tér
+1510,Felüljáró
+1510,"Csepel, Kossuth Lajos utca"
+1510,Szebeni utca
+1510,Sibrikiklós út
+1510,Diósgyőri utca
+1510,Karácsony Sándor utca
+1510,Ady Endre út (Hunyadi utca)
+1510,Nagykőrösi út
+1510,Sósfürdő
+1510,Kőbánya alsó vasútállomás
+1510,Bajcsy-Zsilinszky út
+1510,Csepeli átjáró
+1510,Ady Endre út (Kossuth Lajos utca)
+1510,Vörösmarty utca
+1510,Szent Imre tér
+1510,Vaspálya utca
+1510,"Pesterzsébet, Baross utca"
+1510,Kikötő utca
+1510,Kőbánya-Kispest
+1510,Pesterzsébet vasútállomás
+1510,Sós utca
+1510,Liget tér
+1510,Ady Endre út (Báthory utca)
+1510,Felüljáró (Gyömrői út)
+1510,Áchim András utca
+1510,Hunyadi tér
+1510,Gyógyszergyár
+1510,Simonyi Zsigmond utca
+1510,Kelemen utca
+1520,Szebeni utca
+1520,Ladik utca
+1520,Varrógép utca
+1520,Görgey Artúr tér
+1520,Tihanyi utca
+1520,"Csepel, Királyerdő út"
+1520,Olt utca
+1520,Csorbatói utca
+1520,Strandfürdő
+1520,Vihorlát út
+1520,Völgy utca
+1520,Csepel csónakház
+1520,Sporttelep
+1520,Szent István út
+1520,Határ utca
+1520,"Csepel, Soroksári rév"
+1520,Uzsoki utca
+1520,Karácsony Sándor utca
+1520,Komáromi utca
+1520,Festő utca
+1520,József Attila utca
+1520,Bajcsy-Zsilinszky út
+1520,"Csepel, Szent Imre tér"
+1520,Kossuth Lajos utca
+1520,Kikötő utca
+1520,Széchenyi István utca
+1520,Kassai utca
+1520,Kiss János altábornagy utca
+1520,"Csepel,orgásztanya"
+1520,Görögkatolikus templom
+1520,Kolozsvári utca
+1520,Hollandi csárda
+1520,Fátra utca
+1520,Szent Imre tér
+1520,Deák tér
+1530,Karolina út
+1530,Andor utca / Tétényi út
+1530,Gépész utca
+1530,Törökugrató utca
+1530,Sasadi út
+1530,Regős utca
+1530,Egyetemváros - A38 hajóállomás
+1530,Nagyszeben út
+1530,Kelenföld vasútállomás
+1530,Péterhegyi út / Neszmélyi út
+1530,Tétényi út 30.
+1530,Pajkos utca
+1530,Újbuda-központ
+1530,Bornemissza tér
+1530,Menyecske utca
+1530,Torbágy utca
+1530,Kosztolányi Dezső tér
+1530,Puskás Tivadar utca
+1530,"Petőfi híd, budai hídfő"
+1530,Gazdagréti tér
+1530,Neszmélyi út
+1530,Szent Angyalok-templom
+1530,Alabástrom utca
+1530,Magyar tudósok körútja
+1530,Kecskeméti József utca
+1530,Gazdagréti út
+1530,Hajtány sor
+1530,Őrmezei út
+1530,Szent Imre Kórház
+1530,Jégvirág utca
+1530,Bikás park
+1530,Budafoki út / Szerémi sor
+1530,Torma utca
+1530,Péterhegyi út (Menyecske utca)
+1530,Infopark (Pázmány Péter sétány)
+1530,Igmándi utca
+1530,Tűzkő utca
+1530,Kérő utca
+1530,Duránci utca
+1530,Bolygó utca
+1540,Vincellér utca
+1540,Sasadi út
+1540,Kelenföld vasútállomás
+1540,Gazdagréti út
+1540,Torbágy utca
+1540,Szent Angyalok-templom
+1540,Ajnácskő utca
+1540,Infopark (Pázmány Péter sétány)
+1540,"Petőfi híd, budai hídfő"
+1540,Újbuda-központ
+1540,Tűzkő utca
+1540,Magyar tudósok körútja
+1540,Egyetemváros - A38 hajóállomás
+1540,BudaPart
+1540,Jégvirág utca
+1540,Nagyszeben út
+1540,Neszmélyi út
+1540,Budafoki út / Dombóvári út
+1540,Hollókő utca
+1540,Gazdagréti tér
+1540,Dayka Gábor utca
+1540,Péterhegyi út / Neszmélyi út
+1540,Budafoki út / Szerémi sor
+1540,Törökugrató utca
+1540,Kosztolányi Dezső tér
+1540,Regős utca
+1540,Péterhegyi út (Menyecske utca)
+1550,Hunyad lejtő
+1550,Béla király út
+1550,Városmajor
+1550,Széll Kálmán tér
+1550,György Aladár utca
+1550,Fácános tér
+1550,Szent János Kórház
+1550,Pető Intézet
+1550,Galgóczy utca
+1550,Rendelőintézet
+1550,Hunyad köz
+1550,Cinege út
+1550,"Kútvölgyi lejtő, Traumatológia"
+1550,Fészek utca
+1550,Nyúl utca
+1550,Kiss Áron utca
+1550,Zalai út
+1550,Virányos út
+1550,Zirzen Janka utca
+1550,Csillagvölgyi út
+1550,Dániel út
+1560,Pető Intézet
+1560,"Kútvölgyi lejtő, Traumatológia"
+1560,Városmajor
+1560,Nyúl utca
+1560,Dániel út
+1560,Virányos út
+1560,Rendelőintézet
+1560,Szent János Kórház
+1560,Fészek utca
+1560,Széll Kálmán tér
+1570,Hűvösvölgy
+1570,Bátori László utca
+1570,Muflon utca
+1570,Máriaremetei kegytemplom
+1570,Ábránd utca
+1570,Arany János utca
+1570,Köztársaság utca
+1570,"Solymár, Kerekhegy"
+1570,Honfoglalás utca
+1570,Turul utca
+1570,Kerekhegyi utca
+1570,Bükkfa utca
+1570,Szirom utca
+1570,Széchenyi utca
+1570,"Budaliget, Géza fejedelem útja"
+1570,Nagyrét utca
+1571,Nagyrét utca
+1571,Arany János utca
+1571,Máriaremetei kegytemplom
+1571,Szirom utca
+1571,Hűvösvölgy
+1571,Széchenyi utca
+1571,Köztársaság utca
+1571,Turul utca
+1571,Bükkfa utca
+1571,Honfoglalás utca
+1571,"Budaliget, Géza fejedelem útja"
+1571,Kerekhegyi utca
+1571,Bátori László utca
+1571,Ábránd utca
+1580,Liszt Ferenc út
+1580,Budafoki temető
+1580,Arató utca
+1580,Kazinczy utca
+1580,Jégmadár utca
+1580,Leányka utcai lakótelep
+1580,Víg utca (Sporttelep)
+1580,Savoyai Jenő tér
+1580,Lőcsei utca
+1580,Savoya Park
+1580,Karácsony utca
+1580,Komló utca
+1580,Tóth József utca
+1580,Mező utca
+1580,Kereszt utca
+1580,Városház tér
+1590,II. Rákóczi Ferenc út
+1590,Karácsony Sándor utca
+1590,Szent István út
+1590,Völgy utca
+1590,Csille utca
+1590,"Csepel, Szent Imre tér"
+1590,Erdősor utca
+1590,Kölcsey utca
+1590,Kölcsey utca (Erdősor utca)
+1590,Fémmű utca
+1590,Szent Imre tér
+1590,Széchenyi István utca
+1590,Szent László utcai lakótelep
+1590,Kossuth Lajos utca
+1590,Technikus utca
+1590,Kiss János altábornagy utca
+1590,Posztó utca
+1590,Csikó sétány
+1600,Égető utca
+1600,Bojtár utca
+1600,Templom utca
+1600,Csillaghegy
+1600,Orbán Balázs út
+1600,Óbudai temető
+1600,Aranyhegyi lejtő
+1600,Zemplén Győző utca
+1600,Óbudai rendelőintézet
+1600,Pusztadombi utca
+1600,Doboz utca
+1600,Perényi út
+1600,Kubik utca
+1600,Nád utca
+1600,Táncsicsihály utca
+1600,Ürömhegyi lejtő
+1600,Gulácsy Lajos utca
+1600,Kert sor
+1600,Óbudai autóbuszgarázs
+1600,Forrásliget lakópark
+1600,Békásmegyer
+1600,Váradi utca
+1600,Hősök tere
+1600,Bécsi út / Vörösvári út
+1600,Bojtár utca (Bécsi út)
+1600,Mészkő utca
+1600,Szentargit Kórház
+1600,Laborc utca
+1610,Szabadság sugárút
+1610,Bakancsos utca
+1610,Athenaeum Nyomda
+1610,"Rákoskeresztúr, városközpont"
+1610,Tárna utca
+1610,Orion
+1610,Nagyszentmiklósi út
+1610,Óvónő utca
+1610,Tápióbicske utca
+1610,Dombhát utca
+1610,Kis utca
+1610,Élessarok
+1610,Sörgyár
+1610,Rákos vasútállomás
+1610,Regélő utca
+1610,Kossuth Nyomda
+1610,513. utca
+1610,Kozma utca
+1610,Rézvirág utca
+1610,Kisvárda utca
+1610,Lemberg utca
+1610,Császárfa utca
+1610,Sági utca
+1610,Örs vezér tere
+1610,Keresztúri út
+1610,Borsó utca
+1610,Oroszvár utca
+1610,509. utca
+1610,Terebesi utca
+1610,Vecsey Ferenc utca
+1610,Téglavető utca
+1610,Maglódi út
+1610,Szárny utca
+1610,Kucorgó tér
+1610,501. utca
+1610,Fehér úti ipari park
+1610,Legényrózsa utca
+1610,Szent kereszt tér
+1610,Mezőtárkány utca
+1610,Alsódabas utca
+1610,Csaba vezér tér
+1611,Legényrózsa utca
+1611,501. utca
+1611,Kozma utca
+1611,Terebesi utca
+1611,Rézvirág utca
+1611,Dombhát utca
+1611,Tárna utca
+1611,Kossuth Nyomda
+1611,Borsó utca
+1611,Örs vezér tere
+1611,Keresztúri út
+1611,Sörgyár
+1611,513. utca
+1611,509. utca
+1611,"Rákoskeresztúr, Kis utcai lakótelep"
+1611,Élessarok
+1611,Orion
+1611,Fehér úti ipari park
+1611,Kis utca
+1611,Athenaeum Nyomda
+1611,Téglavető utca
+1611,Maglódi út
+1611,Rákos vasútállomás
+1615,Aluljáró (Rézvirág utca)
+1615,Kisvárda utca
+1615,"Rákoskeresztúr, városközpont"
+1615,Nagyszentmiklósi út
+1615,Kucorgó tér
+1615,513. utca
+1615,Kis utca
+1615,Mezőtárkány utca
+1615,Óvónő utca
+1615,Oroszvár utca
+1615,Lemberg utca
+1615,Vecsey Ferenc utca
+1615,Regélő utca
+1615,Alsódabas utca
+1615,Rézvirág utca
+1615,Császárfa utca
+1615,Borsó utca
+1615,Sági utca
+1615,Szent kereszt tér
+1615,Szárny utca
+1615,Csaba vezér tér
+1615,Szabadság sugárút
+1615,Bakancsos utca
+1615,Tápióbicske utca
+1615,Örs vezér tere
+1620,Bakancsos utca
+1620,513. utca
+1620,Legényrózsa utca
+1620,"Rákoskeresztúr, városközpont"
+1620,509. utca
+1620,Regélő utca
+1620,Kucorgó tér
+1620,Szabadság sugárút
+1620,Óvónő utca
+1620,Alsódabas utca
+1620,Nyomdok utca
+1620,Kossuth Nyomda
+1620,Zsigmond utca
+1620,501. utca
+1620,Kozma utca
+1620,Erzsébet körút
+1620,Ónodi utca
+1620,Szent László tér
+1620,Sörgyár
+1620,Tárna utca
+1620,Élessarok
+1620,Keresztúri út
+1620,Szigetcsép utca
+1620,Szent kereszt tér
+1620,Téglavető utca
+1620,"Maglód, Auchan áruház"
+1620,Maglódi út
+1620,Kőbánya alsó vasútállomás
+1620,Liget tér
+1620,Nyomdász utca
+1620,Rózsaszál utca
+1620,Csabagyöngye utca
+1620,Kis utca
+1620,Lemberg utca
+1620,Császárfa utca
+1620,Rákos vasútállomás
+1620,Harmat utca
+1620,Rézvirág utca
+1620,Szárny utca
+1620,Nagyszentmiklósi út
+1620,Sáránd utca
+1620,Athenaeum Nyomda
+1620,Borsó utca
+1620,Schell Gyuláné tér
+1620,Péceli út
+1620,Pesti út
+1620,Dombhát utca
+1620,Orion
+1620,Olcsva utca
+1621,Sörgyár
+1621,Maglódi út
+1621,509. utca
+1621,Borsó utca
+1621,Kozma utca
+1621,Szent László tér
+1621,513. utca
+1621,Orion
+1621,501. utca
+1621,Liget tér
+1621,Kőbánya alsó vasútállomás
+1621,Tárna utca
+1621,Legényrózsa utca
+1621,Rézvirág utca
+1621,Kis utca
+1621,Rákos vasútállomás
+1621,Athenaeum Nyomda
+1621,Téglavető utca
+1621,Harmat utca
+1621,Szent kereszt tér
+1621,Keresztúri út
+1621,Élessarok
+1621,Ónodi utca
+1621,Bakancsos utca
+1621,Dombhát utca
+1621,"Rákoskeresztúr, városközpont"
+1621,Kossuth Nyomda
+1640,Örökzöld utca
+1640,Községház utca
+1640,"Solymár, községháza"
+1640,Mikszáth Kálmán utca
+1640,Bajcsy-Zsilinszky utca
+1640,Hunyadi János utca
+1640,Anna kápolna
+1640,Pilisvörösvári utca
+1640,Dózsa György utca
+1640,"Solymár, PEMÜ"
+1640,Templom tér
+1640,Váciihály utca
+1640,Solymári elágazás
+1640,Bátori László utca
+1640,Munkás utca
+1640,Kossuth Lajos utca
+1640,Templom utca (Kultúrkúria)
+1640,Kökörcsin utca
+1640,Szarvashegy utca
+1640,Hűvösvölgy
+1640,Kölcsey utca
+1650,Kolosy tér
+1650,Folyondár utca (Szépvölgyi út)
+1650,Remetehegyi út
+1650,Folyondár utca
+1650,Kolostor út
+1650,Mikoviny utca
+1650,Ürömi utca
+1650,Kőzet utca
+1660,Szamaránszki dűlő
+1660,"Pesterzsébet, Baross utca"
+1660,Pesterzsébet vasútállomás
+1660,Kétújfalu utca
+1660,Duna utca
+1660,Kisfaludy utca
+1660,Víztorony tér
+1660,Ady Endre utca (Topánka utca)
+1660,"Pesterzsébet, városközpont"
+1660,Alacskai úti lakótelep
+1660,Csepeli átjáró
+1660,Gubacsi út /atár út
+1660,János tér
+1660,Szélső utca
+1660,"Soroksár,ősök tere"
+1660,Erzsébet utca
+1660,Soroksár vasútállomás
+1660,Soroksár felső
+1660,Kertészeti Egyetem
+1660,Ültetvény utca
+1660,Beszterce utca
+1660,Pestszentimre vasútállomás (Dózsa Gy.u.)
+1660,"Pestszentlőrinc, Béke tér"
+1660,Telefondűlő út
+1660,Templom utca 6.
+1660,Alacskai út
+1660,Pestszentimre vasútállomás (Nemes utca)
+1660,"Pestszentimre, Ültetvény utca"
+1660,Ferihegy vasútállomás
+1660,Halomi út
+1660,Tölgy utca
+1660,Festékgyár
+1660,Pestszentimre vasútállomás
+1660,"Vecsés út, sorompó"
+1660,Torontál utca
+1660,Ady Endre utca
+1660,Tangazdaság (Óvoda)
+1660,Damjanich utca
+1660,Tárcsás utca
+1660,Lajos utca
+1660,Török Flóris utca
+1685,Jászberényi út
+1685,Kerülő utca
+1685,Újmajori utca
+1685,Bogáncsvirág utca
+1685,Dedics Ferenc utca
+1685,Baross utca
+1685,Örs vezér tere
+1685,Tárna utca
+1685,Ősrepülő utca
+1685,Hungaropharma
+1685,Kossuth Nyomda
+1685,526. sor
+1685,Rákos vasútállomás
+1685,Tarkarét utca
+1685,Csillagmotor köz
+1685,Lőrinci út
+1685,Szabadság utca
+1685,Élessarok
+1685,Maglódi út
+1685,Csillagvirág utca
+1685,Sörgyár
+1685,Rákoshegy vasútállomás
+1685,Tűzoltóság
+1685,Ezüstfa utca
+1685,Melczer utca
+1685,"Rákoshegy, Ferihegyi út"
+1685,Kollégium
+1695,Borsó utca
+1695,Szent Imre körút
+1695,513. utca
+1695,"Rákoskeresztúr, városközpont"
+1695,Kossuth tér
+1695,Örs vezér tere
+1695,Pöröly utca
+1695,Köztársaság tér
+1695,Határ utca
+1695,Lemberg utca
+1695,Orvosi rendelő
+1695,Bakancsos utca
+1695,"Pécel, Kun József utca"
+1695,Ráday Gedeon tér
+1695,Szent kereszt tér
+1695,"Pécel, Pesti út 110."
+1695,Színes utca
+1695,Pécel vasútállomás
+1695,Czeglédiihály utca
+1695,Faiskola utcai átjáró
+1695,Szárny utca
+1695,Szabadság sugárút
+1695,Óvónő utca
+1695,Ebergény utca
+1695,Árpád utca
+1695,Kis utca
+1695,Csaba vezér tér
+1700,Árpád Kórház
+1700,Székely Elek út
+1700,Víztorony
+1700,Erzsébet utca
+1700,Visonta utca
+1700,Árpád üzletház
+1700,Bútorraktár
+1700,Kosd utca
+1700,Kanizsai Dorottya utca
+1700,"Rákospalota, Székely Elek út"
+1700,Szlacsányi Ferenc utca
+1700,Újpest-központ
+1700,Hubay Jenő tér
+1700,Csobogós utca
+1700,"Rákospalota, Csömöri-patak"
+1700,"Rákospalota, Kossuth utca"
+1700,Mogyoród útja
+1700,Széchenyi tér
+1700,Árokhát út
+1720,Kelenföld vasútállomás
+1720,Bartók Béla utca
+1720,Jókaiór utca
+1720,Törökbálint vasútállomás
+1720,Ady Endre utca
+1720,Őszibarack utca
+1720,Harangláb
+1720,Méhecske utca
+1720,Nyár utca
+1720,Széchenyi tér
+1720,Raktárváros
+1720,Deák Ferenc utca
+1720,Idősek otthona
+1720,"Budaörs, benzinkút"
+1720,Sasadi út
+1720,Kerekdomb utca
+1720,Munkácsyihály utca (hősi emlékmű)
+1720,Tükörhegy
+1720,Vasút utca
+1720,Köztársaság tér
+1730,Bartók Béla utca
+1730,Kerekdomb utca
+1730,Méhecske utca
+1730,Zrínyi utca
+1730,Harangláb
+1730,Vasút utca
+1730,Munkácsyihály utca (hősi emlékmű)
+1730,Köztársaság tér
+1730,Deák Ferenc utca
+1730,Sasadi út
+1730,"Budaörs, benzinkút"
+1730,Raktárváros
+1730,Idősek otthona
+1730,Katona József utca
+1730,Tükörhegy
+1730,Jókaiór utca
+1730,Törökbálint vasútállomás
+1730,Nyár utca
+1730,Kelenföld vasútállomás
+1740,Állás utca
+1740,Batthyány utca
+1740,Mátyás király utca
+1740,Jávorfa utca
+1740,Körvasút sor
+1740,Ostoros út 61.
+1740,János utca
+1740,Szénás utca
+1740,Szlovák út
+1740,Örs vezér tere
+1740,Rózsa utca
+1740,József utca
+1740,Szilas-patak
+1740,Felsőmalom utca
+1740,Cinkota
+1740,Csókakő utca
+1740,Ostoros út 40.
+1740,Diófa utca
+1740,Csertő utca
+1740,Alsómalom utca
+1750,Csömöri út (Szlovák út)
+1750,Ostoros út 61.
+1750,Állás utca
+1750,Gusztáv utca
+1750,"Újpalota, Szentmihályi út"
+1750,Rákospalotai határút
+1750,Péterke utca
+1750,Timur utca
+1750,Alsómalom utca
+1750,Ostoros út 40.
+1750,Szentmihályi út
+1750,Csókakő utca
+1750,Cinkota
+1750,Baross utca
+1750,György utca
+1750,Csömöri út
+1750,Felsőmalom utca
+1750,"Kisszentmihály, Baross utca"
+1750,Besztercebányai utca
+1765,Örs vezér tere
+1765,IV. utca
+1765,Robogó utca
+1765,XVIII. utca
+1765,Rákoscsaba-Újtelep vasútállomás
+1765,Bökényföldi út
+1765,II. utca
+1765,Rákoscsaba vasútállomás
+1765,XVII. utca
+1765,Hősök tere
+1765,Nebántsvirág utca
+1765,Injekcióüzem
+1765,Liszt Ferenc utca
+1765,Tura utca
+1765,Vidor utca
+1765,Rákosliget vasútállomás
+1765,Újszász utca
+1765,Jókaiór utca (Rendőrség)
+1765,Hunyadvár utca
+1765,Harsona utca
+1765,Lándzsa utca
+1765,Gőzös utca
+1765,EGIS Gyógyszergyár
+1765,Ároktő út
+1765,"Rákoscsaba-Újtelep, Tóalmás utca"
+1765,Veres Péter út
+1765,"Mátyásföld, repülőtér"
+1765,Kis Károshíd utca
+1765,Egyenes utcai lakótelep
+1765,Cinkotai autóbuszgarázs
+1765,Thököly út
+1765,Gyöngytyúk utca
+1765,Zsemlékes út
+1765,Bártfai utca
+1765,Petőfi tér
+1765,"Mátyásföld, Imre utca"
+1765,Tarack utca
+1780,Dózsa György tér
+1780,Alagút utca
+1780,Krisztina tér
+1780,Zsolt utca
+1780,Keleti pályaudvar
+1780,Astoria
+1780,Róka utca
+1780,Ferenciek tere
+1780,Szarvas tér
+1780,Ág utca
+1780,Naphegy tér
+1780,Március 15. tér
+1780,Sánc utca
+1780,Uránia
+1780,Huszár utca
+1780,Döbrentei tér
+1780,Blaha Lujza tér
+1790,Karácsony Sándor utca
+1790,Színesfém utca
+1790,Csepeli Kórház
+1790,Wein János út
+1790,Szent Imre tér
+1790,Közterületfenntartó Zrt.
+1790,Szállító utca 6.
+1790,Corvin-csomópont
+1790,Szabadkikötő
+1790,Ady Endre út (Kossuth Lajos utca)
+1790,Szikratávíró utca
+1790,Közvágóhíd
+1790,Mansfeld Péter utca
+1790,Déli utca
+1790,Duna utca
+1790,Vámhivatal
+1790,Csepeli híd
+1790,"Csepel, Kossuth Lajos utca"
+1790,Szállító utca
+1790,Helyi kikötő út
+1790,Kiss János altábornagy utca
+1810,Ifjúmunkás utca
+1810,Merényi Gusztáv Kórház
+1810,"József Attila ltp., Távíró utca"
+1810,Füleki utca
+1810,Börzsöny utca
+1810,Gyáli út
+1810,Aszódi utca
+1810,Lobogó utca
+1810,Friss utca
+1810,Közterületfenntartó Zrt.
+1810,Ecseri út
+1810,Péceli utca
+1810,Aranyvirág sétány
+1810,Valéria tér
+1820,Dalmady Győző utca
+1820,Olt utca
+1820,Varjú utca
+1820,Thököly út
+1820,Csörötnek utca
+1820,Gyékény tér
+1820,Hőerőmű
+1820,Csillag utca
+1820,Wlassics Gyula utca
+1820,Kőbánya-Kispest
+1820,Gilice tér
+1820,Nagyenyed utca
+1820,Tinódi utca
+1820,Alacskai úti lakótelep
+1820,Halomi út
+1820,Alacskai út
+1820,Tarkő utca
+1820,Regény utca
+1820,Lakatos úti lakótelep
+1820,Bocskai utca
+1820,Tölgy utca
+1820,Királyhágó út
+1820,Sas utca
+1820,Szarvas csárda tér
+1820,Mikszáth Kálmán utca
+1820,Lőrinci temető
+1820,Dobozi utca
+1820,Wesselényi utca
+1820,Kétújfalu utca
+1821,Kőbánya-Kispest
+1821,Csillag utca
+1821,Thököly út
+1821,Lakatos úti lakótelep
+1821,Wesselényi utca
+1821,Tinódi utca
+1821,Regény utca
+1821,Varjú utca
+1821,Bocskai utca
+1821,Wlassics Gyula utca
+1821,Dobozi utca
+1821,Hőerőmű
+1821,Csörötnek utca
+1821,Lőrinci temető
+1821,Szarvas csárda tér
+1821,Mikszáth Kálmán utca
+1830,"Pestszentlőrinc, Szarvas csárda tér"
+1830,Wlassics Gyula utca
+1830,Regény utca
+1830,Szent László utca
+1830,Sas utca
+1830,Szemeretelep vasútállomás
+1830,Dobozi utca
+1830,Honvéd utca
+1830,Selmecbánya utca
+1830,Gárdonyi Géza utca
+1830,Dalmady Győző utca
+1830,Üllői út
+1830,Gilice tér
+1830,Szarvas csárda tér
+1830,Varjú utca
+1840,Kisfaludy utca (Nemes utca)
+1840,Lőrinci temető
+1840,Péterhalmi út
+1840,Hőerőmű
+1840,Varjú utca
+1840,Regény utca
+1840,Mikszáth Kálmán utca
+1840,Törvény utca
+1840,Szálfa utca
+1840,Tinódi utca
+1840,Csillag utca
+1840,Szigeti Kálmán utca
+1840,Kisfaludy utca
+1840,Lakatos úti lakótelep
+1840,Kőbánya-Kispest
+1840,Csörötnek utca
+1840,Dobozi utca
+1840,Obszervatórium
+1840,Wlassics Gyula utca
+1840,"Pestszentimre, Benjámin utca"
+1840,Kapocs utca
+1840,Szarvas csárda tér
+1840,Kettős-Körös utca
+1840,Vezér utca
+1840,Bocskai utca
+1840,Thököly út
+1840,Wesselényi utca
+1850,Kőbánya alsó vasútállomás
+1850,Szlávy utca
+1850,Ihász utca
+1850,Kada utca
+1850,Ónodi utca
+1850,Kőrösi Csoma Sándor út
+1850,Tavas utca
+1850,Harmat utca
+1850,Szent László tér
+1850,"Újhegyi út, Sportliget"
+1850,Dolomit utca
+1850,Újhegyi sétány
+1850,Kocka utca
+1850,Mádi utca
+1850,Lavotta utca
+1850,Csősztorony
+1850,Sibrikiklós út
+1850,Téglavető utca
+1870,Repülőgépes Szolgálat
+1870,Kelenföld vasútállomás
+1870,Kőérberek
+1870,Tippan utca
+1870,Sasadi út
+1870,Budaörsi repülőtér
+1870,Régi vám
+1870,Keserűvíztelep (Bobpálya)
+1870,Kamaraerdei út 11.
+1870,Idősek Otthona
+1870,Vasút utca
+1870,Régi vám (Kánai út)
+1870,Kamaraerdő
+1870,Kamaraerdei Ifjúsági Park
+1880,Gazdagréti út
+1880,Széchenyi utca (gimnázium)
+1880,Farkashegyi repülőtér
+1880,Tulipán utca
+1880,"Budakeszi,onfoglalás sétány"
+1880,Csiki tanya
+1880,Ibolya utca
+1880,"Budakeszi, Tiefenweg utca"
+1880,Gimnázium
+1880,Lejtő utca
+1880,"Budakeszi, városháza"
+1880,Rupphegyi út
+1880,Gyár utca
+1880,Károly király utca
+1880,Felsőhatár utca
+1880,"Budakeszi, Tesco áruház"
+1880,Kötő utca
+1880,Templom tér
+1880,Alcsiki dűlő
+1880,Csiki csárda
+1880,Raktárbázis
+1880,"Budaörs, városháza"
+1880,Kisfaludy utca
+1880,"Budaörs, Gábor Dénes körút"
+1880,Budakeszi temető
+1880,Madárhegy
+1880,Szőlőskert utca
+1880,Aradi utca
+1880,Kelenföld vasútállomás
+1880,Sasadi út
+1880,Zichy Péter utca
+1880,Erdő utca
+1880,Dózsa György tér
+1885,Sasadi út
+1885,Farkashegyi repülőtér
+1885,Budakeszi temető
+1885,Ibolya utca
+1885,Gyár utca
+1885,"Budakeszi, Dózsa György tér"
+1885,"Budakeszi, Tiefenweg utca"
+1885,Raktárbázis
+1885,Lévai utca
+1885,Gimnázium
+1885,Dózsa György tér
+1885,Erkel Ferenc utca
+1885,Gyógyszertár
+1885,Zichy Péter utca
+1885,Erdő utca
+1885,Lejtő utca
+1885,"Budakeszi, Tesco áruház"
+1885,Kelenföld vasútállomás
+1885,"Budakeszi,onfoglalás sétány"
+1885,Csiki csárda
+1885,Széchenyi utca (gimnázium)
+1885,"Budaörs, Gábor Dénes körút"
+1885,Alcsiki dűlő
+1885,Csiki tanya
+1885,Szőlőskert utca
+1885,"Budakeszi, városháza"
+1910,Zivatar utca
+1910,Jászaiari tér
+1910,Rómer Flóris utca
+1910,Kavics utca
+1910,Apostol utca
+1910,Vérhalom utca
+1910,Sarolta utca
+1910,Mandula utca
+1910,Margit körút
+1910,Nyugati pályaudvar
+1910,Mansfeld Péter park
+1910,"Margit híd, budai hídfő"
+1935,Szarvas csárda tér
+1935,"Pestszentlőrinc, Béke tér"
+1935,Rába utca
+1935,"Ganztelep,ednyánszky utca"
+1935,Lőrinci utca
+1935,Kupeczky János utca
+1935,Felsőcsatári út
+1935,"Vecsés, Fő út"
+1935,"Vecsés,arket Central Ferihegy"
+1935,Vajk utca
+1935,Kőbánya-Kispest
+1935,Lincoln út
+1935,"Pestszentlőrinc, sorompó"
+1935,Gyergyó utca
+1940,Vas Gereben utca
+1940,Madarassy László utca
+1940,Kossuth Lajos utca
+1940,Pannónia út
+1940,Goroszló utca
+1940,Batthyány utca
+1940,Csíky utca
+1940,Corvin körút
+1940,Zoltán utca
+1940,Ipolyság utca
+1940,Tövishát utca
+1940,Hofherr Albert utca
+1940,Pincér utca
+1940,Határ út
+1940,Hunyadi tér
+1940,Garázs utca
+1940,Kassa utca
+1940,Ipacsfa utca
+1940,Kós Károly tér
+1940,Kele utca
+1940,Ajtósi utca
+1940,Karton utca
+1942,Határ út
+1942,Goroszló utca
+1942,Közdűlő út
+1942,Csíky utca
+1942,Kós Károly tér
+1942,Ajtósi utca
+1942,Hofherr Albert utca
+1942,Batthyány utca
+1942,Madarassy László utca
+1942,Hunyadi tér
+1942,Karton utca
+1942,Pincér utca
+1942,Zoltán utca
+1942,Vas Gereben utca
+1942,Garázs utca
+1942,Ipolyság utca
+1942,Kossuth Lajos utca
+1942,Corvin körút
+1942,Pannónia út
+1942,Kele utca
+1942,Besence utca
+1942,Ipacsfa utca
+1942,Besence utca 9.
+1942,Kassa utca
+1942,Tövishát utca
+1944,Ipacsfa utca
+1944,Határ út
+1944,Tövishát utca
+1944,Kondor Béla sétány
+1944,Vörösmartyihály utca
+1944,Barta Lajos utca
+1944,Fiatalság utca
+1944,Goroszló utca
+1944,Szent Lőrinc-telep
+1944,Kele utca
+1950,"Rákoskeresztúr, városközpont"
+1950,Keresztúri út
+1950,Rézvirág utca
+1950,513. utca
+1950,Kistorony park
+1950,501. utca
+1950,Kápolna utca
+1950,Kozma utca
+1950,Gránátos utca
+1950,509. utca
+1950,Sírkert út
+1950,Bajcsy-Zsilinszky Kórház
+1950,Kápolna tér
+1950,Kemence utca
+1950,Kada utca /armat utca
+1950,Meténg utca
+1950,Kada utca /aglódi út
+1950,Athenaeum Nyomda
+1950,Legényrózsa utca
+1950,Bakancsos utca
+1950,Kada utca /ádi utca
+1950,Izraelita temető
+1950,Puskás Ferenc Stadion
+1950,Őrnagy utca
+1950,Óhegy park
+1950,Pongrácz úti lakótelep
+1950,Márga utca
+1950,Borsó utca
+1950,Dombhát utca
+1950,Kossuth Nyomda
+1950,Kőbánya alsó vasútállomás
+1950,Új köztemető
+1950,Venyige utca
+1950,Szent kereszt tér
+1950,Hős utca
+1950,Kis utca
+1960,"Újpest, Árpád út hajóállomás"
+1960,Bezerédj Pál utca
+1960,Sárfű utca
+1960,Szentmihályi út
+1960,Hubay Jenő tér
+1960,"Újpalota, Szentmihályi út"
+1960,Erdőkerülő utca 27.
+1960,Károlyi István utca
+1960,"Újpest, Fóti út"
+1960,Beller Imre utca
+1960,Megyeri út / Fóti út
+1960,Zsókavár utca
+1960,Árpád Kórház
+1960,Újpest-központ
+1960,Tungsram
+1960,Vásárcsarnok
+1960,Régi Fóti út
+1960,Erdőkerülő utca 28.
+1960,Árpád üzletház
+1960,Fő tér
+1960,Zsilip utca
+1960,Páskomliget utca
+1960,Tímár utca
+1960,Fazekas sor
+1960,Bánkút utca
+1960,Rákospalotai köztemető
+1960,Újpest-városkapu
+1960,Szusza Ferenc Stadion
+1960,Erdőkerülő utca
+1961,Beller Imre utca
+1961,Erdőkerülő utca
+1961,Újpest-városkapu
+1961,Páskomliget utca
+1961,Rákospalotai köztemető
+1961,Újpest-központ
+1961,Bezerédj Pál utca
+1961,Bánkút utca
+1961,Régi Fóti út
+1961,Erdőkerülő utca 27.
+1961,Erdőkerülő utca 28.
+1961,"Újpalota, Szentmihályi út"
+1961,Szentmihályi út
+1961,Fazekas sor
+1961,Fő tér
+1961,Hubay Jenő tér
+1961,Árpád Kórház
+1961,Árpád üzletház
+1961,Sárfű utca
+1961,Zsókavár utca
+1961,Vásárcsarnok
+1970,Erzsébet körút
+1970,Olcsva utca
+1970,Sáránd utca
+1970,Pesti út
+1970,Kucorgó tér
+1970,Rákoskert vasútállomás
+1970,Nyomdok utca
+1970,Schell Gyuláné tér
+1970,Nyomdász utca
+1970,Rózsaszál utca
+1980,Almásháza utca
+1980,Baross utca
+1980,Fedezék utca
+1980,Rákosliget vasútállomás
+1980,Bocskai István utca
+1980,Bakancsos utca
+1980,Melczer utca
+1980,Besence utca
+1980,Diadal utca
+1980,Orgoványi utca
+1980,Aranykút utca
+1980,XVIII. utca
+1980,IV. utca
+1980,Gyömrői út
+1980,Frangepán utca
+1980,Ipacsfa utca
+1980,Hősök tere
+1980,Bánya part
+1980,"Rákoscsaba-Újtelep, Naplás út"
+1980,Rákóczi Ferenc utca
+1980,Csévéző utca
+1980,Kis Károshíd utca
+1980,Szent kereszt tér
+1980,Gőzös utca
+1980,Bélatelepi út
+1980,Árpád fejedelem utca
+1980,Uszoda
+1980,Wlassics Gyula utca
+1980,Füstifecske utca
+1980,Madárdomb köz
+1980,Ároktő út
+1980,Margó Tivadar utca
+1980,Rákoshegy vasútállomás
+1980,Homokiszőlők
+1980,Városközpont (Ferihegyi út)
+1980,Varjú utca
+1980,Jászágó utca
+1980,Bulyovszky utca
+1980,Vörösmarty utca
+1980,Szarvas csárda tér
+1980,Lőrinci út (Szabadság utca)
+1980,Dél-pesti autóbuszgarázs
+1980,Kosztolányi Dezső utca
+1980,"Rákoskeresztúr, városközpont"
+1980,Bártfai utca
+1980,Regény utca
+1980,Harsona utca
+1980,Kis utca
+1980,Dobozi utca
+1980,Lőrinci út
+1980,Ady Endre utca
+1980,Ananász utca
+1980,"Újlak utca, lakótelep"
+1980,Rákoscsaba vasútállomás
+1980,XVII. utca
+1980,"Rákoscsaba-Újtelep, Tóalmás utca"
+1980,Lőrinci temető
+1980,Jászivány utca
+1990,Mészáros Lőrinc utca
+1990,Batthyány utca
+1990,Szegfű utca
+1990,Ady Endre út
+1990,Hofherr Albert utca
+1990,Hunyadi tér
+1990,Pincér utca
+1990,Vas Gereben utca
+1990,Vas Gereben utca (Ady Endre út)
+1990,Pannónia út
+1990,Zoltán utca
+1990,Kossuth Lajos utca
+1990,Határ út
+1990,Corvin körút
+1990,Garázs utca
+1990,Áchim András utca
+1990,Kós Károly tér
+2005,Kőbánya-Kispest
+2005,Repülőmúzeum
+2005,Nemzetközi Posta Kicserélő Központ
+2005,Ferihegy vasútállomás
+2005,Billentyű utca
+2005,Liszt Ferenc Airport 2
+2005,Szemeretelep vasútállomás
+2005,Felsőcsatári út
+2005,Repülőtéri Rendőr Igazgatóság
+2005,"Repülőtér, D porta"
+2005,Vecsés-nyugat
+2005,Csévéző utca
+2005,Határ út
+2005,Pestszentlőrinc vasútállomás (átjáró)
+2005,Cargo City
+2025,Kőbánya-Kispest
+2025,Kis utca
+2025,509. utca
+2025,Bányató utca
+2025,Szabadság sugárút
+2025,Új köztemető
+2025,Kisvárda utca
+2025,Tápióbicske utca
+2025,Regélő utca
+2025,Oroszvár utca
+2025,Mezőtárkány utca
+2025,Csaba vezér tér
+2025,Rézvirág utca
+2025,Császárfa utca
+2025,Szárny utca
+2025,Óvónő utca
+2025,Szent kereszt tér
+2025,513. utca
+2025,Alsódabas utca
+2025,Bakancsos utca
+2025,Vecsey Ferenc utca
+2025,Borsó utca
+2025,Lemberg utca
+2025,Sági utca
+2025,501. utca
+2025,Nagyszentmiklósi út
+2025,Kucorgó tér
+2025,"Rákoskeresztúr, városközpont"
+2040,Erzsébet utca
+2040,Békásmegyer
+2040,Károlyi István utca
+2040,"Rákospalota, Kossuth utca"
+2040,Juhos utca
+2040,Hímző utca
+2040,Víztorony
+2040,Széchenyi tér
+2040,Tímár utca
+2040,Újpest-központ
+2040,Béla utca
+2040,Árpád üzletház
+2040,Tungsram
+2040,Rév utca
+2040,Madzsar József utca /adrianus utca
+2040,Bálint György utca
+2040,Hubay Jenő tér
+2040,Zsilip utca
+2040,Szolgáltatóház
+2040,Hatvany Lajos utca / Juhász Gyula utca
+2040,"Budakalász, Auchan áruház"
+2040,"Békásmegyer, Újmegyeri tér"
+2040,Fóti út
+2040,Újpest-városkapu
+2040,"Kossuth utca, lakótelep"
+2040,"Újpest, Árpád út hajóállomás"
+2040,Árpád Kórház
+2040,Bagaria utca
+2040,Ungvári utca
+2040,Árpád út
+2120,Diószegi út (Vérellátó Szolgálat)
+2120,Óra út
+2120,Szent Orbán tér
+2120,Csörsz utca
+2120,Alsóhegy utca
+2120,Galántai utca
+2120,BAH-csomópont
+2120,Fülemile út
+2120,Ordas út
+2120,Kosztolányi Dezső tér
+2120,Újbuda-központ
+2120,Normafa
+2120,Budaörsi út / Villányi út
+2120,"Petőfi híd, budai hídfő"
+2120,Nógrádi utca
+2120,Adonis utca
+2120,Vincellér utca
+2120,Kiss János altábornagy utca
+2120,Boráros tér
+2120,Svábhegy
+2120,Őzike köz
+2120,Istenhegyi lejtő
+2120,Budafoki út / Szerémi sor
+2120,Királyhágó tér
+2120,Városkút
+2120,"Normafa, Gyermekvasút"
+2120,Sirály utca
+2120,Pethényi út
+2130,Bikás park
+2130,Budafok kocsiszín
+2130,Leányka utcai lakótelep
+2130,Csurgói út
+2130,Lépcsős utca
+2130,Tétényi út 30.
+2130,Fonyód utca
+2130,Bem tábornok utca
+2130,Karolina út
+2130,Botond utca
+2130,Szent Imre Kórház
+2130,Puskás Tivadar utca
+2130,Háros vasútállomás
+2130,Szent László utca
+2130,Háros utca
+2130,Savoyai Jenő tér
+2130,Albertfalva utca
+2130,Görgey utca
+2130,Tóth József utca
+2130,Tátra utca
+2130,Móricz Zsigmond körtér
+2130,Városház tér
+2130,Jókaiór utca
+2130,I. utca
+2130,XIII. utca / Dózsa György út
+2130,Mátyás király utca
+2130,Török utca
+2130,Vágóhíd utca
+2130,Andor utca / Tétényi út
+2130,Rózsakert utca /inta utca
+2130,Kosztolányi Dezső tér
+2130,Dukát utca
+2130,Nyéki Imre Uszoda
+2130,Budatétény vasútállomás (Növény utca)
+2130,Bornemissza tér
+2140,Tóth József utca
+2140,Városház tér
+2140,Háros utca
+2140,Tátra utca
+2140,XIII. utca / Dózsa György út
+2140,Vágóhíd utca
+2140,Szent László utca
+2140,Puskás Tivadar utca
+2140,Budafok kocsiszín
+2140,I. utca
+2140,Jókaiór utca
+2140,Andor utca / Tétényi út
+2140,Rózsakert utca /inta utca
+2140,Bikás park
+2140,Csurgói út
+2140,"Baross Gábor-telep, Ispiláng utca"
+2140,Albertfalva utca
+2140,Budatétény vasútállomás (Növény utca)
+2140,Bem tábornok utca
+2140,Móricz Zsigmond körtér
+2140,Leányka utcai lakótelep
+2140,Bornemissza tér
+2140,Fonyód utca
+2140,Nyéki Imre Uszoda
+2140,Karolina út
+2140,Savoyai Jenő tér
+2140,Tétényi út 30.
+2140,Szent Imre Kórház
+2140,Lépcsős utca
+2140,Háros vasútállomás
+2140,Kosztolányi Dezső tér
+2140,XVI. utca
+2170,Szarvas csárda tér
+2170,Gárdonyi Géza utca
+2170,Fedezék utca
+2170,Csaba utca
+2170,Gergely utca
+2170,"Pestszentlőrinc, Szarvas csárda tér"
+2170,Szlávy utca
+2170,Kőér utca
+2170,Kápolna utca
+2170,Gergely utca 80.
+2170,Gyula utca
+2170,Vasgyár utca
+2170,Noszlopy utca
+2170,Lőrinci temető
+2170,Sibrikiklós út
+2170,Gyömrői út 132.
+2170,Újhegyi út
+2170,Kápolna tér
+2170,Diósgyőri utca
+2170,Kada utca
+2170,Gyömrői út 105.
+2170,Gergely utca (Sibrikiklós út)
+2170,Kosztolányi Dezső utca
+2170,Pestszentlőrinc vasútállomás (átjáró)
+2170,Ihász utca
+2170,Hangár utca
+2170,Kőbánya alsó vasútállomás
+2170,Felsőcsatári út
+2170,Gyömrői út
+2170,Szent László tér
+2170,Vajk utca
+2170,Gyömrői út 156.
+2175,Gyömrői út 156.
+2175,Gyömrői út 105.
+2175,Kőbánya alsó vasútállomás (Mázsa tér)
+2175,Felsőcsatári út
+2175,Lőrinci temető
+2175,Pestszentlőrinc vasútállomás (átjáró)
+2175,Gárdonyi Géza utca
+2175,"Pestszentlőrinc, Szarvas csárda tér"
+2175,Gyógyszergyár
+2175,Regény utca
+2175,Kőbányai út / Könyves Kálmán körút
+2175,Kosztolányi Dezső utca
+2175,Sibrikiklós út
+2175,Vaspálya utca
+2175,Gyömrői út 132.
+2175,Csaba utca
+2175,Újhegyi út
+2175,Diósgyőri utca
+2175,II. János Pál pápa tér
+2175,Hangár utca
+2175,Orczy tér
+2175,Blaha Lujza tér
+2175,Fedezék utca
+2175,Vajk utca
+2180,Laborc utca
+2180,"Solymár, téglagyári bekötőút"
+2180,Szőlő utca
+2180,Flórián tér
+2180,Bojtár utca
+2180,Külső Bécsi út 35.
+2180,Aranyvölgy vasútállomás
+2180,Szőlővész utca
+2180,Aranyvölgy utca 14.
+2180,"Solymár, Szarvas"
+2180,Óbuda vasútállomás (Aranyhegyi út)
+2180,Óbudai rendelőintézet
+2180,Üröm vasúti megállóhely
+2180,Serfőző utca
+2180,Óbudai temető
+2180,Orbán Balázs út
+2180,Bojtár utca (Bécsi út)
+2180,"Pilisborosjenő, Téglagyári tér"
+2180,Ürömhegyi út
+2180,Kubik utca
+2180,Vihar utca
+2180,Szentlélek tér
+2180,Óbudai autóbuszgarázs
+2180,Tücsök utca
+2180,Bécsi út / Vörösvári út
+2180,"Solymár, Auchan áruház"
+2180,Kövesbérci utca
+2190,Mészkő utca
+2190,Öregbükk utca
+2190,Forrásliget lakópark
+2190,Mácsonya utca
+2190,Kőpor köz / Jutas utca
+2190,Saroglya utca
+2190,WP-056169
+2190,Csillaghegy
+2190,Muzsla utca [11]
+2190,Cserszömörce utca
+2190,Ürömhegyi út / Jutas utca
+2190,Iglice utca / Jutas utca
+2190,Óarany utca [10]
+2200,"Újpest, Erdősor út"
+2200,Szent László tér
+2200,Deák Ferenc utca / Rózsa utca
+2200,Nádor utca
+2200,Leiningen Károly utca
+2200,Újpesti rendelőintézet
+2200,Vécsey Károly utca
+2200,Vadgesztenye utca
+2200,Iglói utca
+2200,Ugró Gyula sor
+2200,Kiss Ernő utca
+2200,Újpest-központ
+2200,Fóti út
+2200,Izzó utca
+2200,Erzsébet utca
+2200,Árpád üzletház
+2220,Városmajor
+2220,Moholy-Nagyűvészeti Egyetem
+2220,Gyógyszertár
+2220,Labanc út
+2220,Dénes utca
+2220,Budakeszi temető
+2220,Kuruclesi út
+2220,Széchenyi utca (gimnázium)
+2220,Irén utca
+2220,Zichy Péter utca
+2220,Vízművek
+2220,Országos Korányi Intézet
+2220,Budagyöngye
+2220,Bíróság
+2220,Szépilona
+2220,"Szépjuhászné, Gyermekvasút"
+2220,Laktanya
+2220,Szanatórium utca (Vadaspark)
+2220,Szent János Kórház
+2220,Széll Kálmán tér
+2220,"Budakeszi,onfoglalás sétány"
+2220,Bölcsőde
+2220,Erkel Ferenc utca
+2234,Szentlőrinci úti lakótelep
+2234,Pacsirta utca
+2234,Magyar utca
+2234,Haller utca / Soroksári út
+2234,Pesterzsébet felső
+2234,Ady Endre utca (Topánka utca)
+2234,Mézes utca
+2234,Dinnyehegyi út
+2234,"Pesterzsébet, Baross utca"
+2234,Ady Endre tér
+2234,Nagysándor József utca
+2234,Újtelep út
+2234,Eperjes utca
+2234,"Pesterzsébet, városközpont"
+2234,Maros utca
+2234,Wesselényi utca
+2234,Szalárdiór utca
+2234,"Pesterzsébet, Ady Endre tér"
+2234,Tátra tér
+2234,Szent László utca
+2234,Közvágóhíd
+2234,Mesgye utca
+2234,Jahn Ferenc Kórház
+2234,Kiss Ernő utca
+2234,Boráros tér
+2234,Előd utca
+2240,Illyés Gyula utca
+2240,Erdőkerülő utca 27.
+2240,"Rákospalota, Kossuth utca"
+2240,Madách utca
+2240,Pólus Center
+2240,Beller Imre utca
+2240,"Fót, Auchan áruház"
+2240,Észak-Pesti Kórház
+2240,Mogyoród útja
+2240,Opál utca
+2240,Epres sor
+2240,"Rákospalota, Bogáncs utca"
+2240,Szántóföld utca
+2240,Rákospalotai köztemető
+2240,Fazekas sor
+2240,Szentmihályi út
+2240,Sárfű utca
+2240,Régi Fóti út
+2240,Erdőkerülő utca
+2240,Csobogós utca
+2240,Wesselényi utca
+2240,Széchenyi út
+2240,Pentelényi János utca
+2240,AsiaCenter
+2240,Fő tér
+2240,Rákos úti szakrendelő
+2240,Deák utca
+2240,Hubay Jenő tér
+2240,"Újpalota, Szentmihályi út"
+2240,Széchenyi tér
+2240,Sztáraiihály tér
+2240,Juhos utca
+2240,Szent Korona útja
+2240,Thököly út
+2240,Pöltenberg Ernő utca
+2250,Fő út
+2250,Sződliget utca
+2250,Régi Fóti út
+2250,Beller Imre utca
+2250,Pozsony utca
+2250,Széchenyi út
+2250,Hubay Jenő tér
+2250,Mexikói út
+2250,Mélyfúró utca
+2250,Kovácsi Kálmán tér
+2250,Szerencs utca
+2250,Rákospatak utca
+2250,Szentmihályi út
+2250,Fazekas sor
+2250,Székely Elek út
+2250,"Rákospalota, Székely Elek út"
+2250,Bezerédj Pál utca
+2250,Árokhát út
+2300,Angyalföld vasútállomás
+2300,Fáy utca
+2300,Türr István utca / Nádor utca
+2300,Illek Vince utca
+2300,Tél utca / Pozsonyi utca
+2300,Újpest-központ
+2300,Vágány utca / Dózsa György út
+2300,Ötvenhatosok tere
+2300,Hősök tere
+2300,Dembinszky utca
+2300,"Megyer, Szondi utca"
+2300,Futár utca
+2300,Reiner Frigyes park
+2300,Rokolya utca
+2300,Kucsma utca
+2300,Petneházy utca
+2300,Irányi Dániel utca / Baross utca
+2300,Megyeri út / Fóti út
+2300,"Káposztásmegyer, Aquaworld"
+2300,Benczúr utca
+2300,Íves út
+2300,Megyeri temető
+2300,Vágány utca / Róbert Károly körút
+2300,Csokonai utca
+2300,Keleti pályaudvar
+2300,Damjanich utca / Dózsa György út
+2300,Baross utca / Fóti út
+2300,Gyöngyösi utca
+2300,Angyalföld kocsiszín
+2300,Szegedi út
+2300,Mildenberger utca
+2310,Cserba Elemér út
+2310,Füredi utca
+2310,Baross utca
+2310,Pálya utca
+2310,Juhos utca
+2310,Késmárk utca 20.
+2310,Rákospalotai határút
+2310,Fazekas sor
+2310,Rigó utca
+2310,Álmos vezér útja
+2310,Wesselényi utca
+2310,Pöltenberg Ernő utca
+2310,Késmárk utca 9.
+2310,Bezerédj Pál utca
+2310,Nyírpalota út
+2310,"Rákospalota, Széchenyi tér"
+2310,Thököly út
+2310,Szerencs utca
+2310,Késmárk utca 11.
+2310,Vezér utca
+2310,"Kossuth utca, lakótelep"
+2310,Telek utca
+2310,Fischer István utca
+2310,Tihamér utca
+2310,Kolozsvár utca
+2310,"Rákospalota, Kossuth utca"
+2310,Rákosmező utca 39.
+2310,Csömöri út
+2310,Régi Fóti út
+2310,Fogarasi út
+2310,Késmárk utca
+2310,Vasutastelep utca
+2310,Rákospalotai köztemető
+2310,Szentmihályi út
+2310,Sztáraiihály tér
+2310,Örs vezér tere
+2310,Aulich Lajos utca
+2310,Fázis utca
+2310,Széchenyi tér
+2360,Iparvasút
+2360,Duna utca
+2360,Szarvas csárda tér
+2360,Lőrinci utca
+2360,"Ganztelep,ednyánszky utca"
+2360,Dembinszky utca
+2360,"Pestszentlőrinc, sorompó"
+2360,Lincoln út
+2360,Regény utca
+2360,Vörösmartyihály utca
+2360,"Vecsés, Fő út"
+2360,Ferihegy vasútállomás
+2360,"Pestszentlőrinc, Béke tér"
+2360,Kemény Zsigmond utca
+2360,Lőrinci piac
+2360,Kondor Béla sétány
+2360,Madarász utca
+2360,Rába utca
+2360,Fiatalság utca
+2360,Bajcsy-Zsilinszky út
+2360,Ungvár utca
+2360,Barta Lajos utca
+2360,Szakorvosi rendelőintézet
+2360,Thököly út
+2360,"Pestszentlőrinc, Szarvas csárda tér"
+2360,Gyergyó utca
+2360,Honvéd utca
+2360,Margó Tivadar utca
+2360,Baross utca
+2360,Kupeczky János utca
+2360,"Vecsés,arket Central Ferihegy"
+2361,Barta Lajos utca
+2361,Rába utca
+2361,Baross utca
+2361,Bajcsy-Zsilinszky út
+2361,Regény utca
+2361,"Ganztelep,ednyánszky utca"
+2361,Kemény Zsigmond utca
+2361,Kondor Béla sétány
+2361,Ungvár utca
+2361,Duna utca
+2361,Ferihegy vasútállomás
+2361,Fiatalság utca
+2361,"Pestszentlőrinc, Béke tér"
+2361,Kupeczky János utca
+2361,Honvéd utca
+2361,Margó Tivadar utca
+2361,Szakorvosi rendelőintézet
+2361,Iparvasút
+2361,"Pestszentlőrinc, Szarvas csárda tér"
+2361,Madarász utca
+2361,Vörösmartyihály utca
+2361,Thököly út
+2361,Szarvas csárda tér
+2361,Dembinszky utca
+2361,Lőrinci piac
+2361,Gyergyó utca
+2370,Verhovina utca
+2370,Táborhegyi út
+2370,Farkastorki út
+2370,Jablonka út 58.
+2370,Laborc utca
+2370,Jablonka út 53.
+2370,Zúzmara utca
+2370,Jablonka út 74.
+2370,Királyhelmec utca
+2370,Szentlélek tér
+2370,Szőlő utca
+2370,Vihar utca
+2370,Bécsi út / Vörösvári út
+2370,Óbudai rendelőintézet
+2370,Serfőző utca
+2370,Jablonka út
+2370,Jablonka út 73.
+2370,Judit utca
+2370,Flórián tér
+2380,Csepeli temető
+2380,Auchan Sziget áruház
+2380,Lacházi fogadó
+2380,Massányi úti lakópark
+2380,Lehel utca
+2380,Gát utca
+2380,Háros
+2380,Miklós tér
+2380,Váciihály utca (József Attila-telep)
+2380,Vízművek lakótelep
+2380,Kölcsey Ferenc utca
+2380,Szigetszentmiklós
+2380,Vas Gereben utca
+2380,Ősz utca
+2380,Kiss János altábornagy utca
+2380,Hárosi Csárda
+2380,Szebeni utca
+2380,Tejút utca
+2380,Jókai utca
+2380,Csepel
+2380,Karácsony Sándor utca
+2380,Akácfa körút
+2380,Nap utca (óvoda)
+2380,Ady Endre utca
+2380,József Attila utca
+2380,Szent Imre tér
+2380,Áruházi bekötőút
+2380,"Lakihegy, Cseresznyés utca"
+2380,"Szigetszentmiklós, városháza"
+2380,Hárosi iskola
+2380,"Szigetszentmiklós, Szabadság utca"
+2380,Szilvafa utca
+2380,Tamási Áron utca
+2380,Almafa utca
+2380,Erdősor utca
+2380,Kisfaludy utca
+2380,"Csepel, Szent Imre tér"
+2400,Károly király utca
+2400,Aradi utca
+2400,Móricz Zsigmond körtér
+2400,Felsőhatár utca
+2400,Gazdagréti út
+2400,Tulipán utca
+2400,Sasadi út
+2400,Budaörsi lakótelep
+2400,Templom tér
+2400,Fehérló utca
+2400,Budaörsi út / Villányi út
+2400,Kötő utca
+2400,"Budaörs, városháza"
+2400,Gimnázium
+2400,Kisfaludy utca
+2400,Madárhegy
+2400,Rupphegyi út
+2400,Patkó utca
+2400,Kosztolányi Dezső tér
+2410,Tatárka utca
+2410,Savoya Park
+2410,Alkotmány utca
+2410,Savoyai Jenő tér
+2410,Plébánia utca
+2410,Savoyai Jenő tér (Plébánia utca)
+2410,Leányka utcai lakótelep
+2410,Galamb utca
+2410,Lomnici utca
+2410,Budafoki Szomszédok Piaca
+2410,Savoyai Jenő tér (Törley tér)
+2410,Városház tér
+2411,Savoyai Jenő tér
+2411,Városház tér
+2411,Lomnici utca
+2411,Alkotmány utca
+2411,Savoyai Jenő tér (Plébánia utca)
+2411,Savoyai Jenő tér (Törley tér)
+2411,Plébánia utca
+2411,Galamb utca
+2411,Budafoki Szomszédok Piaca
+2411,Tatárka utca
+2430,Zemplén Győző utca
+2430,Pünkösdfürdő utca
+2430,Hősök tere
+2430,Nád utca
+2430,Donát utca
+2430,Tamás utca
+2430,Gulácsy Lajos utca
+2430,Békásmegyer
+2430,Doboz utca
+2430,Templom utca
+2430,Pince köz
+2440,Olga utca
+2440,Centenáriumi lakótelep
+2440,János utca
+2440,Sasvár utca
+2440,Rózsa utca
+2440,Budapesti út
+2440,Batthyány utca
+2440,Jávorfa utca
+2440,Ida utca
+2440,Diófa utca
+2440,Örs vezér tere
+2440,Körvasút sor
+2440,Mátyásföldi tér
+2440,József utca
+2440,Futórózsa utca
+2440,Margit utca
+2500,Jogar utca
+2500,Kápolna út
+2500,Tóth József utca
+2500,Árpád utca
+2500,Lőcsei utca
+2500,Őrmezei út
+2500,Regényes utca
+2500,Savoyai Jenő tér
+2500,Szabina út
+2500,Savoya Park
+2500,Szebeni utca
+2500,Víg utca (Sporttelep)
+2500,Kereszt utca
+2500,Kelenvölgy-Péterhegy
+2500,Komló utca
+2500,Leányka utcai lakótelep
+2500,Arany János utca
+2500,Bolygó utca
+2500,Tordai út
+2500,Budafoki temető
+2500,Igmándi utca
+2500,Péterhegyi út (Menyecske utca)
+2500,Hír utca
+2500,Kiránduló utca
+2500,Olajfa utca
+2500,Városház tér
+2500,Zöldike utca
+2500,Kelenföld vasútállomás
+2500,Mező utca
+2502,Kiránduló utca
+2502,Kelenföld vasútállomás
+2502,Igmándi utca
+2502,Kereszt utca
+2502,Arany János utca
+2502,Mező utca
+2502,Bolygó utca
+2502,Szabina út
+2502,Regényes utca
+2502,Lőcsei utca
+2502,Budafoki temető
+2502,Jogar utca
+2502,Tóth József utca
+2502,Komló utca
+2502,Szebeni utca
+2502,Városház tér
+2502,Péterhegyi út (Menyecske utca)
+2502,Kelenvölgy-Péterhegy
+2502,Zöldike utca
+2502,Hír utca
+2502,Kápolna út
+2502,Savoyai Jenő tér (Törley tér)
+2502,Tordai út
+2502,Árpád utca
+2502,Savoyai Jenő tér
+2502,Víg utca (Sporttelep)
+2502,Őrmezei út
+2502,Olajfa utca
+2510,Bolygó utca
+2510,Galamb utca
+2510,Budafoki Szomszédok Piaca
+2510,Plébánia utca
+2510,Városház tér
+2510,Péterhegyi út (Menyecske utca)
+2510,Kelenvölgy-Péterhegy
+2510,Savoyai Jenő tér (Törley tér)
+2510,Leányka utcai lakótelep
+2510,Olajfa utca
+2510,Kápolna út
+2510,Tordai út
+2510,Savoyai Jenő tér (Plébánia utca)
+2510,Alkotmány utca
+2510,Igmándi utca
+2510,Tatárka utca
+2510,Lomnici utca
+2510,Kelenföld vasútállomás
+2510,Szabina út
+2510,Őrmezei út
+2510,Savoya Park
+2510,Savoyai Jenő tér
+2511,Szabina út
+2511,Savoyai Jenő tér (Törley tér)
+2511,Alkotmány utca
+2511,Bolygó utca
+2511,Igmándi utca
+2511,Galamb utca
+2511,Plébánia utca
+2511,Budafoki Szomszédok Piaca
+2511,Kelenvölgy-Péterhegy
+2511,Lomnici utca
+2511,Tordai út
+2511,Olajfa utca
+2511,Savoyai Jenő tér
+2511,Péterhegyi út (Menyecske utca)
+2511,Kápolna út
+2511,Városház tér
+2511,Savoyai Jenő tér (Plébánia utca)
+2511,Tatárka utca
+2511,Kelenföld vasútállomás
+2511,Őrmezei út
+2544,Kamiontelep
+2544,Damjanich utca
+2544,Pestszentimre vasútáll. (Nagykőrösi út)
+2544,Közvágóhíd
+2544,Pestszentimre vasútállomás (Nemes utca)
+2544,Boráros tér
+2544,Nagykőrösi út /atár út
+2544,Alacskai út
+2544,Kossuth Lajos utca
+2544,Kisfaludy utca
+2544,Alacskai úti lakótelep
+2544,Újlaki utca
+2544,Tölgy utca
+2544,Ady Endre utca
+2544,Szentlőrinci út
+2570,Mikszáth Kálmán utca
+2570,Bükkfa utca
+2570,Bölény utca
+2570,Turul utca (kishíd)
+2570,Széchenyi utca
+2570,Községház utca
+2570,Hunyadi János utca
+2570,Kölcsey utca
+2570,Máriaremetei kegytemplom
+2570,Bátori László utca
+2570,Hűvösvölgy
+2570,Csatlós utca
+2570,Solymári elágazás
+2570,Kossuth Lajos utca
+2570,Kerényi Frigyes utca
+2570,Templom utca (Kultúrkúria)
+2600,Citronella utca
+2600,Bécsi út / Vörösvári út
+2600,Laborc utca
+2600,Bojtár utca (Bécsi út)
+2600,Bóbita utca
+2600,Váradi utca
+2600,Szentargit Kórház
+2600,Kubik utca
+2600,Bojtár utca
+2600,Óbudai temető
+2600,Óbudai rendelőintézet
+2600,Perényi út
+2600,Kocsis Sándor út
+2600,ATI
+2600,Orbán Balázs út
+2600,Borsmenta utca
+2615,Rézvirág utca
+2615,Kis utca
+2615,Szent kereszt tér
+2615,Borsó utca
+2615,"Rákoskeresztúr, városközpont"
+2615,513. utca
+2615,Örs vezér tere
+2615,Bakancsos utca
+2620,Rózsaszál utca
+2620,Óvónő utca
+2620,Keresztúri út
+2620,Élessarok
+2620,Kőbánya alsó vasútállomás
+2620,Olcsva utca
+2620,509. utca
+2620,Pesti út
+2620,Nyomdok utca
+2620,Szent kereszt tér
+2620,Erzsébet körút
+2620,"Rákoskeresztúr, városközpont"
+2620,Kossuth Nyomda
+2620,Maglódi út
+2620,Kucorgó tér
+2620,Borsó utca
+2620,Orion
+2620,Nagyszentmiklósi út
+2620,501. utca
+2620,Péceli út
+2620,Császárfa utca
+2620,Nyomdász utca
+2620,Sáránd utca
+2620,Kozma utca
+2620,Dombhát utca
+2620,Rákos vasútállomás
+2620,Csabagyöngye utca
+2620,Athenaeum Nyomda
+2620,Regélő utca
+2620,Sörgyár
+2620,Ónodi utca
+2620,Szent László tér
+2620,Harmat utca
+2620,Legényrózsa utca
+2620,Szárny utca
+2620,Tárna utca
+2620,Liget tér
+2620,Alsódabas utca
+2620,Schell Gyuláné tér
+2620,Rézvirág utca
+2620,Kis utca
+2620,513. utca
+2620,Szabadság sugárút
+2620,Bakancsos utca
+2620,Téglavető utca
+2620,Lemberg utca
+2640,Templom utca (Kultúrkúria)
+2640,Munkás utca
+2640,Váciihály utca
+2640,Hunyadi János utca
+2640,Hűvösvölgy
+2640,Örökzöld utca
+2640,Kossuth Lajos utca
+2640,Bajcsy-Zsilinszky utca
+2640,Kökörcsin utca
+2640,"Solymár, PEMÜ"
+2640,Községház utca
+2640,Bátori László utca
+2640,Pilisvörösvári utca
+2640,Solymári elágazás
+2640,Mikszáth Kálmán utca
+2640,Szarvashegy utca
+2640,Anna kápolna
+2640,Kölcsey utca
+2640,"Solymár, községháza"
+2660,Gyergyó utca
+2660,"Ganztelep,ednyánszky utca"
+2660,Damjanich utca
+2660,Beszterce utca
+2660,Alacskai út
+2660,Kupeczky János utca
+2660,Ady Endre utca
+2660,Rába utca
+2660,Vásáros tér
+2660,Pestszentimre vasútállomás (Vasút utca)
+2660,Törvény utca
+2660,Kétújfalu utca
+2660,"Pestszentlőrinc, Béke tér"
+2660,Ferihegy vasútállomás
+2660,Halomi út
+2660,Duna utca
+2660,Tölgy utca
+2660,Alacskai úti lakótelep
+2660,Kisfaludy utca
+2690,Jókaiór Általános Iskola
+2690,Csaba vezér tér
+2690,Rákoscsaba vasútállomás
+2690,Ecsedháza köz
+2690,Színes utca
+2690,Pallós utca
+2690,Csabamező utca / Göcsej utca
+2690,Ebergény utca
+2690,Ede utca
+2700,"Rákospalota, Csömöri-patak"
+2700,Dal utca
+2700,"Rákospalota, Kossuth utca"
+2700,Kosd utca
+2700,Árpád Kórház
+2700,Fő út
+2700,Árokhát út
+2700,Géza fejedelem tér
+2700,Székely Elek út
+2700,Erzsébet utca
+2700,Szlacsányi Ferenc utca
+2700,Bútorraktár
+2700,Kanizsai Dorottya utca
+2700,Rákospalota-Újpest vasútállomás
+2700,Visonta utca
+2700,Újpest-központ
+2700,"Rákospalota, Székely Elek út"
+2700,Árpád üzletház
+2700,Víztorony
+2700,Szilágyi utca
+2700,Csobogós utca
+2700,Mogyoród útja
+2700,Árpád út
+2720,Törökbálint vasútállomás
+2720,Kelenföld vasútállomás
+2720,Márta utca
+2720,Jókaiór utca
+2720,Baross Gábor utca
+2720,Légimentők
+2720,Sasadi út
+2720,Liliom utca
+2720,Bartók Béla utca
+2720,Deák Ferenc utca
+2720,Diósdi út
+2720,Munkácsyihály utca (hősi emlékmű)
+2720,Harangláb
+2720,Vasút utca
+2765,Tarack utca
+2765,EGIS Gyógyszergyár
+2765,Bökényföldi út
+2765,Rákosliget vasútállomás
+2765,"Mátyásföld, repülőtér"
+2765,Injekcióüzem
+2765,IV. utca
+2765,Cinkotai autóbuszgarázs
+2765,Zsemlékes út
+2765,Hősök tere
+2765,Thököly út
+2765,Petőfi tér
+2765,Liszt Ferenc utca
+2765,Nebántsvirág utca
+2765,Veres Péter út
+2765,Örs vezér tere
+2765,Ároktő út
+2765,Hunyadvár utca
+2765,Bártfai utca
+2765,Lándzsa utca
+2765,"Mátyásföld, Imre utca"
+2765,Diadal utca (Tura utca)
+2765,Egyenes utcai lakótelep
+2765,Liget sor
+2765,"Rákoscsaba-Újtelep, Naplás út"
+2765,Diadal utca
+2765,XVII. utca
+2765,Ananász utca
+2765,XVIII. utca
+2765,Jókaiór utca (Rendőrség)
+2765,Gyöngytyúk utca
+2765,Vidor utca
+2765,Újszász utca
+2770,Fázis utca
+2770,Gépmadár utca
+2770,Rákóczi út
+2770,Pilisi utca
+2770,Nyírpalota út
+2770,Baross utca
+2770,Gyakorló köz
+2770,Budapesti út
+2770,Örs vezér tere
+2770,Késmárk utca 9.
+2770,Nagyicce
+2770,Fűrész utca
+2770,Rákospalotai határút
+2770,Molnár Viktor utca
+2770,Szent Korona utca
+2770,Cinkotai út
+2770,Miskolci utca / Csömöri út
+2770,Rákospatak utca / Csömöri út
+2770,Bosnyák tér
+2770,Apolló utca
+2770,Késmárk utca 11.
+2770,Sasvár utca
+2770,Halas utca
+2770,Őrmester utca
+2770,Telepes utca
+2770,Dömsödi utca
+2770,Késmárk utca 20.
+2770,Veres Péter út
+2770,Heves utca
+2770,Késmárk utca
+2770,Batthyány utca
+2770,Thököly út
+2770,Rákosi út
+2770,Sashalmi tér
+2780,Hárosi Csárda
+2780,Hárosi iskola
+2780,Vas Gereben utca
+2780,Leshegy utca
+2780,Szent Imre tér
+2780,Tejút utca
+2780,Csepeli temető
+2780,"Csepel, Szent Imre tér"
+2780,Kiss János altábornagy utca
+2780,Massányi úti lakópark
+2780,Erdősor utca
+2780,"Szigetszentmiklós, Szabadság utca"
+2780,Vízművek lakótelep
+2780,Almafa utca
+2780,Szilvafa utca
+2780,Karácsony Sándor utca
+2780,Csepel
+2780,Leshegy Ipari Park
+2790,Massányi úti lakópark
+2790,Hárosi Csárda
+2790,"Lakihegy, Cseresznyés utca"
+2790,Ady Endre utca
+2790,Tamási Áron utca
+2790,Auchan Sziget áruház
+2790,Jókai utca
+2790,Lacházi fogadó
+2790,"Szigetszentmiklós, Szabadság utca"
+2790,Bányató út
+2790,Miklós Pláza
+2790,Városi Könyvtár
+2790,József Attila utca
+2790,Akácfa körút
+2790,Szebeni utca
+2790,Wesselényi utca
+2790,Leshegy utca
+2790,Váciihály utca (József Attila-telep)
+2790,"Szigetszentmiklós, városháza"
+2790,Nap utca (óvoda)
+2790,Miklós tér
+2790,Temető utca
+2790,Gát utca
+2790,Leshegy Ipari Park
+2790,Áruházi bekötőút
+2790,Bánki Donát utca
+2790,Ősz utca
+2792,Lacházi fogadó
+2792,Ősz utca
+2792,"Lakihegy, Cseresznyés utca"
+2792,József Attila utca
+2792,Sport utca
+2792,Ady Endre utca
+2792,Gát utca
+2792,Leshegy utca
+2792,Béke utca
+2792,"Szigetszentmiklós, Szabadság utca"
+2792,Szebeni utca
+2792,Hárosi Csárda
+2792,Váciihály utca (József Attila-telep)
+2792,Dunaharaszti utca
+2792,Bánki Donát utca
+2792,Jókai utca
+2792,Akácfa körút
+2792,Bányató út
+2792,"Szigetszentmiklós, városháza"
+2792,Föveny utca
+2792,Nap utca (óvoda)
+2792,Rákóczi utca
+2792,Városi Könyvtár
+2792,Miklós Pláza
+2792,Leshegy Ipari Park
+2792,Sport Vendéglő
+2792,Áruházi bekötőút
+2792,Wesselényi utca
+2792,Temető utca
+2792,Tamási Áron utca
+2792,Auchan Sziget áruház
+2792,Teleki utca
+2792,Miklós tér
+2800,Gát utca
+2800,Akácfa körút
+2800,Hárosi Csárda
+2800,Bánki Donát utca
+2800,Ady Endre utca
+2800,Kisfaludy utca
+2800,József Attila utca
+2800,Wesselényi utca
+2800,"Szigetszentmiklós, városháza"
+2800,Massányi úti lakópark
+2800,Leshegy Ipari Park
+2800,Háros
+2800,Szigetszentmiklós
+2800,Jókai utca
+2800,Bányató út
+2800,Áruházi bekötőút
+2800,Leshegy utca
+2800,"Szigetszentmiklós, Szabadság utca"
+2800,Auchan Sziget áruház
+2800,"Lakihegy, Cseresznyés utca"
+2800,Temető utca
+2800,Lacházi fogadó
+2800,Ősz utca
+2800,Tamási Áron utca
+2800,Szebeni utca
+2800,Váciihály utca (József Attila-telep)
+2800,Miklós tér
+2800,Nap utca (óvoda)
+2802,József Attila utca
+2802,Áruházi bekötőút
+2802,Kisfaludy utca
+2802,"Lakihegy, Cseresznyés utca"
+2802,Jókai utca
+2802,Hárosi Csárda
+2802,Teleki utca
+2802,Háros
+2802,Bánki Donát utca
+2802,Sport utca
+2802,Föveny utca
+2802,Wesselényi utca
+2802,Béke utca
+2802,Massányi úti lakópark
+2802,Rákóczi utca
+2802,Leshegy Ipari Park
+2802,Gát utca
+2802,Váciihály utca (József Attila-telep)
+2802,Dunaharaszti utca
+2802,Temető utca
+2802,"Szigetszentmiklós, Szabadság utca"
+2802,Tamási Áron utca
+2802,Sport Vendéglő
+2802,Auchan Sziget áruház
+2802,Ősz utca
+2802,Leshegy utca
+2802,Nap utca (óvoda)
+2802,Szigetszentmiklós
+2802,Szebeni utca
+2802,Ady Endre utca
+2802,Lacházi fogadó
+2802,Bányató út
+2802,Akácfa körút
+2802,"Szigetszentmiklós, városháza"
+2802,Miklós tér
+2810,Valéria tér
+2810,Lobogó utca
+2810,Aranyvirág sétány
+2810,"József Attila ltp., Távíró utca"
+2810,Közterületfenntartó Zrt.
+2810,Ferencvárosi rendelőintézet
+2810,Aszódi utca
+2810,Friss utca
+2810,Ecseri út
+2810,Gyáli út
+2810,Füleki utca
+2810,Nagyvárad tér
+2810,Haller utca /ester utca
+2810,Vágóhíd utca
+2810,Mester utca / Könyves Kálmán körút
+2810,Ferencváros vá. -álenkij Robot Eh.
+2810,Börzsöny utca
+2810,Balázs Béla utca
+2810,Ifjúmunkás utca
+2810,Albert Flórián út
+2810,Péceli utca
+2810,Merényi Gusztáv Kórház
+2825,Dobozi utca
+2825,Felsőcsatári út
+2825,Varjú utca
+2825,Tölgy utca
+2825,Olt utca
+2825,Regény utca
+2825,Alacskai úti lakótelep
+2825,Szarvas csárda tér
+2825,Kőbánya-Kispest
+2825,Dalmady Győző utca
+2825,Wlassics Gyula utca
+2825,Gilice tér
+2825,Tarkő utca
+2825,Gyékény tér
+2825,Királyhágó út
+2825,Sas utca
+2825,Alacskai út
+2825,Lőrinci temető
+2825,Kétújfalu utca
+2825,Halomi út
+2825,Nagyenyed utca
+2845,"Pestszentimre, Benjámin utca"
+2845,Felsőcsatári út
+2845,Kisfaludy utca
+2845,Vezér utca
+2845,Kisfaludy utca (Nemes utca)
+2845,Kapocs utca
+2845,Törvény utca
+2845,Obszervatórium
+2845,Péterhalmi út
+2845,Lőrinci temető
+2845,Kettős-Körös utca
+2845,Wlassics Gyula utca
+2845,Dobozi utca
+2845,Varjú utca
+2845,Regény utca
+2845,Kőbánya-Kispest
+2845,Szálfa utca
+2845,Szigeti Kálmán utca
+2845,Szarvas csárda tér
+2870,Kamaraerdei Ifjúsági Park
+2870,Tátra utca
+2870,Balatoni út / Dózsa György út
+2870,Budaörs vasútállomás
+2870,Kinizsi utca
+2870,Dűlő út
+2870,I. utca
+2870,Budaörsi lakótelep
+2870,XIII. utca / Dózsa György út
+2870,Gimnázium
+2870,Vasút utca
+2870,Budatétény vasútállomás (Növény utca)
+2870,Agip utca
+2870,Kisfaludy utca
+2870,Budatétény vasútállomás (Campona)
+2870,Csata utca
+2870,Kamaraerdő
+2870,Idősek Otthona
+2870,Repülőgépes Szolgálat
+2870,Bem tábornok utca
+2870,Török utca
+2870,Szent László utca
+2870,Baross utca
+2870,Károly király utca
+2870,Bartók Béla út 208.
+2870,"Budaörs, városháza"
+2870,Rózsakert utca /inta utca
+2870,Kamaraerdei út 11.
+2870,Szép utca
+2870,Kötő utca
+2870,Patkó utca
+2910,Szemlőhegy utca
+2910,"Zugliget, Libegő"
+2910,Rómer Flóris utca
+2910,Pusztaszeri út
+2910,Vérhalom tér
+2910,Moholy-Nagyűvészeti Egyetem
+2910,Vend utca
+2910,Vérhalom utca
+2910,Pusztaszeri körönd
+2910,Margit körút
+2910,Bimbó út
+2910,"Margit híd, budai hídfő"
+2910,Jászaiari tér
+2910,Szépilona
+2910,Szarvas Gábor út
+2910,Gábor Áron utca
+2910,Apostol utca
+2910,Endrődi Sándor utca
+2910,Pasaréti út
+2910,Nyugati pályaudvar
+2910,Szilágyi Erzsébet fasor
+2910,Zivatar utca
+2910,Orló utca
+2910,Budagyöngye
+2910,Mandula utca
+2910,Cimbalom utca
+2910,Lóvasút
+2944,Szentlőrinci út (gyorsétterem)
+2944,Zöldségpiac
+2944,Hunyadi utca
+2944,Használtcikk piac
+2944,Nagykőrösi út /atár út
+2944,Csolt utca
+2944,Határ út
+2944,Szent István utca
+2944,Albert Flórián út
+2944,"Gyál, Vecsési út"
+2944,Nagyvárad tér
+2944,Rákóczi Ferenc utca
+2944,Bocskai István utca
+2944,Szentlőrinci út
+2944,Pestszentimre felső vasútállomás
+2944,Paula utca
+2944,Ady Endre utca
+2944,Kalász utca
+2944,Vas Gereben utca
+2944,Kőrösi út
+2944,Pestszentimre vasútáll. (Nagykőrösi út)
+2944,Bethlen Gábor utca
+2944,Széchenyi István utca
+2944,Gyál felső vasútállomás
+2944,Eke utca
+2944,Somogyi Béla utca
+2944,Ár utca
+2944,Kamiontelep
+2945,Bethlen Gábor utca
+2945,Bocskai István utca
+2945,Zöldségpiac
+2945,Pestszentimre felső vasútállomás
+2945,Pestszentimre vasútáll. (Nagykőrösi út)
+2945,Rákóczi Ferenc utca
+2945,Kamiontelep
+2945,Gyál felső vasútállomás
+2945,Kőrösi út
+2945,Széchenyi István utca
+2945,"Gyál, Vecsési út"
+2945,Naszód utca (Használtcikk piac)
+2945,Használtcikk piac
+2945,Kéreg utca
+2945,Határ út
+2945,Somogyi Béla utca
+2945,Szentlőrinci út (gyorsétterem)
+2945,Ady Endre utca
+2945,Nagykőrösi út /atár út
+2945,Szentlőrinci út
+2945,Szent István utca
+2945,Vas Gereben utca
+2945,Ár utca
+2945,Nagysándor József utca
+2945,Csolt utca
+2945,Hunyadi utca
+2945,Eke utca
+2945,Kalász utca
+2945,Paula utca
+2960,Erdőkerülő utca 27.
+2960,Bercsényiiklós utca
+2960,Sárpatak utca
+2960,Illyés Gyula utca
+2960,Megyeri út
+2960,Vadgesztenye utca
+2960,Gimnázium
+2960,Erdősor út
+2960,Homoktövis utca (Óvoda)
+2960,Békásmegyer
+2960,Szíjgyártó utca
+2960,Fő tér
+2960,Beller Imre utca
+2960,Hajló utca
+2960,Kozák tér
+2960,Damjanich János utca
+2960,Hatvany Lajos utca / Juhász Gyula utca
+2960,Erdőkerülő utca
+2960,Kordován tér
+2960,Dunakeszi utca
+2960,Páskomliget utca
+2960,Zsókavár utca
+2960,Homoktövis iskola
+2960,Szilágyi utca
+2960,"Káposztásmegyer, Szilas-patak"
+2960,Sárfű utca
+2960,Madzsar József utca /adrianus utca
+2960,Sződliget utca
+2960,"Békásmegyer, Újmegyeri tér"
+2960,Fő út
+2960,Klapka György utca
+2960,Pozsony utca
+2960,Bálint György utca
+2960,Hubay Jenő tér
+2960,Szerencs utca
+2960,Bánkút utca
+2960,"Újpalota, Szentmihályi út"
+2960,Pajtás utca
+2960,Iglói utca
+2960,Vásárcsarnok
+2960,Szolgáltatóház
+2960,Erdőkerülő utca 28.
+2960,Rákos úti szakrendelő
+2960,Zombori utca
+2960,Hímző utca
+2960,Homoktövis utca
+2960,Művelődési Központ
+2960,"Káposztásmegyer,ogyoródi-patak"
+2961,Fő út
+2961,Fő tér
+2961,Hajló utca
+2961,"Káposztásmegyer, Szilas-patak"
+2961,Bercsényiiklós utca
+2961,Damjanich János utca
+2961,Vásárcsarnok
+2961,Zombori utca
+2961,Beller Imre utca
+2961,Zsókavár utca
+2961,Iglói utca
+2961,Páskomliget utca
+2961,Illyés Gyula utca
+2961,Pozsony utca
+2961,Szerencs utca
+2961,Kozák tér
+2961,Erdőkerülő utca 28.
+2961,Klapka György utca
+2961,Erdőkerülő utca 27.
+2961,Sárfű utca
+2961,Erdősor út
+2961,Bánkút utca
+2961,Szilágyi utca
+2961,Erdőkerülő utca
+2961,Rákos úti szakrendelő
+2961,"Újpalota, Szentmihályi út"
+2961,Pajtás utca
+2961,Művelődési Központ
+2961,Vadgesztenye utca
+2961,Sződliget utca
+2961,Hubay Jenő tér
+2970,Rákoscsaba-Újtelep vasútállomás
+2970,Pestvidék utca
+2970,Nyeremény utca
+2970,Öntöző utca
+2970,Nyitány utca
+2970,Derkovits tér
+2970,Szabadság sugárút / Péceli út
+2980,Csaba vezér tér
+2980,Rákoscsaba vasútállomás
+2980,Szárazhegy köz
+2980,Enying utca
+2980,Zimonyi utca
+2980,Alsódabas utca
+2980,Sport tér
+2980,Rés utca
+3010,Ferencváros vá. -álenkij Robot Eh.
+3010,Asztalos Sándor út
+3010,Budafok kocsiszín
+3010,Honvédkórház
+3010,Angyalföld kocsiszín
+3010,Vágány utca / Róbert Károly körút
+3010,Göncz Árpád városközpont
+3010,Kalotaszeg utca
+3010,"Salgótarjáni utca, temető"
+3010,"Erzsébet királyné útja, aluljáró"
+3010,Zugló vasútállomás
+3010,Albertfalva utca
+3010,Egressy út /ungária körút
+3010,Magdolna utca
+3010,Frangepán utca
+3010,Puskás Ferenc Stadion
+3010,Béke tér
+3010,Fiastyúk utca
+3010,Etele út / Fehérvári út
+3010,Népliget
+3010,Flórián tér
+3010,Lehel utca / Róbert Károly körút
+3010,Vajda Péter utca
+3010,Bikás park
+3010,Szentlélek tér
+3010,Hauszmann Alajos utca / Szerémi út
+3010,Angyalföld vasútállomás
+3010,Rokolya utca
+3010,Budafoki út / Dombóvári út
+3010,Hidegkuti Nándor Stadion
+3010,Fonyód utca
+3010,Albertfalva kitérő
+3010,Kelenföld vasútállomás
+3010,Bártfai utca
+3010,Közvágóhíd
+3010,Andor utca
+3010,Infopark
+3010,Kőbányai út / Könyves Kálmán körút
+3010,Népfürdő utca / Árpád híd
+3010,Ajtósi Dürer sor
+3010,Hengermalom út / Szerémi út
+3010,Bécsi út / Vörösvári út
+3010,Óbudai rendelőintézet
+3010,Mester utca / Könyves Kálmán körút
+3010,Albert Flórián út
+3010,Hős utca
+3010,Gyöngyösi utca
+3010,Kacsóh Pongrác út
+3014,Fiastyúk utca
+3014,Hidegkuti Nándor Stadion
+3014,Kacsóh Pongrác út
+3014,Gyöngyösi utca
+3014,Egressy út /ungária körút
+3014,Óbudai rendelőintézet
+3014,Frangepán utca
+3014,Honvédkórház
+3014,Magdolna utca
+3014,Lehel utca / Róbert Károly körút
+3014,Angyalföld vasútállomás
+3014,Göncz Árpád városközpont
+3014,Vágány utca / Róbert Károly körút
+3014,Hős utca
+3014,"Erzsébet királyné útja, aluljáró"
+3014,Angyalföld kocsiszín
+3014,Flórián tér
+3014,Kőbányai út / Könyves Kálmán körút
+3014,Ajtósi Dürer sor
+3014,Puskás Ferenc Stadion
+3014,Vajda Péter utca
+3014,Népliget
+3014,Zugló vasútállomás
+3014,Rokolya utca
+3014,Béke tér
+3014,Asztalos Sándor út
+3014,Népfürdő utca / Árpád híd
+3014,"Salgótarjáni utca, temető"
+3014,Szentlélek tér
+3014,Bécsi út / Vörösvári út
+3020,Jászaiari tér
+3020,Közvágóhíd
+3020,Széchenyi István tér
+3020,Eötvös tér
+3020,Március 15. tér
+3020,Vigadó tér
+3020,Vágóhíd utca
+3020,"Országház, látogatóközpont"
+3020,Haller utca / Soroksári út
+3020,Müpa - Nemzeti Színház
+3020,Fővám tér
+3020,Zsil utca
+3020,Haller utca /ester utca
+3020,Kossuth Lajos tér
+3020,Boráros tér
+3020,Ferencváros vá. -álenkij Robot Eh.
+3020,Mester utca / Könyves Kálmán körút
+3024,Golgota tér
+3024,Március 15. tér
+3024,Fővám tér
+3024,Nagyvárad tér
+3024,Keleti pályaudvar
+3024,Balázs Béla utca
+3024,Haller utca / Soroksári út
+3024,Vágóhíd utca
+3024,Zsil utca
+3024,Elnök utca
+3024,Haller utca /ester utca
+3024,Kossuth Lajos tér
+3024,Jászaiari tér
+3024,Eötvös tér
+3024,Mester utca / Könyves Kálmán körút
+3024,Széchenyi István tér
+3024,Boráros tér
+3024,Orczy tér
+3024,Dologház utca
+3024,Magdolna utca
+3024,Vigadó tér
+3024,Ferencváros vá. -álenkij Robot Eh.
+3024,"Országház, látogatóközpont"
+3028,Eötvös tér
+3028,Zsil utca
+3028,Müpa - Nemzeti Színház
+3028,Jászaiari tér
+3028,Széchenyi István tér
+3028,Március 15. tér
+3028,Kossuth Lajos tér
+3028,"Országház, látogatóközpont"
+3028,Haller utca / Soroksári út
+3028,Fővám tér
+3028,Vigadó tér
+3028,Közvágóhíd
+3028,Boráros tér
+3030,Mártírok útja /atár út
+3030,Egressy tér
+3030,Élessarok
+3030,Fertő utca / Bihari utca
+3030,Bosnyák tér
+3030,Laky Adolf utca
+3030,Jeszenák János utca
+3030,Balkán utca
+3030,Gubacsi út /atár út
+3030,Szent László tér
+3030,Terebesi utca
+3030,Tihamér utca
+3030,Nagy Lajos király útja / Czobor utca
+3030,Kőbánya alsó vasútállomás (Mázsa tér)
+3030,Szugló utca / Nagy Lajos király útja
+3030,Határ út
+3030,Kerékgyártó utca
+3030,Epreserdő utca
+3030,"Erzsébet királyné útja, aluljáró"
+3030,Kőbánya alsó vasútállomás
+3030,Ecseri út
+3030,Ősz utca
+3030,Közterületfenntartó Zrt.
+3030,Pongrátz Gergely tér
+3030,Kocsis Sándor Sportközpont
+3030,Mészáros Lőrinc utca
+3030,Fehér úti ipari park
+3030,Mexikói út
+3030,Örs vezér tere
+3030,Csengettyű utca
+3030,Jókaiór utca /atár út
+3030,Nagykőrösi út /atár út
+3030,Ónodi utca
+3040,Orczy tér
+3040,Rákóczi tér
+3040,II. János Pál pápa tér
+3040,Harminckettesek tere
+3040,"Margit híd, budai hídfő"
+3040,Elnök utca
+3040,Mester utca / Ferenc körút
+3040,Újbuda-központ
+3040,Mechwart liget
+3040,Széll Kálmán tér
+3040,Golgota tér
+3040,Asztalos Sándor út
+3040,Bokréta utca
+3040,Oktogon
+3040,Széna tér
+3040,Margitsziget /argit híd
+3040,"Petőfi híd, budai hídfő"
+3040,Nyugati pályaudvar
+3040,Budafoki út / Szerémi sor
+3040,Magdolna utca
+3040,Király utca / Erzsébet körút
+3040,Balázs Béla utca
+3040,Hidegkuti Nándor Stadion
+3040,Corvin-negyed
+3040,Wesselényi utca / Erzsébet körút
+3040,Ferencvárosi rendelőintézet
+3040,Teleki László tér
+3040,Blaha Lujza tér
+3040,Jászaiari tér
+3040,Boráros tér
+3040,Nagyvárad tér
+3040,"Salgótarjáni utca, temető"
+3060,Budafoki út / Karinthy Frigyes út
+3060,Corvin-negyed
+3060,Király utca / Erzsébet körút
+3060,Harminckettesek tere
+3060,Széna tér
+3060,"Margit híd, budai hídfő"
+3060,Nyugati pályaudvar
+3060,Mechwart liget
+3060,Wesselényi utca / Erzsébet körút
+3060,"Petőfi híd, budai hídfő"
+3060,Móricz Zsigmond körtér
+3060,Oktogon
+3060,Boráros tér
+3060,Széll Kálmán tér
+3060,Mester utca / Ferenc körút
+3060,Margitsziget /argit híd
+3060,Rákóczi tér
+3060,Blaha Lujza tér
+3060,Jászaiari tér
+3120,Szülőotthon
+3120,Kiss Ernő utca
+3120,Újpest-központ
+3120,Rákospalota-Újpest vasútállomás
+3120,"Rákospalota, Kossuth utca"
+3120,Újpesti rendelőintézet
+3120,Dal utca
+3120,Angyalföld kocsiszín
+3120,Szent István tér (Újpesti piac)
+3120,Fő út
+3120,Géza fejedelem tér
+3120,Tél utca / Pozsonyi utca
+3140,Újpest-központ
+3140,Béke tér
+3140,Lehel utca / Dózsa György út
+3140,Járműtelep utca
+3140,Angyalföld kocsiszín
+3140,Fiastyúk utca
+3140,Kiss Ernő utca
+3140,Újpesti rendelőintézet
+3140,Bőrfestő utca
+3140,Frangepán utca
+3140,Dévai utca
+3140,Gyöngyösi utca
+3140,Rákospalota-Újpest vasútállomás
+3140,Hun utca
+3140,Szülőotthon
+3140,"Káposztásmegyer,egyeri út"
+3140,Angyalföld vasútállomás
+3140,Lehel utca / Róbert Károly körút
+3140,Rokolya utca
+3140,Óceán-árok utca
+3140,Bőröndös utca
+3140,Atlétikai stadion
+3140,Tél utca / Pozsonyi utca
+3140,Szent István tér (Újpesti piac)
+3140,Lehel tér
+3148,Lehel tér
+3148,Szülőotthon
+3148,Fiastyúk utca
+3148,Angyalföld vasútállomás
+3148,Rokolya utca
+3148,Bőröndös utca
+3148,Rákospalota-Újpest vasútállomás
+3148,Lehel utca / Róbert Károly körút
+3148,Újpest-központ
+3148,Kiss Ernő utca
+3148,Szent István tér (Újpesti piac)
+3148,Atlétikai stadion
+3148,Újpesti rendelőintézet
+3148,Óceán-árok utca
+3148,Lehel utca / Dózsa György út
+3148,Béke tér
+3148,Frangepán utca
+3148,Bőrfestő utca
+3148,Tél utca / Pozsonyi utca
+3148,Gyöngyösi utca
+3148,Angyalföld kocsiszín
+3148,"Káposztásmegyer,egyeri út"
+3148,Hun utca
+3148,Járműtelep utca
+3148,Dévai utca
+3170,Csörsz utca
+3170,"Margit híd, budai hídfő"
+3170,Zsigmond tér
+3170,Újbuda-központ
+3170,Móricz Zsigmond körtér
+3170,Fiastyúk utca
+3170,Mechwart liget
+3170,Szentlélek tér
+3170,Alsóhegy utca
+3170,Angyalföld vasútállomás
+3170,Óbudai rendelőintézet
+3170,Váradi utca
+3170,Nagyajtai utca
+3170,Kolosy tér
+3170,Budagyöngye
+3170,BAH-csomópont
+3170,Honvédkórház
+3170,Nyúl utca
+3170,Gárdonyi tér
+3170,Népfürdő utca / Árpád híd
+3170,Szent Lukács Gyógyfürdő
+3170,Rokolya utca
+3170,Kalotaszeg utca
+3170,Katinyi mártírok parkja
+3170,Városmajor
+3170,Albertfalva kitérő
+3170,Királyhágó utca
+3170,Etele út / Fehérvári út
+3170,Szent János Kórház
+3170,Budaörsi út / Villányi út
+3170,Szentargit Kórház
+3170,Albertfalva utca
+3170,Andor utca
+3170,Szüret utca
+3170,Göncz Árpád városközpont
+3170,Bécsi út / Vörösvári út
+3170,Budafok kocsiszín
+3170,Komjádi Béla utca
+3170,Frangepán utca
+3170,Tas vezér utca
+3170,Nagyenyed utca
+3170,Savoya Park
+3170,Béke tér
+3170,Flórián tér
+3170,Déli pályaudvar
+3170,Hauszmann Alajos utca
+3170,Csonka János tér
+3170,Széna tér
+3170,Fonyód utca
+3170,Angyalföld kocsiszín
+3170,Gyöngyösi utca
+3170,Lehel utca / Róbert Károly körút
+3170,Széll Kálmán tér
+3170,Selmeci utca
+3170,Pető Intézet (Villányi út)
+3190,Szent Gellért-templom
+3190,Fonyód utca
+3190,Szentargit Kórház
+3190,Csóka utca
+3190,Kolosy tér
+3190,Kosztolányi Dezső tér
+3190,Váradi utca
+3190,Clark Ádám tér
+3190,Szent Gellért tér -űegyetem
+3190,Budafok kocsiszín
+3190,Rudas Gyógyfürdő
+3190,Móricz Zsigmond körtér
+3190,Etele út / Fehérvári út
+3190,Batthyány tér
+3190,Andor utca
+3190,Bem József tér
+3190,Kalotaszeg utca
+3190,Selmeci utca
+3190,Albertfalva kitérő
+3190,Bécsi út / Vörösvári út
+3190,Halász utca
+3190,"Margit híd, budai hídfő"
+3190,Albertfalva utca
+3190,Kelenföld vasútállomás
+3190,Komjádi Béla utca
+3190,Újbuda-központ
+3190,Karolina út
+3190,Szent Lukács Gyógyfürdő
+3190,Gárdonyi tér
+3190,Csonka János tér
+3190,Zsigmond tér
+3190,Katinyi mártírok parkja
+3190,Hauszmann Alajos utca
+3190,Várkert Bazár
+3198,Karolina út
+3198,Kelenföld vasútállomás
+3198,Kosztolányi Dezső tér
+3198,Kolosy tér
+3198,Móricz Zsigmond körtér
+3198,Gárdonyi tér
+3198,Csóka utca
+3198,Zsigmond tér
+3198,Szent Gellért-templom
+3198,Katinyi mártírok parkja
+3198,Komjádi Béla utca
+3198,Várkert Bazár
+3198,Clark Ádám tér
+3198,Selmeci utca
+3198,Váradi utca
+3198,Szent Gellért tér -űegyetem
+3198,Rudas Gyógyfürdő
+3198,Bécsi út / Vörösvári út
+3198,Batthyány tér
+3198,Szentargit Kórház
+3198,Szent Lukács Gyógyfürdő
+3198,Bem József tér
+3198,Halász utca
+3198,"Margit híd, budai hídfő"
+3240,Golgota tér
+3240,Mester utca / Könyves Kálmán körút
+3240,Haller utca /ester utca
+3240,Magdolna utca
+3240,Elnök utca
+3240,Müpa - Nemzeti Színház
+3240,Haller utca / Soroksári út
+3240,Orczy tér
+3240,Keleti pályaudvar
+3240,Vágóhíd utca
+3240,Balázs Béla utca
+3240,Nagyvárad tér
+3240,Ferencváros vá. -álenkij Robot Eh.
+3240,Közvágóhíd
+3240,Dologház utca
+3280,Ónodi utca
+3280,Új köztemető
+3280,Kőbányai út 21.
+3280,Magdolna utca
+3280,Kőbányai út 31.
+3280,Kőbánya alsó vasútállomás
+3280,Blaha Lujza tér
+3280,Egészségház
+3280,Eiffelűhelyház
+3280,Szent László tér
+3280,Gitár utca
+3280,Kocka utca
+3280,Sírkert út
+3280,Élessarok
+3280,Izraelita temető
+3280,Venyige utca
+3280,II. János Pál pápa tér
+3280,Mázsa utca
+3280,Teleki László tér
+3280,Kada utca /aglódi út
+3280,Orczy tér
+3280,Jászberényi út /aglódi út
+3280,Bajcsy-Zsilinszky Kórház
+3280,Kőbányai út / Könyves Kálmán körút
+3280,Új köztemető (Kozma utca)
+3280,Sörgyár
+3281,Blaha Lujza tér
+3281,Kőbánya alsó vasútállomás
+3281,II. János Pál pápa tér
+3281,Új köztemető
+3281,Egészségház
+3281,Sírkert út
+3281,Szent László tér
+3281,Kőbányai út / Könyves Kálmán körút
+3281,Sörgyár
+3281,Eiffelűhelyház
+3281,Bajcsy-Zsilinszky Kórház
+3281,Kocka utca
+3281,Jászberényi út /aglódi út
+3281,Kőbányai út 31.
+3281,Új köztemető (Kozma utca)
+3281,Ónodi utca
+3281,Kőbányai út 21.
+3281,Venyige utca
+3281,Gitár utca
+3281,Orczy tér
+3281,Magdolna utca
+3281,Orczy tér (Baross kocsiszín)
+3281,Élessarok
+3281,Mázsa utca
+3281,Teleki László tér
+3281,Kada utca /aglódi út
+3370,Gitár utca
+3370,Magdolna utca
+3370,Halom utca
+3370,Élessarok
+3370,Bajcsy-Zsilinszky Kórház
+3370,Hidegkuti Nándor Stadion
+3370,Sírkert út
+3370,Kada utca /aglódi út
+3370,Elnök utca
+3370,Balkán utca
+3370,Kocsis Sándor Sportközpont
+3370,Ferencvárosi rendelőintézet
+3370,Nagyvárad tér
+3370,Mártírok útja /atár út
+3370,Közterületfenntartó Zrt.
+3370,Blaha Lujza tér
+3370,Új köztemető (Kozma utca)
+3370,Gubacsi út /atár út
+3370,Vágóhíd utca
+3370,Ónodi utca
+3370,Magyar Aszfalt
+3370,Illatos út
+3370,Koppány utca
+3370,Orczy tér
+3370,Teleki László tér
+3370,Határ út
+3370,Új köztemető
+3370,Golgota tér
+3370,Pongrácz úti lakótelep
+3370,Sörgyár
+3370,Kőbánya felső vasútállomás
+3370,Epreserdő utca
+3370,Fertő utca / Bihari utca
+3370,Fegyvergyár utca
+3370,Kőbányai garázs
+3370,Mester utca / Könyves Kálmán körút
+3370,Kőbánya alsó vasútállomás
+3370,Hentes utca
+3370,Balázs Béla utca
+3370,Kocka utca
+3370,Jókaiór utca /atár út
+3370,Kőbánya alsó vasútállomás (Mázsa tér)
+3370,Szent László tér
+3370,Jászberényi út /aglódi út
+3370,Timót utca
+3370,Bokréta utca
+3370,Ecseri út
+3370,Haller utca /ester utca
+3370,Csengettyű utca
+3370,Nagykőrösi út /atár út
+3370,Venyige utca
+3370,Őrház
+3370,II. János Pál pápa tér
+3370,Mester utca / Ferenc körút
+3370,Kén utca
+3370,"Salgótarjáni utca, temető"
+3370,Asztalos Sándor út
+3370,Ősz utca
+3370,Mészáros Lőrinc utca
+3371,Hidegkuti Nándor Stadion
+3371,Asztalos Sándor út
+3371,Élessarok
+3371,Magdolna utca
+3371,Őrház
+3371,II. János Pál pápa tér
+3371,Kőbánya felső vasútállomás
+3371,Kőbányai garázs
+3371,Pongrácz úti lakótelep
+3371,Halom utca
+3371,"Salgótarjáni utca, temető"
+3371,Sörgyár
+3371,Teleki László tér
+3371,Blaha Lujza tér
+3410,"Salgótarjáni utca, temető"
+3410,Bem József tér
+3410,Savoya Park
+3410,Albert Flórián út
+3410,Hengermalom út / Szerémi út
+3410,Repülőtér
+3410,Csonka János tér
+3410,Komjádi Béla utca
+3410,Népliget
+3410,Batthyány tér
+3410,Kolosy tér
+3410,Etele út / Fehérvári út
+3410,Halász utca
+3410,Zugló vasútállomás
+3410,Frangepán utca
+3410,Gárdonyi tér
+3410,Andor utca
+3410,Várkert Bazár
+3410,Szentlélek tér
+3410,Csóka utca
+3410,Asztalos Sándor út
+3410,Flórián tér
+3410,Fonyód utca
+3410,Kőérberek
+3410,Katinyi mártírok parkja
+3410,Hidegkuti Nándor Stadion
+3410,Kacsóh Pongrác út
+3410,Fiastyúk utca
+3410,Albertfalva utca
+3410,Kelenvölgy-Péterhegy
+3410,Budafok kocsiszín
+3410,Angyalföld vasútállomás
+3410,Kamaraerdei Ifjúsági Park
+3410,Gyöngyösi utca
+3410,Honvédkórház
+3410,Karolina út
+3410,Béke tér
+3410,Népfürdő utca / Árpád híd
+3410,Váradi utca
+3410,Pék utca
+3410,Göncz Árpád városközpont
+3410,Egressy út /ungária körút
+3410,Magdolna utca
+3410,Közvágóhíd
+3410,Balatoni út
+3410,Hős utca
+3410,Rokolya utca
+3410,Bécsi út / Vörösvári út
+3410,Budafoki út / Dombóvári út
+3410,Szent Gellért tér -űegyetem
+3410,Újbuda-központ
+3410,Vágány utca / Róbert Károly körút
+3410,Lehel utca / Róbert Károly körút
+3410,Rózsavölgy alsó
+3410,Clark Ádám tér
+3410,Angyalföld kocsiszín
+3410,Ferencváros vá. -álenkij Robot Eh.
+3410,Hauszmann Alajos utca / Szerémi út
+3410,Ajtósi Dürer sor
+3410,Óbudai rendelőintézet
+3410,Zsigmond tér
+3410,Szentargit Kórház
+3410,Rudas Gyógyfürdő
+3410,Szent Lukács Gyógyfürdő
+3410,Mester utca / Könyves Kálmán körút
+3410,Albertfalva kitérő
+3410,"Margit híd, budai hídfő"
+3410,Móricz Zsigmond körtér
+3410,Puskás Ferenc Stadion
+3410,Budafoki elágazás
+3410,Fülőke utca
+3410,Rózsavölgy felső
+3410,Kalotaszeg utca
+3410,"Erzsébet királyné útja, aluljáró"
+3410,Kőbányai út / Könyves Kálmán körút
+3410,Infopark
+3410,Hauszmann Alajos utca
+3410,Vajda Péter utca
+3410,Kosztolányi Dezső tér
+3410,Selmeci utca
+3420,"Kispest, Tulipán utca"
+3420,Vas Gereben utca
+3420,Határ út
+3420,Kossuth Lajos utca
+3420,Corvin körút
+3420,Templom tér
+3420,Hungária út
+3428,Nagykőrösi út /atár út
+3428,Mészáros Lőrinc utca
+3428,Hungária út
+3428,Jeszenák János utca
+3428,Templom tér
+3428,Ónodi utca
+3428,Fehér úti ipari park
+3428,Szugló utca / Nagy Lajos király útja
+3428,Bosnyák tér
+3428,"Kispest, Tulipán utca"
+3428,Kossuth Lajos utca
+3428,Határ út
+3428,Élessarok
+3428,Egressy tér
+3428,Pongrátz Gergely tér
+3428,Örs vezér tere
+3428,Ecseri út
+3428,Vas Gereben utca
+3428,Kőbánya alsó vasútállomás
+3428,Kőbánya alsó vasútállomás (Mázsa tér)
+3428,Zugló kocsiszín (kapu)
+3428,Balkán utca
+3428,Corvin körút
+3428,Fertő utca / Bihari utca
+3428,Közterületfenntartó Zrt.
+3428,Tihamér utca
+3428,Szent László tér
+3428,Kocsis Sándor Sportközpont
+3428,Csengettyű utca
+3428,Terebesi utca
+3428,Epreserdő utca
+3470,Deák Ferenc tér
+3470,Fővám tér
+3470,Savoyai Jenő tér
+3470,Kálvin tér
+3470,Szent Gellért tér -űegyetem
+3470,Kosztolányi Dezső tér
+3470,Albertfalva utca
+3470,Budafoki elágazás
+3470,Móricz Zsigmond körtér
+3470,Újbuda-központ
+3470,Astoria
+3470,Leányka utcai lakótelep
+3470,Karolina út
+3470,Kalotaszeg utca
+3470,Fonyód utca
+3470,Hauszmann Alajos utca
+3470,Etele út / Fehérvári út
+3470,Városház tér
+3470,Budafok kocsiszín
+3470,Albertfalva kitérő
+3470,Csóka utca
+3470,Csonka János tér
+3470,Andor utca
+3470,Gárdonyi tér
+3478,Deák Ferenc tér
+3478,Kalotaszeg utca
+3478,Csonka János tér
+3478,Andor utca
+3478,Fonyód utca
+3478,Fővám tér
+3478,Budafok kocsiszín
+3478,Budafoki elágazás
+3478,Leányka utcai lakótelep
+3478,Albertfalva utca
+3478,Savoyai Jenő tér
+3478,Móricz Zsigmond körtér
+3478,Városház tér
+3478,Szent Gellért tér -űegyetem
+3478,Astoria
+3478,Kálvin tér
+3478,Újbuda-központ
+3478,Gárdonyi tér
+3478,Etele út / Fehérvári út
+3478,Albertfalva kitérő
+3478,Hauszmann Alajos utca
+3480,Szent Gellért tér -űegyetem
+3480,Csonka János tér
+3480,Fővám tér
+3480,Kalotaszeg utca
+3480,Savoya Park
+3480,Kosztolányi Dezső tér
+3480,Újbuda-központ
+3480,Hauszmann Alajos utca
+3480,Albertfalva utca
+3480,Astoria
+3480,Etele út / Fehérvári út
+3480,Gárdonyi tér
+3480,Fonyód utca
+3480,Karolina út
+3480,Albertfalva kitérő
+3480,Kálvin tér
+3480,Andor utca
+3480,Csóka utca
+3480,Móricz Zsigmond körtér
+3480,Budafok kocsiszín
+3480,Deák Ferenc tér
+3490,Gárdonyi tér
+3490,Szent Gellért tér -űegyetem
+3490,Kálvin tér
+3490,Deák Ferenc tér
+3490,Szent Gellért-templom
+3490,Csóka utca
+3490,Kosztolányi Dezső tér
+3490,Fővám tér
+3490,Karolina út
+3490,Móricz Zsigmond körtér
+3490,Astoria
+3490,Kelenföld vasútállomás
+3498,Csóka utca
+3498,Kelenföld vasútállomás
+3498,Kálvin tér
+3498,Fővám tér
+3498,Astoria
+3498,Szent Gellért-templom
+3498,Gárdonyi tér
+3498,Deák Ferenc tér
+3498,Kosztolányi Dezső tér
+3498,Karolina út
+3498,Móricz Zsigmond körtér
+3498,Szent Gellért tér -űegyetem
+3500,Lehel utca
+3500,Thököly út
+3500,"Pestszentlőrinc, Béke tér"
+3500,Corvin körút
+3500,Árpád utca
+3500,Lajosmizsei sorompó
+3500,Bajcsy-Zsilinszky út
+3500,Kossuth tér
+3500,Tinódi utca
+3500,Villanytelep
+3500,Honvéd utca
+3500,Baross utca
+3500,Margó Tivadar utca
+3500,Fő utca
+3500,Iparvasút
+3500,Határ út
+3500,Szarvas csárda tér
+3500,Madarász utca
+3500,Ungvár utca
+3500,Kemény Zsigmond utca
+3508,Tinódi utca
+3508,Árpád utca
+3508,Iparvasút
+3508,Ungvár utca
+3508,Villanytelep
+3508,Szarvas csárda tér
+3508,Corvin körút
+3508,Honvéd utca
+3508,Kossuth tér
+3508,Kemény Zsigmond utca
+3508,"Pestszentlőrinc, Béke tér"
+3508,Baross utca
+3508,Thököly út
+3508,Madarász utca
+3508,Határ út
+3508,Lehel utca
+3508,Fő utca
+3508,Margó Tivadar utca
+3508,Lajosmizsei sorompó
+3508,Bajcsy-Zsilinszky út
+3510,Mészáros Lőrinc utca
+3510,Nagykőrösi út /atár út
+3510,Thököly utca
+3510,Ferencvárosi rendelőintézet
+3510,Mártírok útja /atár út
+3510,Haller utca /ester utca
+3510,János tér
+3510,Határ út
+3510,Ősz utca
+3510,Kossuth Lajos utca
+3510,Gubacsi út /atár út
+3510,Nagysándor József utca
+3510,Jókaiór utca /atár út
+3510,Szent Imre herceg utca
+3510,Vécsey utca
+3510,Magyar Aszfalt
+3510,Bokréta utca
+3510,Mester utca / Ferenc körút
+3510,Vágóhíd utca
+3510,Timót utca
+3510,Hentes utca
+3510,Szabótelep
+3510,Koppány utca
+3510,Illatos út
+3510,Török Flóris utca
+3510,Mester utca / Könyves Kálmán körút
+3510,Kén utca
+3510,Fegyvergyár utca
+3511,Bokréta utca
+3511,Vágóhíd utca
+3511,Mester utca / Ferenc körút
+3511,Ferencvárosi rendelőintézet
+3511,Mester utca / Könyves Kálmán körút
+3511,Ferencváros vá. -álenkij Robot Eh.
+3511,Haller utca /ester utca
+3520,Vécsey utca
+3520,Nagykőrösi út /atár út
+3520,Ábrahám Géza utca
+3520,Ősz utca
+3520,Mártírok útja /atár út
+3520,Akácfa utca
+3520,Kossuth Lajos utca
+3520,Székelyhíd utca
+3520,Frangepán utca
+3520,Szabótelep
+3520,János tér
+3520,Jókaiór utca /atár út
+3520,Vörösmarty utca
+3520,Pöltenberg utca
+3520,Thököly utca
+3520,Határ út
+3520,Wesselényi utca
+3520,"Pesterzsébet, Pacsirtatelep"
+3520,Szent Imre herceg utca
+3520,Károly utca
+3520,Nagysándor József utca
+3520,Klapka utca
+3520,Mészáros Lőrinc utca
+3520,Török Flóris utca
+3560,Kelemen László utca
+3560,Leányka utcai lakótelep
+3560,Andor utca
+3560,Városház tér
+3560,Nagyajtai utca
+3560,Kosztolányi Dezső tér
+3560,Krisztina tér
+3560,Heinrich István utca
+3560,Etele út / Fehérvári út
+3560,Albertfalva kitérő
+3560,Széll Kálmán tér
+3560,Savoyai Jenő tér
+3560,Nagyhíd
+3560,Újbuda-központ
+3560,Szent Gellért tér -űegyetem
+3560,Kalotaszeg utca
+3560,Völgy utca
+3560,Nyúl utca
+3560,Budagyöngye
+3560,Csonka János tér
+3560,Szent János Kórház
+3560,Móricz Zsigmond körtér
+3560,Döbrentei tér
+3560,Fonyód utca
+3560,Gárdonyi tér
+3560,Mikó utca
+3560,Déli pályaudvar
+3560,Budafok kocsiszín
+3560,Albertfalva utca
+3560,Dózsa György tér
+3560,Csóka utca
+3560,Rudas Gyógyfürdő
+3560,Hauszmann Alajos utca
+3560,Vadaskerti utca
+3560,Akadémia
+3560,Karolina út
+3560,Budafoki elágazás
+3560,Városmajor
+3560,Zuhatag sor
+3560,Hűvösvölgy
+3561,Szent János Kórház
+3561,Mikó utca
+3561,Nagyajtai utca
+3561,Gárdonyi tér
+3561,Krisztina tér
+3561,Széll Kálmán tér
+3561,Vadaskerti utca
+3561,Heinrich István utca
+3561,Budagyöngye
+3561,Szent Gellért tér -űegyetem
+3561,Akadémia
+3561,Hűvösvölgy
+3561,Rudas Gyógyfürdő
+3561,Völgy utca
+3561,Nagyhíd
+3561,Kelemen László utca
+3561,Móricz Zsigmond körtér
+3561,Dózsa György tér
+3561,Déli pályaudvar
+3561,Döbrentei tér
+3561,Zuhatag sor
+3561,Városmajor
+3561,Nyúl utca
+35618,Gárdonyi tér
+35618,Kelemen László utca
+35618,Hűvösvölgy
+35618,Móricz Zsigmond körtér
+35618,Krisztina tér
+35618,Völgy utca
+35618,Rudas Gyógyfürdő
+35618,Déli pályaudvar
+35618,Zuhatag sor
+35618,Városmajor
+35618,Nyúl utca
+35618,Szent Gellért tér -űegyetem
+35618,Heinrich István utca
+35618,Vadaskerti utca
+35618,Szent János Kórház
+35618,Budagyöngye
+35618,Mikó utca
+35618,Akadémia
+35618,Dózsa György tér
+35618,Döbrentei tér
+35618,Nagyajtai utca
+35618,Nagyhíd
+35618,Széll Kálmán tér
+3590,Liptó utca
+3590,Kiss János altábornagy utca
+3590,Városmajor
+3590,Nagyajtai utca
+3590,Süveg utca
+3590,Márton Áron tér
+3590,Apor Vilmos tér
+3590,Szent János Kórház
+3590,Széll Kálmán tér
+3590,Kék Golyó utca
+3590,Déli pályaudvar
+3590,Vas Gereben utca
+3590,Budagyöngye
+3590,Farkasréti temető
+3590,Királyhágó tér
+3590,Zólyomi lépcső
+3590,Nyúl utca
+3591,Liptó utca
+3591,Márton Áron tér
+3591,Kiss János altábornagy utca
+3591,Zólyomi lépcső
+3591,Széll Kálmán tér
+3591,Királyhágó tér
+3591,Süveg utca
+3591,Apor Vilmos tér
+3591,Kék Golyó utca
+3591,Déli pályaudvar
+3591,Vas Gereben utca
+3591,Farkasréti temető
+3592,Nagyhíd
+3592,Farkasréti temető
+3592,Déli pályaudvar
+3592,Völgy utca
+3592,Budagyöngye
+3592,Hűvösvölgy
+3592,Zólyomi lépcső
+3592,Vas Gereben utca
+3592,Nyúl utca
+3592,Széll Kálmán tér
+3592,Süveg utca
+3592,Kék Golyó utca
+3592,Heinrich István utca
+3592,Liptó utca
+3592,Nagyajtai utca
+3592,Kiss János altábornagy utca
+3592,Királyhágó tér
+3592,Zuhatag sor
+3592,Akadémia
+3592,Kelemen László utca
+3592,Vadaskerti utca
+3592,Városmajor
+3592,Apor Vilmos tér
+3592,Márton Áron tér
+3592,Szent János Kórház
+3598,Királyhágó tér
+3598,Márton Áron tér
+3598,Városmajor
+3598,Szent János Kórház
+3598,Vas Gereben utca
+3598,Széll Kálmán tér
+3598,Süveg utca
+3598,Apor Vilmos tér
+3598,Kiss János altábornagy utca
+3598,Déli pályaudvar
+3598,Liptó utca
+3598,Nyúl utca
+3598,Zólyomi lépcső
+3598,Farkasréti temető
+3598,Kék Golyó utca
+3600,Művész út
+3600,Városkút
+3600,Szent János Kórház
+3600,Adonis utca
+3600,Esze Tamás iskola
+3600,Orgonás
+3600,Svábhegy
+3600,"Széchenyi-hegy, Gyermekvasút"
+3600,Városmajor
+3600,Erdei iskola
+3610,Nagyenyed utca
+3610,Kelemen László utca
+3610,Zuhatag sor
+3610,Csörsz utca
+3610,Tas vezér utca
+3610,Völgy utca
+3610,Móricz Zsigmond körtér
+3610,Déli pályaudvar
+3610,Királyhágó utca
+3610,Városmajor
+3610,Nagyajtai utca
+3610,Pető Intézet (Villányi út)
+3610,Szent János Kórház
+3610,Széll Kálmán tér
+3610,Heinrich István utca
+3610,Akadémia
+3610,Hűvösvölgy
+3610,Vadaskerti utca
+3610,BAH-csomópont
+3610,Alsóhegy utca
+3610,Budaörsi út / Villányi út
+3610,Budagyöngye
+3610,Nyúl utca
+3610,Szüret utca
+3610,Nagyhíd
+3620,Élessarok
+3620,Kőbányai út / Könyves Kálmán körút
+3620,Örs vezér tere
+3620,Szugló utca / Nagy Lajos király útja
+3620,Fűrész utca
+3620,Öv utca
+3620,Ónodi utca
+3620,Jeszenák János utca
+3620,II. János Pál pápa tér
+3620,Nagy Lajos király útja / Czobor utca
+3620,Bosnyák tér
+3620,Terebesi utca
+3620,Magdolna utca
+3620,Tóth István utca
+3620,Kőbánya alsó vasútállomás
+3620,Blaha Lujza tér
+3620,Egressy tér
+3620,Kerékgyártó utca
+3620,Kőbányai út 21.
+3620,Mázsa utca
+3620,"Rákospalota,ÁV-telep"
+3620,Egészségház
+3620,Miskolci utca
+3620,Orczy tér
+3620,Rákospatak utca
+3620,Tihamér utca
+3620,Fehér úti ipari park
+3620,Teleki László tér
+3620,Eiffelűhelyház
+3620,Szent László tér
+3620,Kőbányai út 31.
+3620,Pongrátz Gergely tér
+3621,Öv utca
+3621,Ónodi utca
+3621,Rákospatak utca
+3621,Élessarok
+3621,Fűrész utca
+3621,Szent László tér
+3621,Örs vezér tere
+3621,"Rákospalota,ÁV-telep"
+3621,Nagy Lajos király útja / Czobor utca
+3621,Szugló utca / Nagy Lajos király útja
+3621,Miskolci utca
+3621,Terebesi utca
+3621,Kerékgyártó utca
+3621,Tihamér utca
+3621,Jeszenák János utca
+3621,Pongrátz Gergely tér
+3621,Bosnyák tér
+3621,Egressy tér
+3621,Tóth István utca
+3621,Fehér úti ipari park
+3621,Kőbánya alsó vasútállomás (Mázsa tér)
+3621,Kőbánya alsó vasútállomás
+3690,Vásárcsarnok
+3690,Fűrész utca
+3690,Bosnyák tér
+3690,"Rákospalota,ÁV-telep"
+3690,Öv utca
+3690,Rákospatak utca
+3690,"Újpalota, Erdőkerülő utca"
+3690,Kerékgyártó utca
+3690,Laky Adolf utca
+3690,Fő tér
+3690,Miskolci utca
+3690,Zugló kocsiszín (kapu)
+3690,"Erzsébet királyné útja, aluljáró"
+3690,Sárfű utca
+3690,Szerencs utca / Bánkút utca
+3690,Mexikói út
+3690,Tóth István utca
+3690,Nagy Lajos király útja / Czobor utca
+3698,Bosnyák tér
+3698,Tóth István utca
+3698,Rákospatak utca
+3698,Fő tér
+3698,"Újpalota, Erdőkerülő utca"
+3698,Zugló kocsiszín (kapu)
+3698,Nagy Lajos király útja / Czobor utca
+3698,Mexikói út
+3698,Fűrész utca
+3698,Öv utca
+3698,"Erzsébet királyné útja, aluljáró"
+3698,Vásárcsarnok
+3698,Sárfű utca
+3698,Kerékgyártó utca
+3698,Miskolci utca
+3698,Laky Adolf utca
+3698,Szerencs utca / Bánkút utca
+3698,"Rákospalota,ÁV-telep"
+4700,Lövölde tér
+4700,Andrássy út (Opera)
+4700,Kossuth Lajos tér
+4700,Akácfa utca
+4700,Damjanich utca / Dózsa György út
+4700,"Erzsébet királyné útja, aluljáró"
+4700,Nefelejcs utca / Damjanich utca
+4700,Báthory utca / Bajcsy-Zsilinszky út
+4700,Közlekedésiúzeum
+4700,Reformáció park
+4700,Izabella utca / Király utca
+4700,Zichy Jenő utca
+4700,Olof Palme sétány
+4700,Király utca / Erzsébet körút
+4700,Dvořák sétány
+4724,Szent István Bazilika
+4724,Csobánc utca
+4724,Astoria
+4724,Arany János utca
+4724,Deák Ferenc tér
+4724,Szentkirályi utca
+4724,Széchenyi fürdő
+4724,Vakok Intézete
+4724,Munkácsyihály utca
+4724,Közlekedésiúzeum
+4724,Ferdinánd híd (Izabella utca)
+4724,Kálvária tér
+4724,Rippl-Rónai utca
+4724,Harminckettesek tere
+4724,Báthory utca / Bajcsy-Zsilinszky út
+4724,Állatkert
+4724,Stefánia út / Thököly út
+4724,Nyugati pályaudvar
+4724,Bethesda utca
+4724,Zugló vasútállomás (Hermina út)
+4724,Muzsikus cigányok parkja
+4724,Kós Károly sétány
+4724,Kálvin tér
+4724,Horváthihály tér
+4724,Honvédkórház
+4724,Bajza utca
+4724,Szinyeierse utca
+4724,Orczy út
+4724,Orczy tér
+4728,Szent István Bazilika
+4728,Munkácsyihály utca
+4728,Orczy út
+4728,Orczy tér
+4728,Széchenyi fürdő
+4728,Szentkirályi utca
+4728,Báthory utca / Bajcsy-Zsilinszky út
+4728,Nyugati pályaudvar
+4728,Bethesda utca
+4728,Bajza utca
+4728,Csobánc utca
+4728,Harminckettesek tere
+4728,Muzsikus cigányok parkja
+4728,Horváthihály tér
+4728,Arany János utca
+4728,Vakok Intézete
+4728,Ferdinánd híd (Izabella utca)
+4728,Közlekedésiúzeum
+4728,Kós Károly sétány
+4728,Astoria
+4728,Zugló vasútállomás (Hermina út)
+4728,Rippl-Rónai utca
+4728,Szinyeierse utca
+4728,Állatkert
+4728,Kálvin tér
+4728,Kálvária tér
+4728,Stefánia út / Thököly út
+4728,Honvédkórház
+4728,Deák Ferenc tér
+4734,Munkás utca
+4734,Rózsák tere
+4734,Andrássy út (Vörösmarty utca)
+4734,Izabella utca / Király utca
+4734,Arany János utca
+4734,Ferdinánd híd (Izabella utca)
+4734,Báthory utca / Bajcsy-Zsilinszky út
+4734,Rózsa utca
+4734,Wesselényi utca / Izabella utca
+4734,Keleti pályaudvar
+4734,Nyugati pályaudvar
+4734,Deák Ferenc tér
+4734,Dob utca
+4734,Szent István Bazilika
+4734,Rottenbiller utca / István utca
+4734,Péterfy Sándor utca
+4740,Nefelejcs utca / István utca
+4740,Kassai tér
+4740,Nezsider park
+4740,Ötvenhatosok tere (István utca)
+4740,Nyár utca
+4740,Almássy tér
+4740,Wesselényi utca / Erzsébet körút
+4740,Szövetség utca
+4740,Róna park
+4740,Rózsa utca
+4740,Bethesda utca
+4740,Ötvenhatosok tere
+4740,Sárrét park
+4740,Blaha Lujza tér
+4740,Astoria
+4740,Dembinszky utca
+4740,Közlekedésiúzeum
+4740,Amerikai út (Mexikói út)
+4740,Szőnyi út
+4740,Vakok Intézete
+4740,Nagy Diófa utca
+4740,Teleki Blanka utca
+4740,Zichy Géza utca
+4740,Rottenbiller utca / István utca
+4740,Rózsák tere
+4740,Pándorfalu utca
+4740,Nefelejcs utca
+4740,Csáktornya park
+4741,Sárrét park
+4741,Teleki Blanka utca
+4741,Szőnyi út
+4741,Pándorfalu utca
+4741,Csáktornya park
+4741,Róna park
+4741,Mexikói út
+4741,Nezsider park
+4741,Kassai tér
+4750,Radnótiiklós utca
+4750,Vág utca
+4750,Szobránc köz
+4750,Dózsa György út
+4750,Damjanich utca / Dózsa György út
+4750,Kassák Lajos utca
+4750,Hősök tere
+4750,Zichy Géza utca
+4750,Jászaiari tér
+4750,Stefánia út / Thököly út
+4750,Egressy út / Stefánia út
+4750,Puskás Ferenc Stadion
+4750,Vágány utca / Dózsa György út
+4750,Szent István park
+4750,Lehel utca / Dózsa György út
+4750,Ötvenhatosok tere
+4750,Ipoly utca
+4750,Dráva utca
+4750,Dembinszky utca
+4750,Benczúr utca
+4758,Damjanich utca / Dózsa György út
+4758,Huszár utca
+4758,Zichy Géza utca
+4758,Vágány utca / Dózsa György út
+4758,Lehel utca / Dózsa György út
+4758,Szent István park
+4758,Puskás Ferenc Stadion
+4758,Vág utca
+4758,Radnótiiklós utca
+4758,Dózsa György út
+4758,Arenaall bevásárlóközpont
+4758,Kassák Lajos utca
+4758,Blaha Lujza tér
+4758,Ötvenhatosok tere
+4758,Jászaiari tér
+4758,Stefánia út / Thököly út
+4758,Keleti pályaudvar
+4758,Ipoly utca
+4758,Dráva utca
+4758,Gumigyár
+4758,Egressy út / Stefánia út
+4758,Benczúr utca
+4758,Dembinszky utca
+4758,Hősök tere
+4758,Szobránc köz
+4760,Lehel tér
+4760,Andrássy út (Vörösmarty utca)
+4760,Jászaiari tér
+4760,Izabella utca / Király utca
+4760,Wesselényi utca / Izabella utca
+4760,Munkás utca
+4760,Victorugo utca
+4760,Rózsák tere
+4760,Csanády utca (Lehel tér)
+4760,Rózsa utca
+4760,Péterfy Sándor utca
+4760,Szent István park
+4760,Rottenbiller utca / István utca
+4760,Ferdinánd híd (Izabella utca)
+4760,Hegedűs Gyula utca
+4760,Keleti pályaudvar
+4760,Dob utca
+4760,Radnótiiklós utca
+4768,Hegedűs Gyula utca
+4768,Wesselényi utca / Izabella utca
+4768,Rottenbiller utca / István utca
+4768,Jászaiari tér
+4768,Rózsa utca
+4768,Szent István park
+4768,Ferdinánd híd (Izabella utca)
+4768,Radnótiiklós utca
+4768,Keleti pályaudvar
+4768,Munkás utca
+4768,Rózsák tere
+4768,Blaha Lujza tér
+4768,Andrássy út (Vörösmarty utca)
+4768,Péterfy Sándor utca
+4768,Dob utca
+4768,Huszár utca
+4768,Victorugo utca
+4768,Izabella utca / Király utca
+4768,Csanády utca (Lehel tér)
+4768,Lehel tér
+4770,Róna utca
+4770,Kála utca
+4770,Cinkotai út /ogyoródi út
+4770,Öv utca /ogyoródi út
+4770,Egressy tér
+4770,Posta Járműtelep
+4770,Törökőr utca
+4770,Miskolci utca / Szugló utca
+4770,Rákosmezei tér
+4770,Puskás Ferenc Stadion
+4770,Szugló utca / Cinkotai út
+4770,Egressy út / Vezér utca
+4770,Egressy út / Stefánia út
+4770,Öv utca / Egressy út
+4770,Komócsy utca
+4770,Szobránc köz
+4770,Egressy út /ungária körút
+4770,Gvadányi utca
+4770,Turán utca
+4778,Puskás Ferenc Stadion
+4778,Huszár utca
+4778,Komócsy utca
+4778,Turán utca
+4778,Egressy út /ungária körút
+4778,Szugló utca / Cinkotai út
+4778,Miskolci utca / Szugló utca
+4778,Róna utca
+4778,Egressy út / Vezér utca
+4778,Blaha Lujza tér
+4778,Keleti pályaudvar
+4778,Egressy tér
+4778,Gvadányi utca
+4778,Egressy út / Stefánia út
+4778,Törökőr utca
+4778,Kála utca
+4778,Posta Járműtelep
+4778,Öv utca / Egressy út
+4778,Gumigyár
+4778,Arenaall bevásárlóközpont
+4778,Szobránc köz
+4778,Cinkotai út /ogyoródi út
+4778,Rákosmezei tér
+4778,Öv utca /ogyoródi út
+4780,Bethlen Gábor tér
+4780,Kossuth Lajos tér
+4780,Nefelejcs utca / Damjanich utca
+4780,Andrássy út (Opera)
+4780,Király utca / Erzsébet körút
+4780,Izabella utca / Király utca
+4780,Zichy Jenő utca
+4780,Nefelejcs utca / István utca
+4780,Báthory utca / Bajcsy-Zsilinszky út
+4780,Lövölde tér
+4780,Bethlen Gábor utca
+4780,Reformáció park
+4780,Akácfa utca
+4780,Keleti pályaudvar
+4794,Cserhát utca
+4794,Népfürdő utca / Árpád híd
+4794,Kassák Lajos utca
+4794,Dózsa György út
+4794,Munkás utca
+4794,Rottenbiller utca / István utca
+4794,Ötvenhatosok tere (István utca)
+4794,Lehel utca / Dózsa György út
+4794,Sporttelep
+4794,Vágány utca / Dózsa György út
+4794,Péterfy Sándor utca
+4794,Ötvenhatosok tere
+4794,Dagály utcai lakótelep
+4794,Damjanich utca / Dózsa György út
+4794,Viza utca
+4794,Hősök tere
+4794,Párkány utca
+4794,Dagály fürdő
+4794,Dembinszky utca
+4794,Dráva utca
+4794,Nefelejcs utca / István utca
+4794,Keleti pályaudvar
+4794,Benczúr utca
+4800,Zsálya utca
+4800,Őrnagy utca
+4800,Örs vezér tere
+4800,Ond vezér útja / Szentmihályi út
+4800,Csertő utca
+4800,Róna utca
+4800,Várna utca
+4800,Puskás Ferenc Stadion
+4800,Zsivora park
+4800,Füredi utca / Ond vezér útja
+4800,Pongrátz Gergely tér
+4800,Pillangó utca
+4800,Fischer István utca
+4800,Kaffkaargit utca
+4800,Vezér utca / Fogarasi út
+4800,Mályva utca
+4800,Arenaall bevásárlóközpont
+4800,Füredi utca / Szentmihályi út
+4800,Gumigyár
+4800,Ond vezér park
+4800,Újváros park
+4800,Keleti pályaudvar
+4801,Csertő utca
+4801,Pongrátz Gergely tér
+4801,Vezér utca / Fogarasi út
+4801,Őrnagy utca
+4801,Róna utca
+4801,Újváros park
+4801,Gumigyár
+4801,Arenaall bevásárlóközpont
+4801,Pillangó utca
+4801,Mályva utca
+4801,Puskás Ferenc Stadion
+4801,Keleti pályaudvar
+4801,Várna utca
+4801,Zsálya utca
+4801,Kaffkaargit utca
+4801,Fischer István utca
+4808,Puskás Ferenc Stadion
+4808,Keleti pályaudvar
+4808,Pillangó utca
+4808,Pongrátz Gergely tér
+4808,Ond vezér útja / Szentmihályi út
+4808,Kaffkaargit utca
+4808,Zsálya utca
+4808,Örs vezér tere
+4808,Blaha Lujza tér
+4808,Ond vezér park
+4808,Zsivora park
+4808,Róna utca
+4808,Füredi utca / Ond vezér útja
+4808,Fischer István utca
+4808,Újváros park
+4808,Őrnagy utca
+4808,Arenaall bevásárlóközpont
+4808,Mályva utca
+4808,Várna utca
+4808,Vezér utca / Fogarasi út
+4808,Füredi utca / Szentmihályi út
+4808,Gumigyár
+4808,Huszár utca
+4808,Csertő utca
+4810,Zsálya utca
+4810,Fischer István utca
+4810,Ond vezér útja / Szentmihályi út
+4810,Örs vezér tere
+4810,Újváros park
+4810,Zsivora park
+4810,Ond vezér park
+4810,Füredi utca / Ond vezér útja
+4810,Füredi utca / Szentmihályi út
+4810,Csertő utca
+4820,Fűrész utca / Szugló utca
+4820,Mexikói út
+4820,Erzsébet királyné útja / Róna utca
+4820,Szugló utca / Nagy Lajos király útja
+4820,Tihamér utca
+4820,Vezér utca
+4820,Kassai tér
+4820,Tisza István tér
+4820,Teleki Blanka utca
+4820,Uzsoki Utcai Kórház
+4820,Mogyoródi út
+4820,Gödöllői utca
+4820,Komócsy utca
+4820,Örs vezér tere
+4820,Fogarasi út
+4820,Füredi utca
+4820,Egressy út / Vezér utca
+4820,Szugló utca / Róna utca
+4820,Szőnyi út
+4820,Álmos vezér útja
+4830,Orczy út
+4830,Közraktár utca
+4830,Csobánc utca
+4830,Üllői út
+4830,Ráday utca
+4830,Kálvin tér
+4830,Kálvária tér
+4830,Szentkirályi utca
+4830,Harminckettesek tere
+4830,Fővám tér
+4830,Horváthihály tér
+4830,Muzsikus cigányok parkja
+4830,Orczy tér
+4838,Üllői út
+4838,Csobánc utca
+4838,Orczy tér
+4838,Orczy út
+4838,Ráday utca
+4838,Horváthihály tér
+4838,Harminckettesek tere
+4838,Kálvária tér
+4838,Fővám tér
+4838,Muzsikus cigányok parkja
+4838,Kálvin tér
+4838,Közraktár utca
+4838,Szentkirályi utca
+5100,Vörösmarty utca
+5100,Deák Ferenc tér
+5100,Mexikói út
+5100,Bajcsy-Zsilinszky út
+5100,Opera
+5100,Kodály körönd
+5100,Bajza utca
+5100,Vörösmarty tér
+5100,Széchenyi fürdő
+5100,Hősök tere
+5100,Oktogon
+5200,Pillangó utca
+5200,Keleti pályaudvar
+5200,Széll Kálmán tér
+5200,Batthyány tér
+5200,Blaha Lujza tér
+5200,Puskás Ferenc Stadion
+5200,Deák Ferenc tér
+5200,Kossuth Lajos tér
+5200,Déli pályaudvar
+5200,Astoria
+5300,Gyöngyösi utca
+5300,Dózsa György út
+5300,Újpest-városkapu
+5300,Forgách utca
+5300,Lehel tér
+5300,Göncz Árpád városközpont
+5300,Újpest-központ
+5301,Kőbánya-Kispest
+5301,Nagyvárad tér
+5301,Népliget
+5301,Határ út
+5301,Pöttyös utca
+5301,Ecseri út
+5400,Rákóczi tér
+5400,Móricz Zsigmond körtér
+5400,Kelenföld vasútállomás
+5400,Fővám tér
+5400,Újbuda-központ
+5400,Bikás park
+5400,II. János Pál pápa tér
+5400,Keleti pályaudvar
+5400,Szent Gellért tér -űegyetem
+5400,Kálvin tér
+6100,Rákosfalva
+6100,"Gödöllő, Szabadság tér"
+6100,Mogyoród
+6100,"Kistarcsa, kórház"
+6100,"Mátyásföld, Imre utca"
+6100,Gödöllő
+6100,Nagyicce
+6100,Kerepes
+6100,Ilonatelep
+6100,Szentjakab
+6100,Cinkota
+6100,Zsófialiget
+6100,"Mátyásföld, repülőtér"
+6100,Kistarcsa
+6100,"Gödöllő, Erzsébet park"
+6100,Szilasliget
+6100,Örs vezér tere
+6100,Sashalom
+6100,Mátyásföld alsó
+6100,"Gödöllő, Palotakert"
+6130,Nagyicce
+6130,Örs vezér tere
+6130,Cinkota
+6130,"Mátyásföld, Imre utca"
+6130,Rákosfalva
+6130,"Mátyásföld, repülőtér"
+6130,Sashalom
+6130,Mátyásföld alsó
+6150,Cinkota alsó
+6150,Cinkota
+6150,Sashalom
+6150,Szabadságtelep
+6150,Árpádföld
+6150,Rákosfalva
+6150,"Mátyásföld, Imre utca"
+6150,Örs vezér tere
+6150,Mátyásföld alsó
+6150,Nagyicce
+6150,"Mátyásföld, repülőtér"
+6200,Pesterzsébet felső
+6200,Angyalisziget
+6200,Dunaharaszti külső
+6200,Szigetszentmiklós
+6200,Szigethalom
+6200,Szigethalom alsó
+6200,Tököl
+6200,Horgásztanyák
+6200,Szigetszentmiklós-Gyártelep
+6200,Szent István utca
+6200,Millenniumtelep
+6200,Szigetszentmárton-Szigetújfalu
+6200,Soroksár felső
+6200,Szigetszentmiklós alsó
+6200,Szigetcsép
+6200,Kén utca
+6200,Dunaharaszti felső
+6200,József Attila-telep
+6200,Torontál utca
+6200,"Soroksár,ősök tere"
+6210,Kén utca
+6210,Szent István utca
+6210,Torontál utca
+6210,Tököl
+6210,"Soroksár,ősök tere"
+6210,Szigetszentmiklós
+6210,Szigethalom
+6210,Dunaharaszti külső
+6210,József Attila-telep
+6210,Szigetszentmiklós alsó
+6210,Soroksár felső
+6210,Szigethalom alsó
+6210,Millenniumtelep
+6210,Dunaharaszti felső
+6210,Pesterzsébet felső
+6210,Szigetszentmiklós-Gyártelep
+6230,Pesterzsébet felső
+6230,"Soroksár,ősök tere"
+6230,Torontál utca
+6230,Szent István utca
+6230,Soroksár felső
+6230,Millenniumtelep
+6230,Dunaharaszti felső
+6230,Dunaharaszti külső
+6300,Szabadkikötő
+6300,Kvassay híd
+6300,Csepel
+6300,Karácsony Sándor utca
+6300,Szent Imre tér
+6400,"Budakalász, Lenfonó"
+6400,Szentlélek tér
+6400,Tímár utca
+6400,Budakalász
+6400,Pomáz
+6400,Kaszásdűlő
+6400,"Margit híd, budai hídfő"
+6400,Filatorigát
+6400,Pannóniatelep
+6400,Békásmegyer
+6400,Szépvölgyi út
+6400,Aquincum
+6400,Rómaifürdő
+6400,Szentistvántelep
+6400,Csillaghegy
+6470,Rómaifürdő
+6470,Aquincum
+6470,Tímár utca
+6470,Békásmegyer
+6470,Csillaghegy
+6470,Filatorigát
+6470,Szépvölgyi út
+6470,Szentlélek tér
+6470,Kaszásdűlő
+6470,"Margit híd, budai hídfő"
+8110,Kopaszi-gát - BudaPart
+8110,Kossuth Lajos tér
+8110,Szent Gellért tér -űegyetem
+8110,Haller utca
+8110,Batthyány tér
+8110,Jászaiari tér (Margit híd)
+8110,"Újpest, Árpád út"
+8110,Egyetemváros - A38
+8110,Népfürdő utca / Árpád híd
+8110,Müpa - Nemzeti Színház
+8110,Boráros tér
+8110,Petőfi tér (Erzsébet híd)
+8110,Meder utca
+8140,Csepel-Királyerdő
+8140,"Soroksár,olnár-sziget"
+HP63,Közvágóhíd
+HP63,Müpa - Nemzeti Színház
+HP63,Boráros tér
+HP63,Kvassay híd
+MP53,Corvin-negyed
+MP53,Ecseri út
+MP53,Pöttyös utca
+MP53,Lehel tér
+MP53,Kálvin tér
+MP53,Semmelweis Klinikák
+MP53,Arany János utca
+MP53,Nyugati pályaudvar
+MP53,Határ út
+MP53,Deák Ferenc tér
+MP53,Kőbánya-Kispest
+MP53,Nagyvárad tér
+MP53,Astoria
+MP53,Népliget
+MP538,Lehel tér
+MP538,Nyugati pályaudvar
