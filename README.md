@@ -73,26 +73,56 @@ Overall it is nice to see that the intuition is confirmed by these plots. (Well-
 
 One of the most important properties of any network is its degree distribution. In the case of the **"routes network"** *p(k)* gives the probability, that given I'm sitting on a random route what is the chance that I can transfer to *k* number of other routes? For the **"stops network"** *p(k)* answers the question, what is the chance that given I'm at a random stop to be able to go to *k* number of stops without a transfer?
 
-To obtain these distributions all we need to do, is to count how many nodes are there with k degree. First we should know the degree of each node, this is done through **route_degree.sql** and **stop_degree.sql**. The results of these queries can then be processed by **degree_distr.ipynb** using **matplotlib.pyplot.hist()**. Determining the average degree is just a simple select query, where we take the average of the node degree table.
+To obtain these distributions all we need to do, is to count how many nodes are there with k degree. First we should know the degree of each node, this is done through **route_degree.sql** and **stop_degree.sql**. Then the simple histogram is made. These don't look attractive, so within **degree_distr.ipynb** using **matplotlib.pyplot.hist()** histograms with bigger bin sizes were used, to have a easier to understand figure from the degree distribution. Determining the average degree is just a simple select query, where we take the average of the node degree table.
 
 <img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_degrees_daytime.png"/>
 
 <img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_degrees_nighttime.png"/>
 
-<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/stop_degrees_daytime.png"/>
+<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/stop_degrees_daytime.png/">
 
 From these we can tell, that the distribution of the routes is - while not normal - well described by it's average degree, meaning most routes have more-or-less the same number of transfers, with no huge hubs.
 Contrary to this, the stops have a power-law-like behavior that is not well described by the average degree. We can also tell, that there is a distinct $k_{min}$ which should correspond to the minimum number of stops it takes to make a route. (Of course this is somewhat contorted by the fact that there are shorter routes, which likely correspond to routes headed for garages and such.) Hub-like behavior also seem to be present here.
 
 ## Clustering
 
-WORK IN PROGRESS
+The clustering metric tells us whether the network contains tightly knit groups, however there are two definitions: Global clustering (C) is defined by
+$$
+C = \frac{number of triangles present in the network}{number of possible triangles in the network}
+$$
+Local clustering coefficient tells us how clustered are the nodes near a given node:
+$$
+C_i = \frac{2*L_i}{k_i(k_i-1}
+$$
+Where $L_i$ is the number of links between the neighbors of node $i$. This also can be translated to how many triangles node i is part of vs. how many it could be part of.
+Thus the first aims to make a t able that contains all triangles in the network. (**route_triangles.sql**,**stop_tringles.sql**) This is achieved through finding the second neighbors of each node (while making sure the initial node isn't marked as a second neighbor) then getting those third neighbors, which coincide with the initial node completing the triangle. By looking at the length of the list, and calculating the number of possible triangles the global clustering coefficient is obtained. Next to calculate the local clustering I ordered the triangles and counted how many are there for a given node. (Which was then diveded by the num of possible triangles given by the node degree.) This process turned out to scale as $N^2$ with the number of triangles in the network, which is problematic for the stops network, as it contains over 5 million triangles, and so I did not obtain the local clustering for the stops network, as I'm not comfortable with letting my machine run for roughly 50 hours.
+
+<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_clustering_daytime.png"/>
+
+<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_clustering_nighttime.png"/>
+
+The visualization was done in **clustering.ipynb** we can see, that the nighttime routes are more clustered, than the daytime ones, and that the global clustering is lower for both cases, than the average local clustering. The global clustering for the stops network was **0.436** making it the least clustered from the three.
 
 ## Degree Correlations
 
-WORK IN PROGRESS
+The final metric to be considered in this project is the measuring of degree correlations within a network. Here the question is, whether high degree nodes like to connect to each other, or do they avoid each other?In assortative networks tend to link hubs together, in disassortative networks hubs avoid linking. In neutral networks there is no preference. To measure assortativity we'll use the degree correlation function defined by
+$$
+k_{nn}(k_i) = \frac{1}{k_i}\sum_{j=1}^{N} A_{ij}k_j
+$$
+Where $k$-s are the node degrees, and $A_ij$ is the adjacency matrix. In a neutral network this function is constant and takes the value $$\frac{<k^2>}{<k>}$$.
 
-## Interesting future questions
+These calculations were carried out within **route_correlations.sql** and **stop_correlations.sql**. First I modified the link list table, to contain the degree of the nodes at each end. Since the adjecency matrix is 0 if there is no link and 1 if there is (for unweighted networks) by summing over the degrees on one end for a given node in the modified link list we'll get the same result as $\sum_{j=1}^{N} A_{ij}k_j$ and then it just have to be divided by the node degree for the given node. The results were visualized by **degree_correlations.ipynb**.
+
+<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_deg_corr_daytime.png"/>
+
+<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_deg_corr_nighttime.png"/>
+
+<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/stop_deg_corr_daytime.png"/>
+
+Comparing these to the typical [example](http://networksciencebook.com/images/ch-07/figure-7-6.jpg) of the different network types it's hard to give conclusive answers on assortativity. We can see, that in the low-k range the degree correlation function fluctuates wildly, while for high k-s it tend to go towards the neutral line.
+
+
+## Interesting Future Questions
 
 * The stops network contains clear clusters/communities that we know correspond to the lines they are part of, with of course one stop being able to be part of multiple lines. (This is often called fuzzy clustering.) Since we have good knowledge on this network it could be used as a benchmark for fuzzy clustering algorithms.
 
@@ -100,8 +130,18 @@ WORK IN PROGRESS
 
 * Could we get a random network that behaves similarly as the routes network?
 
+## Closing Remarks
+
+In this project I showed, how differently a bipartite network's sub-networks behave, and have quite distinct degree distributions, clustering, and degree correlation behavior. It was also advantageous to separate the nighttime routes into a smaller network, as it allowed me to quickly prototype the different queries and code needed to tackle each part.
+
 ## On the usage of Python in this project
 
-While a goal of this project is to familiarize myself with SQL in Network Science, there are certain problems that cannot be solved with pure SQL. For this purpose exist procedural languages like "PostgreSQL PL/pgSQL" using loops within these is as slow as in any other language. And thus for example in Python the usage of robust libraries makes for a more efficient workflow, than trying to implement something in PL/pgSQL. I strived to use SQL for it's strengths in this project, while patching with shortcoming in Python.
+While a goal of this project is to familiarize myself with SQL in Network Science, there are certain problems that cannot be solved with pure SQL. For this purpose exist procedural languages like "PostgreSQL PL/pgSQL", but using loops within these is as slow as in any other language. And thus for example in Python the usage of robust libraries makes for a more efficient workflow, than trying to implement something in PL/pgSQL. I strived to use SQL for it's strengths in this project, while patching its shortcomings in Python.
 
 Of course in the future it's better to use SQL through Python (multiple packages available for that purpose), and that wouldn't require to save queries and load them in a .py, resulting in a confusing mess of files...
+
+## Sources
+
+* Data - From the [BKK Website](https://bkk.hu/apps/gtfs/) 
+
+* Albert-László Barabási: [Network Science](http://networksciencebook.com/)
