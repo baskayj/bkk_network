@@ -99,8 +99,8 @@ The visualization was done in **clustering.ipynb** we can see, that the nighttim
 
 ## Degree Correlations
 
-The final metric to be considered in this project is the measuring of degree correlations within a network. Here the question is, whether high degree nodes like to connect to each other, or do they avoid each other?In assortative networks tend to link hubs together, in disassortative networks hubs avoid linking. In neutral networks there is no preference. To measure assortativity we'll use the degree correlation function defined by *k_nn(k_i) = (1/k_i) \sum (j=1)to(N) A_ij k_j *
-Where *k*-s are the node degrees, and *A_ij* is the adjacency matrix. In a neutral network this function is constant and takes the value *(<k^2>)*/*(<k>)*.
+The final metric to be considered in this project is the measuring of degree correlations within a network. Here the question is, whether high degree nodes like to connect to each other, or do they avoid each other?In assortative networks tend to link hubs together, in disassortative networks hubs avoid linking. In neutral networks there is no preference. To measure assortativity we'll use the degree correlation function defined by *k_nn(k_i)=(1/k_i)sum(j=1)to(N)A_ijk_j*
+Where *k*-s are the node degrees, and *A_ij* is the adjacency matrix. In a neutral network this function is constant and takes the value *(<k^2>)*/*(<k^1>)*.
 
 These calculations were carried out within **route_correlations.sql** and **stop_correlations.sql**. First I modified the link list table, to contain the degree of the nodes at each end. Since the adjecency matrix is 0 if there is no link and 1 if there is (for unweighted networks) by summing over the degrees on one end for a given node in the modified link list we'll get the same result as *\sum (j=1)to(N) A_ij k_j* and then it just have to be divided by the node degree for the given node. The results were visualized by **degree_correlations.ipynb**.
 
