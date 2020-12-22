@@ -3,8 +3,18 @@ SELECT DISTINCT stop_1, (SELECT SUM(weight) FROM stop_w_links_daytime t2 WHERE t
     INTO stop_degree_daytime
     FROM stop_w_links_daytime t1
     ORDER BY stop_1;
--- For this case the calculation was especially slow it took over 15 mins
--- Feeding the result to plt.hist we shall obtain the degree distribution
+
+SELECT DISTINCT t1.degree, (SELECT count(t2.degree) FROM stop_degree_daytime t2 WHERE t2.degree=t1.degree) AS pk
+    INTO tmp
+    FROM stop_degree_daytime t1
+    ORDER BY t1.degree;
+
+SELECT degree, pk/(SELECT SUM(t2.pk) FROM tmp t2) AS pk
+INTO stop_degree_distr_daytime
+FROM tmp;
+
+DROP TABLE tmp;
+
 
 -- The average degree:
 --SELECT AVG(t3.degree)

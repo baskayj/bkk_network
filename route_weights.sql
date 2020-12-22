@@ -1,7 +1,7 @@
 -- Now that we have the link list, we have to eliminate duplicate links by adding a "weight" column
 -- It'll help in calculating the node degree, for example, since it's easy to sum up ones
 
--- DAYTIME
+-- DAYTIME--------------------------------------------------------------------------------------------------------------
 CREATE TABLE route_links_daytime (route_1 VARCHAR(10),
                     route_2 VARCHAR(10));
 
