@@ -86,10 +86,16 @@ Contrary to this, the stops have a power-law-like behavior that is not well desc
 
 ## Clustering
 
-The clustering metric tells us whether the network contains tightly knit groups, however there are two definitions: Global clustering (C) is defined by *C = (number of triangles present in the network})/(number of possible triangles in the network)*
-Local clustering coefficient tells us how clustered are the nodes near a given node: *C_i = (2L_i)/(k_i(k_i-1))*
-Where *L_i* is the number of links between the neighbors of node *i*. This also can be translated to how many triangles node i is part of vs. how many it could be part of.
-Thus the first aims to make a t able that contains all triangles in the network. (**route_triangles.sql**,**stop_tringles.sql**) This is achieved through finding the second neighbors of each node (while making sure the initial node isn't marked as a second neighbor) then getting those third neighbors, which coincide with the initial node completing the triangle. By looking at the length of the list, and calculating the number of possible triangles the global clustering coefficient is obtained. Next to calculate the local clustering I ordered the triangles and counted how many are there for a given node. (Which was then diveded by the num of possible triangles given by the node degree.) This process turned out to scale as *N^2* with the number of triangles in the network, which is problematic for the stops network, as it contains over 5 million triangles, and so I did not obtain the local clustering for the stops network, as I'm not comfortable with letting my machine run for roughly 50 hours.
+The clustering metric tells us whether the network contains tightly knit groups, however there are two definitions: Global clustering (C) is defined by
+
+<img src="https://latex.codecogs.com/png.latex?C%20%3D%20%5Cfrac%7Bnumber%5C%20of%5C%20triangles%5C%20present%5C%20in%5C%20the%5C%20network%7D%7Bnumber%5C%20of%5C%20possible%5C%20triangles%5C%20in%5C%20the%5C%20network%7D">
+
+Local clustering coefficient tells us how clustered are the nodes near a given node:
+
+<img src="https://latex.codecogs.com/png.latex?C_i%20%3D%20%5Cfrac%7B2L_i%7D%7Bk_i%28k_i-1%29%7D">
+
+Where <img src="https://latex.codecogs.com/png.latex?L_i"> is the number of links between the neighbors of node *i*. This also can be translated to how many triangles node *i* is part of vs. how many it could be part of.
+Thus the first aims to make a t able that contains all triangles in the network. (**route_triangles.sql**,**stop_tringles.sql**) This is achieved through finding the second neighbors of each node (while making sure the initial node isn't marked as a second neighbor) then getting those third neighbors, which coincide with the initial node completing the triangle. By looking at the length of the list, and calculating the number of possible triangles the global clustering coefficient is obtained. Next to calculate the local clustering I ordered the triangles and counted how many are there for a given node. (Which was then diveded by the num of possible triangles given by the node degree.) This process turned out to scale as <img src="https://latex.codecogs.com/png.latex?N%5E2"> with the number of triangles in the network, which is problematic for the stops network, as it contains over 5 million triangles, and so I did not obtain the local clustering for the stops network, as I'm not comfortable with letting my machine run for roughly 50 hours.
 
 <img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_clustering_daytime.png"/>
 
@@ -99,10 +105,15 @@ The visualization was done in **clustering.ipynb** we can see, that the nighttim
 
 ## Degree Correlations
 
-The final metric to be considered in this project is the measuring of degree correlations within a network. Here the question is, whether high degree nodes like to connect to each other, or do they avoid each other?In assortative networks tend to link hubs together, in disassortative networks hubs avoid linking. In neutral networks there is no preference. To measure assortativity we'll use the degree correlation function defined by *k_nn(k_i)=(1/k_i)sum(j=1)to(N)A_ijk_j*
-Where *k*-s are the node degrees, and *A_ij* is the adjacency matrix. In a neutral network this function is constant and takes the value *(<k^2>)*/*(<k^1>)*.
+The final metric to be considered in this project is the measuring of degree correlations within a network. Here the question is, whether high degree nodes like to connect to each other, or do they avoid each other?In assortative networks tend to link hubs together, in disassortative networks hubs avoid linking. In neutral networks there is no preference. To measure assortativity we'll use the degree correlation function defined by
 
-These calculations were carried out within **route_correlations.sql** and **stop_correlations.sql**. First I modified the link list table, to contain the degree of the nodes at each end. Since the adjecency matrix is 0 if there is no link and 1 if there is (for unweighted networks) by summing over the degrees on one end for a given node in the modified link list we'll get the same result as *\sum (j=1)to(N) A_ij k_j* and then it just have to be divided by the node degree for the given node. The results were visualized by **degree_correlations.ipynb**.
+<img src="https://latex.codecogs.com/png.latex?k_%7Bnn%7D%28k_i%29%3D%5Cfrac%7B1%7D%7Bk_i%7D%5Csum_%7Bj%3D1%7D%5E%7BN%7D%20A_%7Bij%7D%20k_j">
+
+Where *k*-s are the node degrees, and <img src="https://latex.codecogs.com/png.latex?A_%7Bij%7D"> is the adjacency matrix. In a neutral network this function is constant and takes the value
+
+<img src="https://latex.codecogs.com/png.latex?%5Cfrac%7B%3Ck%5E2%3E%7D%7B%3Ck%3E%7D">
+
+These calculations were carried out within **route_correlations.sql** and **stop_correlations.sql**. First I modified the link list table, to contain the degree of the nodes at each end. Since the adjecency matrix is 0 if there is no link and 1 if there is (for unweighted networks) by summing over the degrees on one end for a given node in the modified link list we'll get the same result as <img src="https://latex.codecogs.com/png.latex?%5Csum_%7Bj%3D1%7D%5E%7BN%7D%20A_%7Bij%7D%20k_j"> and then it just have to be divided by the node degree for the given node. The results were visualized by **degree_correlations.ipynb**.
 
 <img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_deg_corr_daytime.png"/>
 
