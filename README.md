@@ -79,23 +79,17 @@ To obtain these distributions all we need to do, is to count how many nodes are 
 
 <img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_degrees_nighttime.png"/>
 
-<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/stop_degrees_daytime.png/">
+<img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/stop_degrees_daytime.png">
 
 From these we can tell, that the distribution of the routes is - while not normal - well described by it's average degree, meaning most routes have more-or-less the same number of transfers, with no huge hubs.
-Contrary to this, the stops have a power-law-like behavior that is not well described by the average degree. We can also tell, that there is a distinct $k_{min}$ which should correspond to the minimum number of stops it takes to make a route. (Of course this is somewhat contorted by the fact that there are shorter routes, which likely correspond to routes headed for garages and such.) Hub-like behavior also seem to be present here.
+Contrary to this, the stops have a power-law-like behavior that is not well described by the average degree. We can also tell, that there is a distinct *k_min* which should correspond to the minimum number of stops it takes to make a route. (Of course this is somewhat contorted by the fact that there are shorter routes, which likely correspond to routes headed for garages and such.) Hub-like behavior also seem to be present here.
 
 ## Clustering
 
-The clustering metric tells us whether the network contains tightly knit groups, however there are two definitions: Global clustering (C) is defined by
-$$
-C = \frac{number of triangles present in the network}{number of possible triangles in the network}
-$$
-Local clustering coefficient tells us how clustered are the nodes near a given node:
-$$
-C_i = \frac{2*L_i}{k_i(k_i-1}
-$$
-Where $L_i$ is the number of links between the neighbors of node $i$. This also can be translated to how many triangles node i is part of vs. how many it could be part of.
-Thus the first aims to make a t able that contains all triangles in the network. (**route_triangles.sql**,**stop_tringles.sql**) This is achieved through finding the second neighbors of each node (while making sure the initial node isn't marked as a second neighbor) then getting those third neighbors, which coincide with the initial node completing the triangle. By looking at the length of the list, and calculating the number of possible triangles the global clustering coefficient is obtained. Next to calculate the local clustering I ordered the triangles and counted how many are there for a given node. (Which was then diveded by the num of possible triangles given by the node degree.) This process turned out to scale as $N^2$ with the number of triangles in the network, which is problematic for the stops network, as it contains over 5 million triangles, and so I did not obtain the local clustering for the stops network, as I'm not comfortable with letting my machine run for roughly 50 hours.
+The clustering metric tells us whether the network contains tightly knit groups, however there are two definitions: Global clustering (C) is defined by *C = (number of triangles present in the network})/(number of possible triangles in the network)*
+Local clustering coefficient tells us how clustered are the nodes near a given node: *C_i = (2L_i)/(k_i(k_i-1))*
+Where *L_i* is the number of links between the neighbors of node *i*. This also can be translated to how many triangles node i is part of vs. how many it could be part of.
+Thus the first aims to make a t able that contains all triangles in the network. (**route_triangles.sql**,**stop_tringles.sql**) This is achieved through finding the second neighbors of each node (while making sure the initial node isn't marked as a second neighbor) then getting those third neighbors, which coincide with the initial node completing the triangle. By looking at the length of the list, and calculating the number of possible triangles the global clustering coefficient is obtained. Next to calculate the local clustering I ordered the triangles and counted how many are there for a given node. (Which was then diveded by the num of possible triangles given by the node degree.) This process turned out to scale as *N^2* with the number of triangles in the network, which is problematic for the stops network, as it contains over 5 million triangles, and so I did not obtain the local clustering for the stops network, as I'm not comfortable with letting my machine run for roughly 50 hours.
 
 <img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_clustering_daytime.png"/>
 
@@ -105,13 +99,10 @@ The visualization was done in **clustering.ipynb** we can see, that the nighttim
 
 ## Degree Correlations
 
-The final metric to be considered in this project is the measuring of degree correlations within a network. Here the question is, whether high degree nodes like to connect to each other, or do they avoid each other?In assortative networks tend to link hubs together, in disassortative networks hubs avoid linking. In neutral networks there is no preference. To measure assortativity we'll use the degree correlation function defined by
-$$
-k_{nn}(k_i) = \frac{1}{k_i}\sum_{j=1}^{N} A_{ij}k_j
-$$
-Where $k$-s are the node degrees, and $A_ij$ is the adjacency matrix. In a neutral network this function is constant and takes the value $$\frac{<k^2>}{<k>}$$.
+The final metric to be considered in this project is the measuring of degree correlations within a network. Here the question is, whether high degree nodes like to connect to each other, or do they avoid each other?In assortative networks tend to link hubs together, in disassortative networks hubs avoid linking. In neutral networks there is no preference. To measure assortativity we'll use the degree correlation function defined by *k_nn(k_i) = (1/k_i) \sum (j=1)to(N) A_ij k_j *
+Where *k*-s are the node degrees, and *A_ij* is the adjacency matrix. In a neutral network this function is constant and takes the value *(<k^2>)/(<k>)*.
 
-These calculations were carried out within **route_correlations.sql** and **stop_correlations.sql**. First I modified the link list table, to contain the degree of the nodes at each end. Since the adjecency matrix is 0 if there is no link and 1 if there is (for unweighted networks) by summing over the degrees on one end for a given node in the modified link list we'll get the same result as $\sum_{j=1}^{N} A_{ij}k_j$ and then it just have to be divided by the node degree for the given node. The results were visualized by **degree_correlations.ipynb**.
+These calculations were carried out within **route_correlations.sql** and **stop_correlations.sql**. First I modified the link list table, to contain the degree of the nodes at each end. Since the adjecency matrix is 0 if there is no link and 1 if there is (for unweighted networks) by summing over the degrees on one end for a given node in the modified link list we'll get the same result as *\sum (j=1)to(N) A_ij k_j* and then it just have to be divided by the node degree for the given node. The results were visualized by **degree_correlations.ipynb**.
 
 <img src="https://raw.githubusercontent.com/baskayj/bkk_network/main/route_deg_corr_daytime.png"/>
 
